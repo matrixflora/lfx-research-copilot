@@ -1,0 +1,4 @@
+theme,paper_count,comparable_studies,common_outcomes,common_interventions,common_measurements,has_sample_sizes,avg_sample_size,evidence_density,feasibility_score,feasibility_level
+"Training, Digital, Health, Jats, Network",9,9,0.778,0.778,0.222,0,0,0.593,0.562,Moderate Feasibility
+"Capacity, Building, Capacity Building, Countries, Development",6,6,0.667,0.833,0.333,0,0,0.611,0.535,Moderate Feasibility
+"Food, Production, Different, Technologies, Demands",4,4,0.75,0.25,0.25,0,0,0.417,0.377,Moderate Feasibility

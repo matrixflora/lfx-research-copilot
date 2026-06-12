@@ -1,0 +1,628 @@
+{
+  "corpus_size": 21,
+  "theme_count": 4,
+  "themes": [
+    {
+      "theme": "Training, Digital, Health, Jats, Network",
+      "keywords": [
+        "Training",
+        "Digital",
+        "Health",
+        "Jats",
+        "Network"
+      ],
+      "paper_count": 9,
+      "papers": [
+        "Education and Training in the Digital Era: A Compass for \u201cBuilding Forward Better\u201d",
+        "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+        "Computer Network Training \"Building Creativity through Wifi Corner Networks in the Digital Era\"",
+        "Building competent IT freshers: modelling digital era training frameworks",
+        "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+        "Digital platforms for development: Foundations and research agenda",
+        "Community health workers at the dawn of a new era: 6. Recruitment, training, and continuing education",
+        "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+        "The SmartAG partner: CCAFS East Africa Bi-Annual Newsletter, July - December 2019"
+      ],
+      "confidence_rank": 1,
+      "confidence": 0.91,
+      "average_theme_strength": 0.9093
+    },
+    {
+      "theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "keywords": [
+        "Capacity",
+        "Building",
+        "Capacity Building",
+        "Countries",
+        "Development"
+      ],
+      "paper_count": 6,
+      "papers": [
+        "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+        "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+        "Australian farmers left behind in the digital economy \u2013 Insights from the Australian Digital Inclusion Index",
+        "Building State Capability: Evidence, Analysis, Action",
+        "Capacity Building in Developing Countries",
+        "Harnessing the digital economy for developing countries"
+      ],
+      "confidence_rank": 2,
+      "confidence": 0.63,
+      "average_theme_strength": 0.9453
+    },
+    {
+      "theme": "Food, Production, Different, Technologies, Demands",
+      "keywords": [
+        "Food",
+        "Production",
+        "Different",
+        "Technologies",
+        "Demands"
+      ],
+      "paper_count": 4,
+      "papers": [
+        "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+        "Adaptation and development pathways for different types of farmers",
+        "Application of digital technologies for ensuring agricultural productivity",
+        "Food sovereignty and consumer sovereignty: two antagonistic goals?"
+      ],
+      "confidence_rank": 3,
+      "confidence": 0.84,
+      "average_theme_strength": 0.8393
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "keywords": [
+        "Nan",
+        "Community",
+        "Capacity",
+        "Training",
+        "Building"
+      ],
+      "paper_count": 2,
+      "papers": [
+        "Informatics teacher training in Hungary: building community and capacity with tele-houses"
+      ],
+      "confidence_rank": 4,
+      "confidence": 0.6,
+      "average_theme_strength": 0.8962
+    }
+  ],
+  "papers": [
+    {
+      "title": "Education and Training in the Digital Era: A Compass for \u201cBuilding Forward Better\u201d",
+      "authors": "Bianca Christina Weber-Lewerenz",
+      "year": 2022,
+      "abstract": "<jats:p>Knowledge is the greatest raw material. To build a secure future, you need knowledge, skills, to network and get involved in the new. Digitization with the technological and social challenges requires a rethinking and adjustment of professional qualifications at the same time. More than half of 70% of the open AI positions in companies are currently unfilled. This high number describes the dilemma and the challenges for the teaching and training of tomorrow. Are we ready for the technolo",
+      "doi": "10.5772/intechopen.102678",
+      "venue": "Digital Transformation - Towards New Frontiers and Business Opportunities",
+      "source": "Crossref",
+      "url": "https://doi.org/10.5772/intechopen.102678",
+      "citation_count": 2,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+      "authors": "Walter H Curioso",
+      "year": 2019,
+      "abstract": "<sec>\n                    <title>UNSTRUCTURED</title>\n                        <p>Tackling global health challenges demands the appropriate use of available technologies. Although digital health could significantly improve health care access, use, quality, and outcomes, realizing this possibility requires personnel trained in digital health. There is growing evidence of the benefits of digital health for improving the performance of health systems and outcomes in developed countries. However, sig",
+      "doi": "10.2196/preprints.16513",
+      "venue": NaN,
+      "source": "Crossref",
+      "url": "https://doi.org/10.2196/preprints.16513",
+      "citation_count": 2,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Computer Network Training \"Building Creativity through Wifi Corner Networks in the Digital Era\"",
+      "authors": "Ahlis Noor Kholili",
+      "year": 2025,
+      "abstract": "<jats:p>The development of digital technology affects various aspects of life, including education. The need for adequate internet access is a challenge in itself, especially in schools that have limited network infrastructure. NU Al Hidayah Vocational School faces the problem of minimal understanding of students regarding computer network technology, which has an impact on limited use of the internet in learning activities. To overcome this problem, community service was carried out in the form",
+      "doi": "10.71200/diasya.v1i1.44",
+      "venue": "Jurnal Pengabdian kepada Masyarakat (DIASYA)",
+      "source": "Crossref",
+      "url": "https://doi.org/10.71200/diasya.v1i1.44",
+      "citation_count": 0,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Building competent IT freshers: modelling digital era training frameworks",
+      "authors": "Sukanya Pandey, Manoj Kumar Dash",
+      "year": 2026,
+      "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>The accelerating digital transformation and artificial intelligence (AI) integration demand systematic competency-based training (CBT) for Information Technology (IT) freshers. This study aims to identify critical enablers (CEs) of effective CBT programs and examines their hierarchical relationships to inform strategic training design.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n  ",
+      "doi": "10.1108/ejtd-10-2025-0242",
+      "venue": "European Journal of Training and Development",
+      "source": "Crossref",
+      "url": "https://doi.org/10.1108/ejtd-10-2025-0242",
+      "citation_count": 0,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+      "authors": "Sithembiso Ndlela, Steve Worth",
+      "year": 2023,
+      "abstract": "<jats:p>Key to implementing sustainable agricultural development and transformation interventions in rural areas lie in building farmer capacity. Capacity building embraces local farmer knowledge; builds local ownership of projects; and strengthen farmers\u2019 resilience to improve sustainability of agricultural development programs. The execution of many capacity building programs brings to light that the role of extension in building farmer capacity remains unclear as extension is still centered p",
+      "doi": "10.5772/intechopen.112260",
+      "venue": "Rural Areas - Development and Transformations",
+      "source": "Crossref",
+      "url": "https://doi.org/10.5772/intechopen.112260",
+      "citation_count": 0,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": NaN,
+      "authors": NaN,
+      "year": 2023,
+      "abstract": "nan",
+      "doi": "10.48060/tghn.69",
+      "venue": NaN,
+      "source": "Crossref",
+      "url": "https://doi.org/10.48060/tghn.69",
+      "citation_count": 0,
+      "consensus_theme": "Nan, Community, Capacity, Training, Building",
+      "consensus_theme_id": 1
+    },
+    {
+      "title": "Informatics teacher training in Hungary: building community and capacity with tele-houses",
+      "authors": NaN,
+      "year": 2013,
+      "abstract": "nan",
+      "doi": "10.4324/9780203416174-28",
+      "venue": "World Yearbook of Education 2004",
+      "source": "Crossref",
+      "url": "https://doi.org/10.4324/9780203416174-28",
+      "citation_count": 0,
+      "consensus_theme": "Nan, Community, Capacity, Training, Building",
+      "consensus_theme_id": 1
+    },
+    {
+      "title": "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+      "authors": ", Anna Neya Kazanskaia",
+      "year": 2025,
+      "abstract": "<jats:p>The rapid rise of digital volunteerism has transformed the operational capacity of non-profit organizations worldwide. While online platforms enable volunteers to contribute across borders and contexts, the effectiveness of their engagement depends critically on structured training. This article examines the theoretical and practical foundations of training digital volunteers, particularly in low-income and resource-constrained settings. It argues that comprehensive training not only enh",
+      "doi": "10.64357/neya-gjnps-trdgvl-01",
+      "venue": "NEYA Global Journal of Non-Profit Studies",
+      "source": "Crossref",
+      "url": "https://doi.org/10.64357/neya-gjnps-trdgvl-01",
+      "citation_count": 3,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+      "authors": "Dzulkifli ., Nani Harlinda Nurdin, Zarni Adia Purna",
+      "year": 2023,
+      "abstract": "<jats:p>This study aims to outline the strengths of capacity building and the problems associated with the lack of capacity in the context of governance transformation and policy implementation in the digital era, and initiate an innovative and sustainable capacity-building strategy as a fundamental solution. This study uses a qualitative approach and document analysis to obtain a more detailed analysis. Data was obtained from the National Planning and Development Agency, namely the National Med",
+      "doi": "10.18502/kss.v8i17.14121",
+      "venue": "KnE Social Sciences",
+      "source": "Crossref",
+      "url": "https://doi.org/10.18502/kss.v8i17.14121",
+      "citation_count": 10,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+      "authors": "Oscar Rodr\u00edguez-Esp\u00edndola, Soumyadeb Chowdhury, Prasanta Kumar Dey, P\u00e1vel Albores, Ali Emrouznejad",
+      "year": 2022,
+      "abstract": "The Industry 4.0 (I4.0) revolution has led to rapid digital transformation, automation of manufacturing processes and efficient decision-making in business operations. Despite the potential benefits of I4.0 technologies in operations management reported in the extant literature, there has been a paucity of empirical research examining the intention to adopt I4.0 technologies for managing risks. Risk management identifies, assesses, and introduces responses for risks to avert crises. This study c",
+      "doi": "10.1016/j.techfore.2022.121562",
+      "venue": "Technological Forecasting and Social Change",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W4283378156",
+      "citation_count": 253,
+      "consensus_theme": "Food, Production, Different, Technologies, Demands",
+      "consensus_theme_id": 2
+    },
+    {
+      "title": "Australian farmers left behind in the digital economy \u2013 Insights from the Australian Digital Inclusion Index",
+      "authors": "Amber Marshall, Michael Dezuanni, Jean Burgess, Julian Thomas, Chris Wilson",
+      "year": 2020,
+      "abstract": "Although Australia's population is concentrated in major urban centres along its coastal fringe, its less populous rural communities are important to society and the economy\u2014supporting sectors like agriculture, which occupies over half the continent's land mass and accounts for 2.2% of value added gross domestic product (GDP) (Jackson et al., 2020). The vast distances between urban and rural centres present challenges to the provision of essential infrastructure like roads, transport, energy \u2013 a",
+      "doi": "10.1016/j.jrurstud.2020.09.001",
+      "venue": "Journal of Rural Studies",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W3088509261",
+      "citation_count": 120,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": "Adaptation and development pathways for different types of farmers",
+      "authors": "Lindsay C. Stringer, Evan Fraser, D. Harris, Christopher J. Lyon, Laura Pereira, Caroline Ward, Elisabeth Simelton",
+      "year": 2019,
+      "abstract": "One of the greatest challenges humanity faces is feeding the world's human population in a sustainable, nutritious, equitable and ethical way under a changing climate. Urgent transformations are needed that allow farmers to adapt and develop while also being climate resilient and contributing minimal emissions. This paper identifies several illustrative adaptation and development pathways, recognising the variety of starting points of different types of farmers and the ways their activities inte",
+      "doi": "10.1016/j.envsci.2019.10.007",
+      "venue": "Environmental Science & Policy",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W2960639155",
+      "citation_count": 309,
+      "consensus_theme": "Food, Production, Different, Technologies, Demands",
+      "consensus_theme_id": 2
+    },
+    {
+      "title": "Building State Capability: Evidence, Analysis, Action",
+      "authors": "Matt Andrews, Lant Pritchett, Michael Woolcock",
+      "year": 2017,
+      "abstract": "Governments play a major role in the development process, and constantly introduce reforms and policies to achieve developmental objectives. Many of these interventions have limited impact, however; schools get built but children don't learn, IT systems are introduced but not used, plans are written but not implemented. These achievement deficiencies reveal gaps in capabilities, and weaknesses in the process of building state capability. 00This book addresses these weaknesses and gaps. It starts",
+      "doi": "10.1093/acprof:oso/9780198747482.001.0001",
+      "venue": "Directory of Open access Books (OAPEN Foundation)",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W3044063500",
+      "citation_count": 334,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": "Digital platforms for development: Foundations and research agenda",
+      "authors": "Carla Bonina, Kari Koskinen, Ben Eaton, Annabelle Gawer",
+      "year": 2021,
+      "abstract": "Abstract Digital platforms hold a central position in today's world economy and are said to offer a great potential for the economies and societies in the global South. Yet, to date, the scholarly literature on digital platforms has largely concentrated on business while their developmental implications remain understudied. In part, this is because digital platforms are a challenging research object due to their lack of conceptual definition, their spread across different regions and industries,",
+      "doi": "10.1111/isj.12326",
+      "venue": "Information Systems Journal",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W3127663722",
+      "citation_count": 465,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Capacity Building in Developing Countries",
+      "authors": "Neya Global, Anna Kazanskaia",
+      "year": 2025,
+      "abstract": "This book provides a comprehensive exploration of capacity building strategies in developing countries, focusing on sustainable approaches that strengthen institutions, empower communities, and enhance local ownership. Drawing on case studies and evidence-based practices, it addresses organizational development, leadership cultivation, and the integration of technology and innovation. The text emphasizes adaptive strategies tailored to diverse cultural and socio-economic contexts, offering pract",
+      "doi": "10.64357/capacity-building-in-developing-countries-2025",
+      "venue": NaN,
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W4413241520",
+      "citation_count": 73,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": "Community health workers at the dawn of a new era: 6. Recruitment, training, and continuing education",
+      "authors": "Meike Schleiff, Iain Aitken, Mohammad Ariful Alam, Zufan Abera Damtew, Henry B. Perry",
+      "year": 2021,
+      "abstract": "BACKGROUND: This is the sixth of our 11-paper supplement entitled \"Community Health Workers at the Dawn of New Era\". Expectations of community health workers (CHWs) have expanded in recent years to encompass a wider array of services to numerous subpopulations, engage communities to collaborate with and to assist health systems in responding to complex and sometimes intensive threats. In this paper, we explore a set of key considerations for training of CHWs in response to their enhanced and cha",
+      "doi": "10.1186/s12961-021-00757-3",
+      "venue": "Health Research Policy and Systems",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W3206443651",
+      "citation_count": 133,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Application of digital technologies for ensuring agricultural productivity",
+      "authors": "Rambod Abiri, Nastaran Rizan, Siva K. Balasundram, Arash Bayat Shahbazi, Hazandy Abdul Hamid",
+      "year": 2023,
+      "abstract": "Over the decades, agri-food security has become one of the most critical concerns in the world. Sustainable agri-food production technologies have been reliable in mitigating poverty caused by high demands for food. Recently, the applications of agri-food system technologies have been meaningfully changing the worldwide scene due to both external strengths and internal forces. Digital agriculture (DA) is a pioneering technology helping to meet the growing global demand for sustainable food produ",
+      "doi": "10.1016/j.heliyon.2023.e22601",
+      "venue": "Heliyon",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W4388870743",
+      "citation_count": 279,
+      "consensus_theme": "Food, Production, Different, Technologies, Demands",
+      "consensus_theme_id": 2
+    },
+    {
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "authors": "Yogesh K. Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coombs, Tom Crick, Yanqing Duan, Rohita Dwivedi, John S. Edwards, Aled Eirug, Vassilis Galanos, P. Vigneswara Ilavarasan, Marijn Janssen, Paul Jones, Arpan Kumar Kar, Hatice Kizgin, Bianca Kronemann, Banita Lal, Biagio Lucini, Rony Medaglia, Kenneth Le Meunier\u2010FitzHugh, Leslie Caroline Le Meunier-FitzHugh, Santosh K. Misra, Emmanuel Mogaji, Sujeet Kumar Sharma, Jang Bahadur Singh, Vishnupriya Raghavan, Ramakrishnan Raman, Nripendra P. Rana, Spyridon Samothrakis, Jak Spencer, Kuttimani Tamilmani, Annie Tubadji, Paul Walton, Michael D. Williams",
+      "year": 2019,
+      "abstract": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reached the limits of physical capacity. Artificial Intelligence (AI) offers this same transformative potential for the augmentation and potential replacement of human tasks and activities within a wide range of industrial, intellectual and social applications. The pace of change for thi",
+      "doi": "10.1016/j.ijinfomgt.2019.08.002",
+      "venue": "International Journal of Information Management",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W2969625533",
+      "citation_count": 4015,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Harnessing the digital economy for developing countries",
+      "authors": "Carl J. Dahlman, Sam Mealy, Martin Wermelinger",
+      "year": 2016,
+      "abstract": "This series of working papers is intended to disseminate the Development Centre's research findings rapidly among specialists in the field concerned. These papers are generally available in the original English or French, with a summary in the other language.",
+      "doi": "10.1787/4adffb24-en",
+      "venue": "OECD Development Centre working papers",
+      "source": "OpenAlex",
+      "url": "https://openalex.org/W2582103037",
+      "citation_count": 243,
+      "consensus_theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "consensus_theme_id": 3
+    },
+    {
+      "title": "The SmartAG partner: CCAFS East Africa Bi-Annual Newsletter, July - December 2019",
+      "authors": "CGIAR Research Program on Climate Change, Agriculture and Food Security",
+      "year": 2020,
+      "abstract": "We are pleased to share with you our SmartAg Partner bi-annual newsletter, highlighting policy engagement, ongoing research, field updates and activities with partners from the second half of 2019",
+      "doi": NaN,
+      "venue": NaN,
+      "source": "CORE",
+      "url": "https://core.ac.uk/download/294831701.pdf",
+      "citation_count": 0,
+      "consensus_theme": "Training, Digital, Health, Jats, Network",
+      "consensus_theme_id": 0
+    },
+    {
+      "title": "Food sovereignty and consumer sovereignty: two antagonistic goals?",
+      "authors": "F\u00e9lix, Georges, Timmermann, Cristian, Tittonell, Pablo",
+      "year": 2017,
+      "abstract": "The concept of food sovereignty is becoming an element of everyday parlance in development politics and food justice advocacy. Yet to successfully achieve food sovereignty, the demands within this movement have to be compatible with the way people are pursuing consumer sovereignty, and vice versa. The aim of this article is to examine the different sets of demands that the two ideals of sovereignty bring about, analyze in how far these different demands can stand in constructive relations with e",
+      "doi": "10.1080/21683565.2017.1359807",
+      "venue": NaN,
+      "source": "CORE",
+      "url": "https://core.ac.uk/download/185244892.pdf",
+      "citation_count": 0,
+      "consensus_theme": "Food, Production, Different, Technologies, Demands",
+      "consensus_theme_id": 2
+    }
+  ],
+  "authors": [
+    "Agriculture and Food Security",
+    "Ahlis Noor Kholili",
+    "Aled Eirug",
+    "Ali Emrouznejad",
+    "Amber Marshall",
+    "Anna Kazanskaia",
+    "Anna Neya Kazanskaia",
+    "Annabelle Gawer",
+    "Annie Tubadji",
+    "Arash Bayat Shahbazi",
+    "Arpan Kumar Kar",
+    "Banita Lal",
+    "Ben Eaton",
+    "Biagio Lucini",
+    "Bianca Christina Weber-Lewerenz",
+    "Bianca Kronemann",
+    "CGIAR Research Program on Climate Change",
+    "Carl J. Dahlman",
+    "Carla Bonina",
+    "Caroline Ward",
+    "Chris Wilson",
+    "Christopher J. Lyon",
+    "Crispin Coombs",
+    "Cristian",
+    "D. Harris",
+    "Dzulkifli .",
+    "Elisabeth Simelton",
+    "Elvira Ismagilova",
+    "Emmanuel Mogaji",
+    "Evan Fraser",
+    "F\u00e9lix",
+    "Georges",
+    "Gert Aarts",
+    "Hatice Kizgin",
+    "Hazandy Abdul Hamid",
+    "Henry B. Perry",
+    "Iain Aitken",
+    "Jak Spencer",
+    "Jang Bahadur Singh",
+    "Jean Burgess",
+    "John S. Edwards",
+    "Julian Thomas",
+    "Kari Koskinen",
+    "Kenneth Le Meunier\u2010FitzHugh",
+    "Kuttimani Tamilmani",
+    "Lant Pritchett",
+    "Laura Pereira",
+    "Laurie Hughes",
+    "Leslie Caroline Le Meunier-FitzHugh",
+    "Lindsay C. Stringer",
+    "Manoj Kumar Dash",
+    "Marijn Janssen",
+    "Martin Wermelinger",
+    "Matt Andrews",
+    "Meike Schleiff",
+    "Michael D. Williams",
+    "Michael Dezuanni",
+    "Michael Woolcock",
+    "Mohammad Ariful Alam",
+    "Nani Harlinda Nurdin",
+    "Nastaran Rizan",
+    "Neya Global",
+    "Nripendra P. Rana",
+    "Oscar Rodr\u00edguez-Esp\u00edndola",
+    "P. Vigneswara Ilavarasan",
+    "Pablo",
+    "Paul Jones",
+    "Paul Walton",
+    "Prasanta Kumar Dey",
+    "P\u00e1vel Albores",
+    "Ramakrishnan Raman",
+    "Rambod Abiri",
+    "Rohita Dwivedi",
+    "Rony Medaglia",
+    "Sam Mealy",
+    "Santosh K. Misra",
+    "Sithembiso Ndlela",
+    "Siva K. Balasundram",
+    "Soumyadeb Chowdhury",
+    "Spyridon Samothrakis",
+    "Steve Worth",
+    "Sujeet Kumar Sharma",
+    "Sukanya Pandey",
+    "Timmermann",
+    "Tittonell",
+    "Tom Crick",
+    "Vassilis Galanos",
+    "Vishnupriya Raghavan",
+    "Walter H Curioso",
+    "Yanqing Duan",
+    "Yogesh K. Dwivedi",
+    "Zarni Adia Purna",
+    "Zufan Abera Damtew",
+    "nan"
+  ],
+  "keywords": [
+    "building",
+    "capacity",
+    "capacity building",
+    "community",
+    "countries",
+    "demands",
+    "development",
+    "different",
+    "digital",
+    "food",
+    "health",
+    "jats",
+    "nan",
+    "network",
+    "production",
+    "technologies",
+    "training"
+  ],
+  "citations": [
+    {
+      "title": "Education and Training in the Digital Era: A Compass for \u201cBuilding Forward Better\u201d",
+      "doi": "10.5772/intechopen.102678",
+      "citation_count": 2
+    },
+    {
+      "title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+      "doi": "10.2196/preprints.16513",
+      "citation_count": 2
+    },
+    {
+      "title": "Computer Network Training \"Building Creativity through Wifi Corner Networks in the Digital Era\"",
+      "doi": "10.71200/diasya.v1i1.44",
+      "citation_count": 0
+    },
+    {
+      "title": "Building competent IT freshers: modelling digital era training frameworks",
+      "doi": "10.1108/ejtd-10-2025-0242",
+      "citation_count": 0
+    },
+    {
+      "title": "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+      "doi": "10.5772/intechopen.112260",
+      "citation_count": 0
+    },
+    {
+      "title": NaN,
+      "doi": "10.48060/tghn.69",
+      "citation_count": 0
+    },
+    {
+      "title": "Informatics teacher training in Hungary: building community and capacity with tele-houses",
+      "doi": "10.4324/9780203416174-28",
+      "citation_count": 0
+    },
+    {
+      "title": "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+      "doi": "10.64357/neya-gjnps-trdgvl-01",
+      "citation_count": 3
+    },
+    {
+      "title": "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+      "doi": "10.18502/kss.v8i17.14121",
+      "citation_count": 10
+    },
+    {
+      "title": "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+      "doi": "10.1016/j.techfore.2022.121562",
+      "citation_count": 253
+    },
+    {
+      "title": "Australian farmers left behind in the digital economy \u2013 Insights from the Australian Digital Inclusion Index",
+      "doi": "10.1016/j.jrurstud.2020.09.001",
+      "citation_count": 120
+    },
+    {
+      "title": "Adaptation and development pathways for different types of farmers",
+      "doi": "10.1016/j.envsci.2019.10.007",
+      "citation_count": 309
+    },
+    {
+      "title": "Building State Capability: Evidence, Analysis, Action",
+      "doi": "10.1093/acprof:oso/9780198747482.001.0001",
+      "citation_count": 334
+    },
+    {
+      "title": "Digital platforms for development: Foundations and research agenda",
+      "doi": "10.1111/isj.12326",
+      "citation_count": 465
+    },
+    {
+      "title": "Capacity Building in Developing Countries",
+      "doi": "10.64357/capacity-building-in-developing-countries-2025",
+      "citation_count": 73
+    },
+    {
+      "title": "Community health workers at the dawn of a new era: 6. Recruitment, training, and continuing education",
+      "doi": "10.1186/s12961-021-00757-3",
+      "citation_count": 133
+    },
+    {
+      "title": "Application of digital technologies for ensuring agricultural productivity",
+      "doi": "10.1016/j.heliyon.2023.e22601",
+      "citation_count": 279
+    },
+    {
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "doi": "10.1016/j.ijinfomgt.2019.08.002",
+      "citation_count": 4015
+    },
+    {
+      "title": "Harnessing the digital economy for developing countries",
+      "doi": "10.1787/4adffb24-en",
+      "citation_count": 243
+    },
+    {
+      "title": "The SmartAG partner: CCAFS East Africa Bi-Annual Newsletter, July - December 2019",
+      "doi": NaN,
+      "citation_count": 0
+    },
+    {
+      "title": "Food sovereignty and consumer sovereignty: two antagonistic goals?",
+      "doi": "10.1080/21683565.2017.1359807",
+      "citation_count": 0
+    }
+  ],
+  "redundant_themes": [
+    {
+      "theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "paper_count": 6,
+      "growth_rate": 0.53,
+      "citation_momentum": 0.1,
+      "novelty_score": 0.28,
+      "saturation_score": 0.676,
+      "preliminary": true
+    },
+    {
+      "theme": "Food, Production, Different, Technologies, Demands",
+      "paper_count": 4,
+      "growth_rate": 0.0,
+      "citation_momentum": 0.0,
+      "novelty_score": 0.255,
+      "saturation_score": 0.684,
+      "preliminary": true
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "paper_count": 2,
+      "growth_rate": 0.0,
+      "citation_momentum": 0.0,
+      "novelty_score": 0.12,
+      "saturation_score": 0.644,
+      "preliminary": true
+    },
+    {
+      "theme": "Training, Digital, Health, Jats, Network",
+      "paper_count": 9,
+      "growth_rate": 0.83,
+      "citation_momentum": 0.0,
+      "novelty_score": 0.36,
+      "saturation_score": 0.727,
+      "preliminary": true
+    }
+  ],
+  "developing_themes": [],
+  "trending_themes": [],
+  "future_themes": []
+}

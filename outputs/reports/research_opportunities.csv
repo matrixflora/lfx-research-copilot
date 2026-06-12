@@ -1,0 +1,5 @@
+theme,paper_count,novelty_score,growth_score,gap_importance,citation_momentum,opportunity_score,opportunity_level,classification
+"Nan, Community, Capacity, Training, Building",2,0.6,1.0,0.8,0.0,0.457,Medium Potential,redundant
+"Capacity, Building, Capacity Building, Countries, Development",6,0.689,1.0,0.5,0.119,0.399,Low Potential,redundant
+"Food, Production, Different, Technologies, Demands",4,0.675,0.333,0.5,0.496,0.382,Low Potential,redundant
+"Training, Digital, Health, Jats, Network",9,0.0,0.214,0.5,0.001,0.164,Low Potential,redundant

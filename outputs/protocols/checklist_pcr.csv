@@ -1,0 +1,8 @@
+category,item,completed
+Step,"Prepare master mix: 2.5 µL buffer, 0.5 µL dNTPs, 0.5 µL each primer, 0.125 µL polymerase, 1 µL template, water to 25 µL",False
+Step,Initial denaturation: 95°C for 3 min,False
+Step,"35 cycles: 95°C for 30 s, 55°C for 30 s, 72°C for 30 s/kb",False
+Step,Final extension: 72°C for 5 min,False
+Step,Hold at 4°C,False
+QC,Agarose gel electrophoresis to verify amplicon size,False
+QC,Quantify DNA concentration (NanoDrop/Qubit),False

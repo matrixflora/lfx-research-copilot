@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "updated": "2026-06-11T21:40:36.209841",
+    "version": "1.0",
+    "description": "Living knowledge base — merged from all pipeline outputs"
+  },
+  "knowledge_base_summary": {
+    "theme_count": 4,
+    "paper_count": 20
+  },
+  "themes": [
+    {
+      "theme": "Training, Digital, Health, Jats, Network",
+      "keywords": [
+        "Training",
+        "Digital",
+        "Health",
+        "Jats",
+        "Network"
+      ],
+      "paper_count": 9,
+      "papers": [
+        "Education and Training in the Digital Era: A Compass for “Building Forward Better”",
+        "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+        "Computer Network Training \"Building Creativity through Wifi Corner Networks in the Digital Era\"",
+        "Building competent IT freshers: modelling digital era training frameworks",
+        "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+        "Digital platforms for development: Foundations and research agenda",
+        "Community health workers at the dawn of a new era: 6. Recruitment, training, and continuing education",
+        "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+        "The SmartAG partner: CCAFS East Africa Bi-Annual Newsletter, July - December 2019"
+      ],
+      "confidence_rank": 1,
+      "confidence": 0.91,
+      "average_theme_strength": 0.9093
+    },
+    {
+      "theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "keywords": [
+        "Capacity",
+        "Building",
+        "Capacity Building",
+        "Countries",
+        "Development"
+      ],
+      "paper_count": 6,
+      "papers": [
+        "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+        "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+        "Australian farmers left behind in the digital economy – Insights from the Australian Digital Inclusion Index",
+        "Building State Capability: Evidence, Analysis, Action",
+        "Capacity Building in Developing Countries",
+        "Harnessing the digital economy for developing countries"
+      ],
+      "confidence_rank": 2,
+      "confidence": 0.63,
+      "average_theme_strength": 0.9453
+    },
+    {
+      "theme": "Food, Production, Different, Technologies, Demands",
+      "keywords": [
+        "Food",
+        "Production",
+        "Different",
+        "Technologies",
+        "Demands"
+      ],
+      "paper_count": 4,
+      "papers": [
+        "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+        "Adaptation and development pathways for different types of farmers",
+        "Application of digital technologies for ensuring agricultural productivity",
+        "Food sovereignty and consumer sovereignty: two antagonistic goals?"
+      ],
+      "confidence_rank": 3,
+      "confidence": 0.84,
+      "average_theme_strength": 0.8393
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "keywords": [
+        "Nan",
+        "Community",
+        "Capacity",
+        "Training",
+        "Building"
+      ],
+      "paper_count": 2,
+      "papers": [
+        "Informatics teacher training in Hungary: building community and capacity with tele-houses"
+      ],
+      "confidence_rank": 4,
+      "confidence": 0.6,
+      "average_theme_strength": 0.8962
+    }
+  ],
+  "theme_classifications": {
+    "redundant_themes": [
+      {
+        "theme": "Capacity, Building, Capacity Building, Countries, Development",
+        "paper_count": 6,
+        "growth_rate": 0.53,
+        "citation_momentum": 0.1,
+        "novelty_score": 0.28,
+        "saturation_score": 0.676,
+        "preliminary": true
+      },
+      {
+        "theme": "Food, Production, Different, Technologies, Demands",
+        "paper_count": 4,
+        "growth_rate": 0.0,
+        "citation_momentum": 0.0,
+        "novelty_score": 0.255,
+        "saturation_score": 0.684,
+        "preliminary": true
+      },
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "paper_count": 2,
+        "growth_rate": 0.0,
+        "citation_momentum": 0.0,
+        "novelty_score": 0.12,
+        "saturation_score": 0.644,
+        "preliminary": true
+      },
+      {
+        "theme": "Training, Digital, Health, Jats, Network",
+        "paper_count": 9,
+        "growth_rate": 0.83,
+        "citation_momentum": 0.0,
+        "novelty_score": 0.36,
+        "saturation_score": 0.727,
+        "preliminary": true
+      }
+    ],
+    "developing_themes": [],
+    "trending_themes": [],
+    "future_themes": []
+  },
+  "clustering_report": {},
+  "theme_evolution": {},
+  "citation_intelligence": {
+    "paper_count": 0,
+    "foundational": [],
+    "influential_authors": [],
+    "bottlenecks": [],
+    "neglected_papers": [],
+    "clusters": [],
+    "graph_summary": {}
+  },
+  "hypothesis_bank": {
+    "count": 10,
+    "hypotheses": [
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "gap_type": "sparse_theme",
+        "research_question": "How does Community influence Capacity in the context of Nan, Community, Capacity, Training, Building?",
+        "hypothesis": "Community positively improves Capacity, controlling for contextual factors.",
+        "iv": "Community",
+        "dv": "Capacity",
+        "controls": "years of experience; socio-economic status; prior domain knowledge",
+        "methodology": "Mixed-methods exploratory design: qualitative interviews to surface constructs, followed by a quasi-experimental design to test the hypothesis.",
+        "expected_contribution": "Contributes to theory-building by testing assumptions in a novel context."
+      },
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "gap_type": "sparse_theme",
+        "research_question": "How does Community influence Training in the context of Nan, Community, Capacity, Training, Building?",
+        "hypothesis": "Community negatively moderates Training, controlling for contextual factors.",
+        "iv": "Community",
+        "dv": "Training",
+        "controls": "socio-economic status; prior domain knowledge",
+        "methodology": "Mixed-methods exploratory design: qualitative interviews to surface constructs, followed by a longitudinal cohort study to test the hypothesis.",
+        "expected_contribution": "Supports evidence-based decision-making in programme design and resource allocation."
+      },
+      {
+        "theme": "Training, Digital, Health, Jats, Network",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Training predict Digital, and what moderating factors shape this relationship?",
+        "hypothesis": "Increased Training negatively reduces Digital.",
+        "iv": "Training",
+        "dv": "Digital",
+        "controls": "organisational size; years of experience; socio-economic status",
+        "methodology": "Longitudinal longitudinal cohort study with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Supports evidence-based decision-making in programme design and resource allocation."
+      },
+      {
+        "theme": "Training, Digital, Health, Jats, Network",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Training predict Health, and what moderating factors shape this relationship?",
+        "hypothesis": "Increased Training substantially improves Health.",
+        "iv": "Training",
+        "dv": "Health",
+        "controls": "years of experience; socio-economic status",
+        "methodology": "Longitudinal randomised controlled trial with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Validates emerging constructs and measurement instruments for the field."
+      },
+      {
+        "theme": "Capacity, Building, Capacity Building, Countries, Development",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Capacity predict Building, and what moderating factors shape this relationship?",
+        "hypothesis": "Capacity positively enhances Building, controlling for contextual factors.",
+        "iv": "Capacity",
+        "dv": "Building",
+        "controls": "geographic region; organisational size; years of experience",
+        "methodology": "Longitudinal quasi-experimental design with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Contributes to theory-building by testing assumptions in a novel context."
+      },
+      {
+        "theme": "Capacity, Building, Capacity Building, Countries, Development",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Capacity predict Capacity Building, and what moderating factors shape this relationship?",
+        "hypothesis": "Capacity negatively reduces Capacity Building, controlling for contextual factors.",
+        "iv": "Capacity",
+        "dv": "Capacity Building",
+        "controls": "organisational size; years of experience; socio-economic status",
+        "methodology": "Longitudinal longitudinal cohort study with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Supports evidence-based decision-making in programme design and resource allocation."
+      },
+      {
+        "theme": "Food, Production, Different, Technologies, Demands",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Food predict Production, and what moderating factors shape this relationship?",
+        "hypothesis": "Increased Food positively enhances Production.",
+        "iv": "Food",
+        "dv": "Production",
+        "controls": "geographic region; organisational size; years of experience",
+        "methodology": "Longitudinal quasi-experimental design with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Contributes to theory-building by testing assumptions in a novel context."
+      },
+      {
+        "theme": "Food, Production, Different, Technologies, Demands",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Food predict Technologies, and what moderating factors shape this relationship?",
+        "hypothesis": "Increased Food negatively reduces Technologies.",
+        "iv": "Food",
+        "dv": "Technologies",
+        "controls": "organisational size; years of experience; socio-economic status",
+        "methodology": "Longitudinal longitudinal cohort study with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Supports evidence-based decision-making in programme design and resource allocation."
+      },
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Community predict Capacity, and what moderating factors shape this relationship?",
+        "hypothesis": "Community positively enhances Capacity, controlling for contextual factors.",
+        "iv": "Community",
+        "dv": "Capacity",
+        "controls": "geographic region; organisational size; years of experience",
+        "methodology": "Longitudinal quasi-experimental design with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Contributes to theory-building by testing assumptions in a novel context."
+      },
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "gap_type": "future_direction",
+        "research_question": "To what extent does Community predict Training, and what moderating factors shape this relationship?",
+        "hypothesis": "Community negatively reduces Training, controlling for contextual factors.",
+        "iv": "Community",
+        "dv": "Training",
+        "controls": "organisational size; years of experience; socio-economic status",
+        "methodology": "Longitudinal longitudinal cohort study with multi-level modelling to capture temporal dynamics.",
+        "expected_contribution": "Supports evidence-based decision-making in programme design and resource allocation."
+      }
+    ]
+  },
+  "author_intelligence": {
+    "count": 0,
+    "data": []
+  },
+  "journal_intelligence": {
+    "count": 0,
+    "data": []
+  },
+  "methodology_profile": {
+    "count": 0,
+    "data": []
+  },
+  "research_gaps": "# Research Gaps Report\n\n> **Note:** Theme structure derived from a small corpus and should be interpreted as exploratory rather than definitive.\n\n## Sparse Themes (Few Papers)\n\n- **Nan, Community, Capacity, Training, Building** (2 papers) — limited evidence; conclusions should be drawn cautiously\n\n## Understudied Areas\n\nAll consensus themes were identified by multiple methods.\n\n## Weakly Connected Topics\n\nAll themes have good coverage.\n\n## Potential Future Directions\n\n- Investigate **Nan, Community, Capacity, Training, Building** further with targeted literature searches and empirical studies\n\n## Recommendations\n\n- **Expand corpus:** Search additional databases and refine keywords to increase coverage.\n- **Deepen analysis:** For high-confidence themes, conduct systematic review and citation chaining.\n- **Validate findings:** Cross-reference with recent publications and domain experts.\n\n---\n*Generated by generate_reports.py*",
+  "contradictions": "",
+  "research_roadmap": "# Research Roadmap\n\n- **Generated:** 2026-06-11 21:40\n- **Themes mapped:** 4\n\n## Training, Digital, Health, Jats, Network\n- **Maturity:** Mature (9 papers)\n\n### Knowledge Gaps\n- Limited empirical evidence on mechanisms within Training, Digital, Health, Jats, Network\n- Few longitudinal studies tracking change over time\n- Lack of validated measurement instruments\n\n### Required Methods\n- Systematic review + large-scale quantitative modelling (SEM, ML)\n- Meta-analysis for effect size estimation\n\n### Key Datasets / Data Sources\n- Qualitative interview transcripts and observational field notes\n- Secondary analysis of existing multi-country survey data\n- Experimental data from controlled interventions\n\n### 1-Year Roadmap\n- [ ] Systematic review of Training, Digital, Health, Jats, Network to refine research questions\n- [ ] Develop and pilot measurement instruments\n- [ ] Obtain ethical approval and begin data collection\n- **Expected outcome:** Conceptual framework, validated instruments, pilot data\n\n### 3-Year Roadmap\n- [ ] Complete primary data collection for Training, Digital, Health, Jats, Network\n- [ ] Preliminary analysis and conference presentations\n- [ ] Submit 2–3 journal articles on core findings\n- **Expected outcome:** Core empirical findings, peer-reviewed publications, policy briefs\n\n### 5-Year Roadmap\n- [ ] Longitudinal follow-up data collection\n- [ ] Comparative analyses across contexts\n- [ ] Develop and disseminate evidence-based recommendations for Training, Digital, Health, Jats, Network\n- [ ] Establish research network / consortium\n- **Expected outcome:** Longitudinal evidence, cross-context comparisons, practice guidelines\n\n## Capacity, Building, Capacity Building, Countries, Development\n- **Maturity:** Mature (6 papers)\n\n### Knowledge Gaps\n- Limited empirical evidence on mechanisms within Capacity, Building, Capacity Building, Countries, Development\n- Few longitudinal studies tracking change over time\n- Lack of validated measurement instruments\n\n### Requi",
+  "opportunity_ranking": {
+    "count": 4,
+    "data": [
+      {
+        "theme": "Nan, Community, Capacity, Training, Building",
+        "paper_count": 2,
+        "novelty_score": 0.6,
+        "growth_score": 1.0,
+        "gap_importance": 0.8,
+        "citation_momentum": 0.0,
+        "opportunity_score": 0.457,
+        "opportunity_level": "Medium Potential",
+        "classification": "redundant"
+      },
+      {
+        "theme": "Capacity, Building, Capacity Building, Countries, Development",
+        "paper_count": 6,
+        "novelty_score": 0.689,
+        "growth_score": 1.0,
+        "gap_importance": 0.5,
+        "citation_momentum": 0.119,
+        "opportunity_score": 0.399,
+        "opportunity_level": "Low Potential",
+        "classification": "redundant"
+      },
+      {
+        "theme": "Food, Production, Different, Technologies, Demands",
+        "paper_count": 4,
+        "novelty_score": 0.675,
+        "growth_score": 0.333,
+        "gap_importance": 0.5,
+        "citation_momentum": 0.496,
+        "opportunity_score": 0.382,
+        "opportunity_level": "Low Potential",
+        "classification": "redundant"
+      },
+      {
+        "theme": "Training, Digital, Health, Jats, Network",
+        "paper_count": 9,
+        "novelty_score": 0.0,
+        "growth_score": 0.214,
+        "gap_importance": 0.5,
+        "citation_momentum": 0.001,
+        "opportunity_score": 0.164,
+        "opportunity_level": "Low Potential",
+        "classification": "redundant"
+      }
+    ]
+  },
+  "funding_alignment": {
+    "count": 10,
+    "data": [
+      {
+        "funding_area": "Digital Transformation",
+        "alignment_score": 1.0,
+        "matched_themes": 1,
+        "themes": "Training, Digital, Health, Jats, Network",
+        "alignment_level": "High Alignment"
+      },
+      {
+        "funding_area": "Artificial Intelligence & ML",
+        "alignment_score": 1.0,
+        "matched_themes": 2,
+        "themes": "Nan, Community, Capacity, Training, Building; Training, Digital, Health, Jats, Network",
+        "alignment_level": "High Alignment"
+      },
+      {
+        "funding_area": "Capacity Building & Training",
+        "alignment_score": 1.0,
+        "matched_themes": 3,
+        "themes": "Capacity, Building, Capacity Building, Countries, Developmen; Nan, Community, Capacity, Training, Building; Training, Digital, Health, Jats, Network",
+        "alignment_level": "High Alignment"
+      },
+      {
+        "funding_area": "Agriculture & Food Security",
+        "alignment_score": 1.0,
+        "matched_themes": 1,
+        "themes": "Food, Production, Different, Technologies, Demands",
+        "alignment_level": "High Alignment"
+      },
+      {
+        "funding_area": "Health & Well-being",
+        "alignment_score": 1.0,
+        "matched_themes": 1,
+        "themes": "Training, Digital, Health, Jats, Network",
+        "alignment_level": "High Alignment"
+      },
+      {
+        "funding_area": "Climate Change & Sustainability",
+        "alignment_score": 0.0,
+        "matched_themes": 0,
+        "themes": NaN,
+        "alignment_level": "Low Alignment"
+      },
+      {
+        "funding_area": "Digital Inclusion & Equity",
+        "alignment_score": 0.0,
+        "matched_themes": 0,
+        "themes": NaN,
+        "alignment_level": "Low Alignment"
+      },
+      {
+        "funding_area": "Data Science & Analytics",
+        "alignment_score": 0.0,
+        "matched_themes": 0,
+        "themes": NaN,
+        "alignment_level": "Low Alignment"
+      },
+      {
+        "funding_area": "Cybersecurity & Trust",
+        "alignment_score": 0.0,
+        "matched_themes": 0,
+        "themes": NaN,
+        "alignment_level": "Low Alignment"
+      },
+      {
+        "funding_area": "Innovation & Entrepreneurship",
+        "alignment_score": 0.0,
+        "matched_themes": 0,
+        "themes": NaN,
+        "alignment_level": "Low Alignment"
+      }
+    ]
+  }
+}

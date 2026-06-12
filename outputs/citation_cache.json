@@ -1,0 +1,5078 @@
+{
+  "10.2196/preprints.16513": {
+    "doi": "10.2196/preprints.16513",
+    "openalex_id": "https://openalex.org/W4237297983",
+    "referenced_works": [
+      "https://openalex.org/W10211966",
+      "https://openalex.org/W38506356",
+      "https://openalex.org/W1503144181",
+      "https://openalex.org/W1518242805",
+      "https://openalex.org/W1882959273",
+      "https://openalex.org/W1950718100",
+      "https://openalex.org/W1975742978",
+      "https://openalex.org/W1983496492",
+      "https://openalex.org/W1993284871",
+      "https://openalex.org/W2052843612",
+      "https://openalex.org/W2053994773",
+      "https://openalex.org/W2072553458",
+      "https://openalex.org/W2101983189",
+      "https://openalex.org/W2109496778",
+      "https://openalex.org/W2116356378",
+      "https://openalex.org/W2128911910",
+      "https://openalex.org/W2142949663",
+      "https://openalex.org/W2153122405",
+      "https://openalex.org/W2153338343",
+      "https://openalex.org/W2155940218",
+      "https://openalex.org/W2169628161",
+      "https://openalex.org/W2170634076",
+      "https://openalex.org/W2614795280",
+      "https://openalex.org/W2620886835",
+      "https://openalex.org/W2765259538",
+      "https://openalex.org/W2770985152",
+      "https://openalex.org/W2788605785",
+      "https://openalex.org/W2805014719",
+      "https://openalex.org/W2897220463",
+      "https://openalex.org/W2897844776",
+      "https://openalex.org/W2905610586",
+      "https://openalex.org/W2908716980",
+      "https://openalex.org/W2910260370",
+      "https://openalex.org/W2913511761",
+      "https://openalex.org/W4210293910",
+      "https://openalex.org/W4242414256",
+      "https://openalex.org/W4244427927",
+      "https://openalex.org/W4244848769"
+    ],
+    "cited_by_count": 2,
+    "publication_year": 2019,
+    "title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5035183083",
+          "display_name": "Walter H. Curioso",
+          "orcid": "https://orcid.org/0000-0003-3789-7483"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Walter H Curioso",
+        "raw_affiliation_strings": [],
+        "raw_orcid": "https://orcid.org/0000-0003-3789-7483",
+        "affiliations": []
+      }
+    ]
+  },
+  "10.5772/intechopen.112260": {
+    "doi": "10.5772/intechopen.112260",
+    "openalex_id": "https://openalex.org/W4386788585",
+    "referenced_works": [
+      "https://openalex.org/W1516913574",
+      "https://openalex.org/W2057630046",
+      "https://openalex.org/W2059757400",
+      "https://openalex.org/W2116817443",
+      "https://openalex.org/W2153537098",
+      "https://openalex.org/W2169767579",
+      "https://openalex.org/W2242989118",
+      "https://openalex.org/W2896918450",
+      "https://openalex.org/W4221015008",
+      "https://openalex.org/W4250553916",
+      "https://openalex.org/W4251651246",
+      "https://openalex.org/W6605973270"
+    ],
+    "cited_by_count": 2,
+    "publication_year": 2023,
+    "title": "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5043038297",
+          "display_name": "Sithembiso Ndlela",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I95023434",
+            "display_name": "University of KwaZulu-Natal",
+            "ror": "https://ror.org/04qzfn040",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I95023434"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Sithembiso Ndlela",
+        "raw_affiliation_strings": [
+          "Agricultural Extension and Rural Resource Management, University of KwaZulu-Natal, Pietermaritzburg, South Africa"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Agricultural Extension and Rural Resource Management, University of KwaZulu-Natal, Pietermaritzburg, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I95023434"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5048377437",
+          "display_name": "Steve Worth",
+          "orcid": "https://orcid.org/0000-0002-3291-5542"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I95023434",
+            "display_name": "University of KwaZulu-Natal",
+            "ror": "https://ror.org/04qzfn040",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I95023434"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Steve Worth",
+        "raw_affiliation_strings": [
+          "Agricultural Extension and Rural Resource Management, University of KwaZulu-Natal, Pietermaritzburg, South Africa"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Agricultural Extension and Rural Resource Management, University of KwaZulu-Natal, Pietermaritzburg, South Africa",
+            "institution_ids": [
+              "https://openalex.org/I95023434"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.5772/intechopen.102678": {
+    "doi": "10.5772/intechopen.102678",
+    "openalex_id": "https://openalex.org/W4224282693",
+    "referenced_works": [
+      "https://openalex.org/W2140271179",
+      "https://openalex.org/W2145306959",
+      "https://openalex.org/W2778584782",
+      "https://openalex.org/W2802818913",
+      "https://openalex.org/W2997794969",
+      "https://openalex.org/W3046292371",
+      "https://openalex.org/W3132588237",
+      "https://openalex.org/W3185554679"
+    ],
+    "cited_by_count": 3,
+    "publication_year": 2022,
+    "title": "Education and Training in the Digital Era: A Compass for \u201cBuilding Forward Better\u201d",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5002739856",
+          "display_name": "Bianca Christina Weber-Lewerenz",
+          "orcid": "https://orcid.org/0000-0002-8406-7119"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Bianca Christina Weber-Lewerenz",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      }
+    ]
+  },
+  "10.1108/ejtd-10-2025-0242": {
+    "doi": "10.1108/ejtd-10-2025-0242",
+    "openalex_id": "https://openalex.org/W7150920131",
+    "referenced_works": [
+      "https://openalex.org/W1963879048",
+      "https://openalex.org/W1975916892",
+      "https://openalex.org/W1985123071",
+      "https://openalex.org/W2004868876",
+      "https://openalex.org/W2024043398",
+      "https://openalex.org/W2038109900",
+      "https://openalex.org/W2039799510",
+      "https://openalex.org/W2049316276",
+      "https://openalex.org/W2075670547",
+      "https://openalex.org/W2081411249",
+      "https://openalex.org/W2084389751",
+      "https://openalex.org/W2093996214",
+      "https://openalex.org/W2152662211",
+      "https://openalex.org/W2159399759",
+      "https://openalex.org/W2797441739",
+      "https://openalex.org/W2922167487",
+      "https://openalex.org/W2954352903",
+      "https://openalex.org/W2979014062",
+      "https://openalex.org/W2981400777",
+      "https://openalex.org/W2991092410",
+      "https://openalex.org/W2992892313",
+      "https://openalex.org/W3006556904",
+      "https://openalex.org/W3094680454",
+      "https://openalex.org/W3145504737",
+      "https://openalex.org/W3148922431",
+      "https://openalex.org/W3176606450",
+      "https://openalex.org/W3205172848",
+      "https://openalex.org/W3209269632",
+      "https://openalex.org/W4200144339",
+      "https://openalex.org/W4220920613",
+      "https://openalex.org/W4223496663",
+      "https://openalex.org/W4229450649",
+      "https://openalex.org/W4229459117",
+      "https://openalex.org/W4280544081",
+      "https://openalex.org/W4286436554",
+      "https://openalex.org/W4289525357",
+      "https://openalex.org/W4289840818",
+      "https://openalex.org/W4294958572",
+      "https://openalex.org/W4313679915",
+      "https://openalex.org/W4318455093",
+      "https://openalex.org/W4319790822",
+      "https://openalex.org/W4319833858",
+      "https://openalex.org/W4320738412",
+      "https://openalex.org/W4327732793",
+      "https://openalex.org/W4327814623",
+      "https://openalex.org/W4361274788",
+      "https://openalex.org/W4361279322",
+      "https://openalex.org/W4362702399",
+      "https://openalex.org/W4378212835",
+      "https://openalex.org/W4380267509",
+      "https://openalex.org/W4380523508",
+      "https://openalex.org/W4383903936",
+      "https://openalex.org/W4384697762",
+      "https://openalex.org/W4385349463",
+      "https://openalex.org/W4385453722",
+      "https://openalex.org/W4385575497",
+      "https://openalex.org/W4385607414",
+      "https://openalex.org/W4385803650",
+      "https://openalex.org/W4385876196",
+      "https://openalex.org/W4385962453",
+      "https://openalex.org/W4386179777",
+      "https://openalex.org/W4386711999",
+      "https://openalex.org/W4387132641",
+      "https://openalex.org/W4387308461",
+      "https://openalex.org/W4387310013",
+      "https://openalex.org/W4387584161",
+      "https://openalex.org/W4387639221",
+      "https://openalex.org/W4387694700",
+      "https://openalex.org/W4388734130",
+      "https://openalex.org/W4388768777",
+      "https://openalex.org/W4389334930",
+      "https://openalex.org/W4389749380",
+      "https://openalex.org/W4390050754",
+      "https://openalex.org/W4390511985",
+      "https://openalex.org/W4390587647",
+      "https://openalex.org/W4390918241",
+      "https://openalex.org/W4390953251",
+      "https://openalex.org/W4391134061",
+      "https://openalex.org/W4391175809",
+      "https://openalex.org/W4391349484",
+      "https://openalex.org/W4391401735",
+      "https://openalex.org/W4391820410",
+      "https://openalex.org/W4391948128",
+      "https://openalex.org/W4392338537",
+      "https://openalex.org/W4392378471",
+      "https://openalex.org/W4392906494",
+      "https://openalex.org/W4393359157",
+      "https://openalex.org/W4394589857",
+      "https://openalex.org/W4394615283",
+      "https://openalex.org/W4395083425",
+      "https://openalex.org/W4396686562",
+      "https://openalex.org/W4396736831",
+      "https://openalex.org/W4396858570",
+      "https://openalex.org/W4396876322",
+      "https://openalex.org/W4399746685",
+      "https://openalex.org/W4399859154",
+      "https://openalex.org/W4400029407",
+      "https://openalex.org/W4400157298",
+      "https://openalex.org/W4400486498",
+      "https://openalex.org/W4400858516",
+      "https://openalex.org/W4401425955",
+      "https://openalex.org/W4401521020",
+      "https://openalex.org/W4401727214",
+      "https://openalex.org/W4401948204",
+      "https://openalex.org/W4402061125",
+      "https://openalex.org/W4402850869",
+      "https://openalex.org/W4403565140",
+      "https://openalex.org/W4404095658",
+      "https://openalex.org/W4405090531",
+      "https://openalex.org/W4407707608",
+      "https://openalex.org/W4407815558",
+      "https://openalex.org/W4408201693",
+      "https://openalex.org/W4408202230"
+    ],
+    "cited_by_count": 0,
+    "publication_year": 2026,
+    "title": "Building competent IT freshers: modelling digital era training frameworks",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5122318850",
+          "display_name": "Sukanya Pandey",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I9747756",
+            "display_name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+            "ror": "https://ror.org/008b3ap06",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I9747756"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sukanya Pandey",
+        "raw_affiliation_strings": [
+          "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Department of Management Studies, , Gwalior,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Department of Management Studies, , Gwalior,",
+            "institution_ids": [
+              "https://openalex.org/I9747756"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5133048839",
+          "display_name": "Manoj Kumar Dash",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I9747756",
+            "display_name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+            "ror": "https://ror.org/008b3ap06",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I9747756"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Manoj Kumar Dash",
+        "raw_affiliation_strings": [
+          "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Department of Management Studies, , Gwalior,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Department of Management Studies, , Gwalior,",
+            "institution_ids": [
+              "https://openalex.org/I9747756"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.71200/diasya.v1i1.44": {
+    "doi": "10.71200/diasya.v1i1.44",
+    "openalex_id": "https://openalex.org/W4409826519",
+    "referenced_works": [
+      "https://openalex.org/W2923966925",
+      "https://openalex.org/W4312118882",
+      "https://openalex.org/W4379208704",
+      "https://openalex.org/W4395701653",
+      "https://openalex.org/W4399247579",
+      "https://openalex.org/W4401637749",
+      "https://openalex.org/W4404585660"
+    ],
+    "cited_by_count": 0,
+    "publication_year": 2025,
+    "title": "Computer Network Training \"Building Creativity through Wifi Corner Networks in the Digital Era\"",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5117325162",
+          "display_name": "Ahlis Noor Kholili",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Ahlis Noor Kholili",
+        "raw_affiliation_strings": [
+          "Politeknik Balekambang Jepara"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Politeknik Balekambang Jepara",
+            "institution_ids": []
+          }
+        ]
+      }
+    ]
+  },
+  "10.4324/9780203416174-28": {
+    "doi": "10.4324/9780203416174-28",
+    "openalex_id": "https://openalex.org/W2949413447",
+    "referenced_works": [],
+    "cited_by_count": 1,
+    "publication_year": 2013,
+    "title": "Informatics teacher training in Hungary: building community and capacity with tele-houses",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5031995469",
+          "display_name": "M\u00c1RTA TURCS\u00c1NYI - SZAB\u00d3",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "M\u00c1RTA TURCS\u00c1NYI - SZAB\u00d3",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "10.64357/neya-gjnps-trdgvl-01": {
+    "doi": "10.64357/neya-gjnps-trdgvl-01",
+    "openalex_id": "https://openalex.org/W7084041620",
+    "referenced_works": [
+      "https://openalex.org/W2148090859",
+      "https://openalex.org/W4245756979",
+      "https://openalex.org/W4413024486",
+      "https://openalex.org/W7075857455",
+      "https://openalex.org/W7075970788",
+      "https://openalex.org/W7084041620"
+    ],
+    "cited_by_count": 3,
+    "publication_year": 2025,
+    "title": "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Neya Global",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Neya Global",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Anna Neya Kazanskaia",
+          "orcid": "https://orcid.org/0009-0009-5669-1676"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Anna Neya Kazanskaia",
+        "raw_affiliation_strings": [],
+        "raw_orcid": "https://orcid.org/0009-0009-5669-1676",
+        "affiliations": []
+      }
+    ]
+  },
+  "10.1016/j.jrurstud.2020.09.001": {
+    "doi": "10.1016/j.jrurstud.2020.09.001",
+    "openalex_id": "https://openalex.org/W3088509261",
+    "referenced_works": [
+      "https://openalex.org/W89816136",
+      "https://openalex.org/W145419889",
+      "https://openalex.org/W184415965",
+      "https://openalex.org/W260805560",
+      "https://openalex.org/W377430019",
+      "https://openalex.org/W1526182835",
+      "https://openalex.org/W1539142549",
+      "https://openalex.org/W1549230716",
+      "https://openalex.org/W1554136001",
+      "https://openalex.org/W1665923429",
+      "https://openalex.org/W1702700969",
+      "https://openalex.org/W1803546023",
+      "https://openalex.org/W1917845256",
+      "https://openalex.org/W1937179694",
+      "https://openalex.org/W1974410725",
+      "https://openalex.org/W1974504033",
+      "https://openalex.org/W1991916569",
+      "https://openalex.org/W1993442835",
+      "https://openalex.org/W2010100330",
+      "https://openalex.org/W2024310186",
+      "https://openalex.org/W2027447495",
+      "https://openalex.org/W2031222004",
+      "https://openalex.org/W2048891236",
+      "https://openalex.org/W2052055704",
+      "https://openalex.org/W2063419579",
+      "https://openalex.org/W2071549134",
+      "https://openalex.org/W2081308288",
+      "https://openalex.org/W2093200277",
+      "https://openalex.org/W2138759835",
+      "https://openalex.org/W2148130313",
+      "https://openalex.org/W2157767588",
+      "https://openalex.org/W2159501973",
+      "https://openalex.org/W2168637053",
+      "https://openalex.org/W2171787416",
+      "https://openalex.org/W2206832810",
+      "https://openalex.org/W2234992733",
+      "https://openalex.org/W2310369193",
+      "https://openalex.org/W2321537812",
+      "https://openalex.org/W2344526370",
+      "https://openalex.org/W2376163589",
+      "https://openalex.org/W2477875921",
+      "https://openalex.org/W2532781988",
+      "https://openalex.org/W2538260096",
+      "https://openalex.org/W2587466508",
+      "https://openalex.org/W2729817797",
+      "https://openalex.org/W2731534852",
+      "https://openalex.org/W2750240602",
+      "https://openalex.org/W2751381460",
+      "https://openalex.org/W2761167187",
+      "https://openalex.org/W2771058985",
+      "https://openalex.org/W2942069851",
+      "https://openalex.org/W2944766936",
+      "https://openalex.org/W2952380505",
+      "https://openalex.org/W2966341169",
+      "https://openalex.org/W2979291916",
+      "https://openalex.org/W2982764581",
+      "https://openalex.org/W3171036889",
+      "https://openalex.org/W4236946542",
+      "https://openalex.org/W4249860480",
+      "https://openalex.org/W4255665937",
+      "https://openalex.org/W6612833986",
+      "https://openalex.org/W6637170163",
+      "https://openalex.org/W6638169078",
+      "https://openalex.org/W6721258261",
+      "https://openalex.org/W6728300884",
+      "https://openalex.org/W6728925346",
+      "https://openalex.org/W6818776300",
+      "https://openalex.org/W6837374438",
+      "https://openalex.org/W7051765819",
+      "https://openalex.org/W7061262368"
+    ],
+    "cited_by_count": 120,
+    "publication_year": 2020,
+    "title": "Australian farmers left behind in the digital economy \u2013 Insights from the Australian Digital Inclusion Index",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5089188039",
+          "display_name": "Amber Marshall",
+          "orcid": "https://orcid.org/0000-0002-2354-4284"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I160993911",
+            "display_name": "Queensland University of Technology",
+            "ror": "https://ror.org/03pnv4752",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Amber Marshall",
+        "raw_affiliation_strings": [
+          "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia",
+            "institution_ids": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5047752230",
+          "display_name": "Michael Dezuanni",
+          "orcid": "https://orcid.org/0000-0002-2278-8455"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I160993911",
+            "display_name": "Queensland University of Technology",
+            "ror": "https://ror.org/03pnv4752",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael Dezuanni",
+        "raw_affiliation_strings": [
+          "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia",
+            "institution_ids": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5040875069",
+          "display_name": "Jean Burgess",
+          "orcid": "https://orcid.org/0000-0002-4770-1627"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I160993911",
+            "display_name": "Queensland University of Technology",
+            "ror": "https://ror.org/03pnv4752",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jean Burgess",
+        "raw_affiliation_strings": [
+          "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Queensland University of Technology, 149 Victoria Park Rd, Kelvin Grove, Queensland, 4059, Australia",
+            "institution_ids": [
+              "https://openalex.org/I160993911"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5065618166",
+          "display_name": "Julian Thomas",
+          "orcid": "https://orcid.org/0000-0002-2907-4586"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I82951845",
+            "display_name": "RMIT University",
+            "ror": "https://ror.org/04ttjf776",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I82951845"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Julian Thomas",
+        "raw_affiliation_strings": [
+          "RMIT University, 124 La Trobe Street, Melbourne, Victoria, 3000, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "RMIT University, 124 La Trobe Street, Melbourne, Victoria, 3000, Australia",
+            "institution_ids": [
+              "https://openalex.org/I82951845"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5089273436",
+          "display_name": "Chris Wilson",
+          "orcid": "https://orcid.org/0000-0002-6058-7873"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I57093077",
+            "display_name": "Swinburne University of Technology",
+            "ror": "https://ror.org/031rekg67",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I57093077"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Chris K. Wilson",
+        "raw_affiliation_strings": [
+          "Swinburne University of Technology, John Street, Hawthorn, Victoria, 3122, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Swinburne University of Technology, John Street, Hawthorn, Victoria, 3122, Australia",
+            "institution_ids": [
+              "https://openalex.org/I57093077"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.18502/kss.v8i17.14121": {
+    "doi": "10.18502/kss.v8i17.14121",
+    "openalex_id": "https://openalex.org/W4387297383",
+    "referenced_works": [
+      "https://openalex.org/W1941902728",
+      "https://openalex.org/W2489801402",
+      "https://openalex.org/W2760451165",
+      "https://openalex.org/W2781680040",
+      "https://openalex.org/W2901367637",
+      "https://openalex.org/W2904616002",
+      "https://openalex.org/W2912800036",
+      "https://openalex.org/W2938301110",
+      "https://openalex.org/W2989625939",
+      "https://openalex.org/W2997407145",
+      "https://openalex.org/W3015282120",
+      "https://openalex.org/W3031822185",
+      "https://openalex.org/W3036695520",
+      "https://openalex.org/W3080337252",
+      "https://openalex.org/W3118877637",
+      "https://openalex.org/W3156537334",
+      "https://openalex.org/W3192006214",
+      "https://openalex.org/W4213176465",
+      "https://openalex.org/W4235507258",
+      "https://openalex.org/W4387297383"
+    ],
+    "cited_by_count": 13,
+    "publication_year": 2023,
+    "title": "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5089387498",
+          "display_name": "Dzulkifli Dzulkifli",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98301867",
+            "display_name": "Hasanuddin University",
+            "ror": "https://ror.org/00da1gf19",
+            "country_code": "ID",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ],
+        "countries": [
+          "ID"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dzulkifli .",
+        "raw_affiliation_strings": [
+          "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University",
+            "institution_ids": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046094384",
+          "display_name": "Nani Harlinda Nurdin",
+          "orcid": "https://orcid.org/0000-0003-0140-6494"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98301867",
+            "display_name": "Hasanuddin University",
+            "ror": "https://ror.org/00da1gf19",
+            "country_code": "ID",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ],
+        "countries": [
+          "ID"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nani Harlinda Nurdin",
+        "raw_affiliation_strings": [
+          "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University",
+            "institution_ids": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5019506639",
+          "display_name": "Zarni Adia Purna",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98301867",
+            "display_name": "Hasanuddin University",
+            "ror": "https://ror.org/00da1gf19",
+            "country_code": "ID",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ],
+        "countries": [
+          "ID"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Zarni Adia Purna",
+        "raw_affiliation_strings": [
+          "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Public Administration, Faculty of Social and Political Sciences, Hasanuddin University",
+            "institution_ids": [
+              "https://openalex.org/I98301867"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1016/j.techfore.2022.121562": {
+    "doi": "10.1016/j.techfore.2022.121562",
+    "openalex_id": "https://openalex.org/W4283378156",
+    "referenced_works": [
+      "https://openalex.org/W62824994",
+      "https://openalex.org/W137553646",
+      "https://openalex.org/W980222584",
+      "https://openalex.org/W1485523723",
+      "https://openalex.org/W1516261653",
+      "https://openalex.org/W1522288488",
+      "https://openalex.org/W1550010963",
+      "https://openalex.org/W1579570945",
+      "https://openalex.org/W1628085068",
+      "https://openalex.org/W1791587663",
+      "https://openalex.org/W1831611825",
+      "https://openalex.org/W1849923659",
+      "https://openalex.org/W1929609540",
+      "https://openalex.org/W1965278510",
+      "https://openalex.org/W1965594769",
+      "https://openalex.org/W1966146586",
+      "https://openalex.org/W1967029150",
+      "https://openalex.org/W1970099119",
+      "https://openalex.org/W1977608597",
+      "https://openalex.org/W1989271294",
+      "https://openalex.org/W1997174660",
+      "https://openalex.org/W1998143213",
+      "https://openalex.org/W2005593452",
+      "https://openalex.org/W2007248757",
+      "https://openalex.org/W2009884847",
+      "https://openalex.org/W2028563875",
+      "https://openalex.org/W2035763820",
+      "https://openalex.org/W2036149274",
+      "https://openalex.org/W2036885831",
+      "https://openalex.org/W2041748119",
+      "https://openalex.org/W2043094361",
+      "https://openalex.org/W2044744255",
+      "https://openalex.org/W2049604994",
+      "https://openalex.org/W2050909151",
+      "https://openalex.org/W2076784214",
+      "https://openalex.org/W2078608285",
+      "https://openalex.org/W2080053209",
+      "https://openalex.org/W2092320216",
+      "https://openalex.org/W2094607733",
+      "https://openalex.org/W2100379340",
+      "https://openalex.org/W2106080643",
+      "https://openalex.org/W2106096361",
+      "https://openalex.org/W2140956556",
+      "https://openalex.org/W2141536144",
+      "https://openalex.org/W2156423962",
+      "https://openalex.org/W2162345993",
+      "https://openalex.org/W2170567128",
+      "https://openalex.org/W2306196080",
+      "https://openalex.org/W2333422887",
+      "https://openalex.org/W2339446221",
+      "https://openalex.org/W2345748744",
+      "https://openalex.org/W2355627718",
+      "https://openalex.org/W2508563792",
+      "https://openalex.org/W2515300481",
+      "https://openalex.org/W2526389601",
+      "https://openalex.org/W2527709680",
+      "https://openalex.org/W2568048331",
+      "https://openalex.org/W2587774689",
+      "https://openalex.org/W2593759305",
+      "https://openalex.org/W2612096568",
+      "https://openalex.org/W2624239644",
+      "https://openalex.org/W2670968272",
+      "https://openalex.org/W2747765175",
+      "https://openalex.org/W2750126764",
+      "https://openalex.org/W2759750992",
+      "https://openalex.org/W2762507203",
+      "https://openalex.org/W2773929027",
+      "https://openalex.org/W2781494584",
+      "https://openalex.org/W2781702579",
+      "https://openalex.org/W2789052988",
+      "https://openalex.org/W2789444712",
+      "https://openalex.org/W2791930516",
+      "https://openalex.org/W2792445274",
+      "https://openalex.org/W2792463724",
+      "https://openalex.org/W2793242119",
+      "https://openalex.org/W2799090997",
+      "https://openalex.org/W2809039824",
+      "https://openalex.org/W2810507576",
+      "https://openalex.org/W2810880535",
+      "https://openalex.org/W2888648656",
+      "https://openalex.org/W2889793014",
+      "https://openalex.org/W2890784719",
+      "https://openalex.org/W2893740026",
+      "https://openalex.org/W2898238616",
+      "https://openalex.org/W2898440516",
+      "https://openalex.org/W2903429044",
+      "https://openalex.org/W2905864531",
+      "https://openalex.org/W2907622895",
+      "https://openalex.org/W2908397327",
+      "https://openalex.org/W2908815325",
+      "https://openalex.org/W2910891387",
+      "https://openalex.org/W2911938677",
+      "https://openalex.org/W2915282285",
+      "https://openalex.org/W2920939863",
+      "https://openalex.org/W2925024237",
+      "https://openalex.org/W2941443247",
+      "https://openalex.org/W2943694163",
+      "https://openalex.org/W2949000601",
+      "https://openalex.org/W2963432517",
+      "https://openalex.org/W2963849010",
+      "https://openalex.org/W2968427544",
+      "https://openalex.org/W2969625533",
+      "https://openalex.org/W2971876006",
+      "https://openalex.org/W2972758764",
+      "https://openalex.org/W2973601119",
+      "https://openalex.org/W2979715439",
+      "https://openalex.org/W2980039606",
+      "https://openalex.org/W2980258129",
+      "https://openalex.org/W2981457066",
+      "https://openalex.org/W2986257753",
+      "https://openalex.org/W2987040097",
+      "https://openalex.org/W2989523152",
+      "https://openalex.org/W2989613240",
+      "https://openalex.org/W2991560774",
+      "https://openalex.org/W2995963897",
+      "https://openalex.org/W2998556488",
+      "https://openalex.org/W2998574317",
+      "https://openalex.org/W3000189571",
+      "https://openalex.org/W3000294364",
+      "https://openalex.org/W3003422654",
+      "https://openalex.org/W3008058947",
+      "https://openalex.org/W3008639401",
+      "https://openalex.org/W3009388395",
+      "https://openalex.org/W3010879926",
+      "https://openalex.org/W3012994065",
+      "https://openalex.org/W3014556208",
+      "https://openalex.org/W3015671970",
+      "https://openalex.org/W3016522450",
+      "https://openalex.org/W3016958507",
+      "https://openalex.org/W3018881931",
+      "https://openalex.org/W3021635736",
+      "https://openalex.org/W3022170296",
+      "https://openalex.org/W3022288935",
+      "https://openalex.org/W3023674690",
+      "https://openalex.org/W3023793582",
+      "https://openalex.org/W3027732114",
+      "https://openalex.org/W3033551483",
+      "https://openalex.org/W3033584866",
+      "https://openalex.org/W3034713566",
+      "https://openalex.org/W3037539437",
+      "https://openalex.org/W3037908001",
+      "https://openalex.org/W3038273726",
+      "https://openalex.org/W3038390186",
+      "https://openalex.org/W3039329299",
+      "https://openalex.org/W3041234200",
+      "https://openalex.org/W3042944066",
+      "https://openalex.org/W3043149053",
+      "https://openalex.org/W3043341986",
+      "https://openalex.org/W3045793624",
+      "https://openalex.org/W3046264753",
+      "https://openalex.org/W3049223401",
+      "https://openalex.org/W3049728687",
+      "https://openalex.org/W3085480867",
+      "https://openalex.org/W3089914384",
+      "https://openalex.org/W3092775028",
+      "https://openalex.org/W3094127673",
+      "https://openalex.org/W3094446033",
+      "https://openalex.org/W3095984860",
+      "https://openalex.org/W3097577589",
+      "https://openalex.org/W3097839885",
+      "https://openalex.org/W3100511078",
+      "https://openalex.org/W3109226246",
+      "https://openalex.org/W3123282572",
+      "https://openalex.org/W3123293172",
+      "https://openalex.org/W3123363164",
+      "https://openalex.org/W3124279314",
+      "https://openalex.org/W3124618504",
+      "https://openalex.org/W3124710336",
+      "https://openalex.org/W3127264029",
+      "https://openalex.org/W3127929858",
+      "https://openalex.org/W3131958330",
+      "https://openalex.org/W3133548226",
+      "https://openalex.org/W3136287291",
+      "https://openalex.org/W3153432393",
+      "https://openalex.org/W3153765011",
+      "https://openalex.org/W3159583188",
+      "https://openalex.org/W3160230734",
+      "https://openalex.org/W3164062151",
+      "https://openalex.org/W3165282860",
+      "https://openalex.org/W3166468761",
+      "https://openalex.org/W3187290221",
+      "https://openalex.org/W3189544410",
+      "https://openalex.org/W3192729350",
+      "https://openalex.org/W3193620804",
+      "https://openalex.org/W3201086165",
+      "https://openalex.org/W3214784228",
+      "https://openalex.org/W4230787046",
+      "https://openalex.org/W4235678817",
+      "https://openalex.org/W4239107822",
+      "https://openalex.org/W4247283920",
+      "https://openalex.org/W4254434816",
+      "https://openalex.org/W6605596042",
+      "https://openalex.org/W6606836531",
+      "https://openalex.org/W6634568958",
+      "https://openalex.org/W6657623181",
+      "https://openalex.org/W6727886717",
+      "https://openalex.org/W6739468667",
+      "https://openalex.org/W6747193981",
+      "https://openalex.org/W6754447416",
+      "https://openalex.org/W6754619064",
+      "https://openalex.org/W6755679726",
+      "https://openalex.org/W6757544475",
+      "https://openalex.org/W6767045735",
+      "https://openalex.org/W6777695659",
+      "https://openalex.org/W6779232032",
+      "https://openalex.org/W6782664961",
+      "https://openalex.org/W6783280590",
+      "https://openalex.org/W6786541516",
+      "https://openalex.org/W6789166553",
+      "https://openalex.org/W6790470102",
+      "https://openalex.org/W6793892045",
+      "https://openalex.org/W6795305911",
+      "https://openalex.org/W6799239245",
+      "https://openalex.org/W6800114274",
+      "https://openalex.org/W6804285580",
+      "https://openalex.org/W6812200223",
+      "https://openalex.org/W7073739670"
+    ],
+    "cited_by_count": 253,
+    "publication_year": 2022,
+    "title": "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5090094568",
+          "display_name": "Oscar Rodr\u00edguez-Esp\u00edndola",
+          "orcid": "https://orcid.org/0000-0002-4889-1565"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I169199633",
+            "display_name": "Aston University",
+            "ror": "https://ror.org/05j0ve876",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Oscar Rodr\u00edguez-Esp\u00edndola",
+        "raw_affiliation_strings": [
+          "Aston Business School, Aston University, Birmingham, United Kingdom"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4889-1565",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aston Business School, Aston University, Birmingham, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5067653484",
+          "display_name": "Soumyadeb Chowdhury",
+          "orcid": "https://orcid.org/0000-0002-8074-248X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I129162050",
+            "display_name": "TBS Education",
+            "ror": "https://ror.org/0349y2q65",
+            "country_code": "FR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I129162050",
+              "https://openalex.org/I4405258862"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Soumyadeb Chowdhury",
+        "raw_affiliation_strings": [
+          "Information, Operations and Management Sciences, Toulouse Business School, Toulouse, France"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Information, Operations and Management Sciences, Toulouse Business School, Toulouse, France",
+            "institution_ids": [
+              "https://openalex.org/I129162050"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046908030",
+          "display_name": "Prasanta Kumar Dey",
+          "orcid": "https://orcid.org/0000-0002-9984-5374"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I169199633",
+            "display_name": "Aston University",
+            "ror": "https://ror.org/05j0ve876",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Prasanta Kumar Dey",
+        "raw_affiliation_strings": [
+          "Aston Business School, Aston University, Birmingham, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aston Business School, Aston University, Birmingham, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027565771",
+          "display_name": "P\u00e1vel Albores",
+          "orcid": "https://orcid.org/0000-0001-7509-9381"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I169199633",
+            "display_name": "Aston University",
+            "ror": "https://ror.org/05j0ve876",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Pavel Albores",
+        "raw_affiliation_strings": [
+          "Aston Business School, Aston University, Birmingham, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Aston Business School, Aston University, Birmingham, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5040540560",
+          "display_name": "Ali Emrouznejad",
+          "orcid": "https://orcid.org/0000-0001-8094-4244"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I28290843",
+            "display_name": "University of Surrey",
+            "ror": "https://ror.org/00ks66431",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ali Emrouznejad",
+        "raw_affiliation_strings": [
+          "Surrey Business School, Surrey University, Guildford, United Kingdom"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-8094-4244",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Surrey Business School, Surrey University, Guildford, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1016/j.envsci.2019.10.007": {
+    "doi": "10.1016/j.envsci.2019.10.007",
+    "openalex_id": "https://openalex.org/W2960639155",
+    "referenced_works": [
+      "https://openalex.org/W86094386",
+      "https://openalex.org/W140835117",
+      "https://openalex.org/W151868645",
+      "https://openalex.org/W163073578",
+      "https://openalex.org/W212261871",
+      "https://openalex.org/W560354932",
+      "https://openalex.org/W562262017",
+      "https://openalex.org/W562370843",
+      "https://openalex.org/W626086654",
+      "https://openalex.org/W651252017",
+      "https://openalex.org/W998753227",
+      "https://openalex.org/W1244486550",
+      "https://openalex.org/W1498670498",
+      "https://openalex.org/W1576591216",
+      "https://openalex.org/W1594416166",
+      "https://openalex.org/W1739760853",
+      "https://openalex.org/W1874027925",
+      "https://openalex.org/W1964340782",
+      "https://openalex.org/W1968553468",
+      "https://openalex.org/W1973471902",
+      "https://openalex.org/W1973891559",
+      "https://openalex.org/W1974487928",
+      "https://openalex.org/W1975228707",
+      "https://openalex.org/W1978764651",
+      "https://openalex.org/W1980014716",
+      "https://openalex.org/W1984344602",
+      "https://openalex.org/W1984911950",
+      "https://openalex.org/W1998781216",
+      "https://openalex.org/W2003461770",
+      "https://openalex.org/W2012326071",
+      "https://openalex.org/W2015551516",
+      "https://openalex.org/W2016513824",
+      "https://openalex.org/W2017444676",
+      "https://openalex.org/W2028401949",
+      "https://openalex.org/W2030587530",
+      "https://openalex.org/W2032167854",
+      "https://openalex.org/W2032755837",
+      "https://openalex.org/W2040902705",
+      "https://openalex.org/W2042161000",
+      "https://openalex.org/W2042262990",
+      "https://openalex.org/W2046850796",
+      "https://openalex.org/W2047199313",
+      "https://openalex.org/W2055590216",
+      "https://openalex.org/W2061345323",
+      "https://openalex.org/W2065071588",
+      "https://openalex.org/W2066623523",
+      "https://openalex.org/W2070616477",
+      "https://openalex.org/W2072324123",
+      "https://openalex.org/W2078225455",
+      "https://openalex.org/W2084414315",
+      "https://openalex.org/W2084863124",
+      "https://openalex.org/W2094701299",
+      "https://openalex.org/W2098244781",
+      "https://openalex.org/W2098623820",
+      "https://openalex.org/W2105921955",
+      "https://openalex.org/W2110163042",
+      "https://openalex.org/W2110323110",
+      "https://openalex.org/W2118465793",
+      "https://openalex.org/W2122050911",
+      "https://openalex.org/W2122813663",
+      "https://openalex.org/W2126902408",
+      "https://openalex.org/W2128222817",
+      "https://openalex.org/W2130152406",
+      "https://openalex.org/W2136832418",
+      "https://openalex.org/W2138832709",
+      "https://openalex.org/W2139456045",
+      "https://openalex.org/W2148099401",
+      "https://openalex.org/W2150433460",
+      "https://openalex.org/W2150851530",
+      "https://openalex.org/W2157154835",
+      "https://openalex.org/W2162723740",
+      "https://openalex.org/W2163120086",
+      "https://openalex.org/W2170055448",
+      "https://openalex.org/W2172469453",
+      "https://openalex.org/W2174218087",
+      "https://openalex.org/W2177719934",
+      "https://openalex.org/W2179348513",
+      "https://openalex.org/W2198442073",
+      "https://openalex.org/W2230597320",
+      "https://openalex.org/W2230866274",
+      "https://openalex.org/W2240034294",
+      "https://openalex.org/W2262752710",
+      "https://openalex.org/W2265732781",
+      "https://openalex.org/W2287251714",
+      "https://openalex.org/W2290514220",
+      "https://openalex.org/W2315603097",
+      "https://openalex.org/W2315897902",
+      "https://openalex.org/W2338338084",
+      "https://openalex.org/W2340015454",
+      "https://openalex.org/W2344016363",
+      "https://openalex.org/W2365221140",
+      "https://openalex.org/W2403993502",
+      "https://openalex.org/W2470609648",
+      "https://openalex.org/W2471902605",
+      "https://openalex.org/W2475266777",
+      "https://openalex.org/W2505528757",
+      "https://openalex.org/W2546562665",
+      "https://openalex.org/W2552561036",
+      "https://openalex.org/W2553263735",
+      "https://openalex.org/W2567643124",
+      "https://openalex.org/W2592924699",
+      "https://openalex.org/W2593054889",
+      "https://openalex.org/W2600328819",
+      "https://openalex.org/W2600719806",
+      "https://openalex.org/W2602856331",
+      "https://openalex.org/W2606286161",
+      "https://openalex.org/W2609090149",
+      "https://openalex.org/W2610307587",
+      "https://openalex.org/W2620475968",
+      "https://openalex.org/W2625290285",
+      "https://openalex.org/W2739858810",
+      "https://openalex.org/W2741459312",
+      "https://openalex.org/W2744973120",
+      "https://openalex.org/W2749956790",
+      "https://openalex.org/W2764433274",
+      "https://openalex.org/W2768316393",
+      "https://openalex.org/W2770767411",
+      "https://openalex.org/W2777723284",
+      "https://openalex.org/W2786358839",
+      "https://openalex.org/W2787459582",
+      "https://openalex.org/W2788399735",
+      "https://openalex.org/W2793136211",
+      "https://openalex.org/W2799986428",
+      "https://openalex.org/W2800156564",
+      "https://openalex.org/W2804149703",
+      "https://openalex.org/W2805161227",
+      "https://openalex.org/W2806569362",
+      "https://openalex.org/W2807883872",
+      "https://openalex.org/W2809053111",
+      "https://openalex.org/W2890567747",
+      "https://openalex.org/W2895164826",
+      "https://openalex.org/W2897416697",
+      "https://openalex.org/W2898809095",
+      "https://openalex.org/W2901630300",
+      "https://openalex.org/W2902108928",
+      "https://openalex.org/W2902411700",
+      "https://openalex.org/W2904551084",
+      "https://openalex.org/W2908283033",
+      "https://openalex.org/W2909678677",
+      "https://openalex.org/W2911463972",
+      "https://openalex.org/W2916466615",
+      "https://openalex.org/W2939224145",
+      "https://openalex.org/W2963828362",
+      "https://openalex.org/W2980340528",
+      "https://openalex.org/W3004377517",
+      "https://openalex.org/W3125737366",
+      "https://openalex.org/W3125846411",
+      "https://openalex.org/W3126096793",
+      "https://openalex.org/W3145027350",
+      "https://openalex.org/W4247135137",
+      "https://openalex.org/W6605648971",
+      "https://openalex.org/W6606686439",
+      "https://openalex.org/W6615681463",
+      "https://openalex.org/W6658075396",
+      "https://openalex.org/W6680394824",
+      "https://openalex.org/W6682244222",
+      "https://openalex.org/W6686033806",
+      "https://openalex.org/W6687473572",
+      "https://openalex.org/W6699335434",
+      "https://openalex.org/W6699482789"
+    ],
+    "cited_by_count": 311,
+    "publication_year": 2019,
+    "title": "Adaptation and development pathways for different types of farmers",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5025324057",
+          "display_name": "Lindsay C. Stringer",
+          "orcid": "https://orcid.org/0000-0003-0017-1654"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130828816",
+            "display_name": "University of Leeds",
+            "ror": "https://ror.org/024mrxd33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "L.C. Stringer",
+        "raw_affiliation_strings": [
+          "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK",
+            "institution_ids": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5066634889",
+          "display_name": "Evan Fraser",
+          "orcid": "https://orcid.org/0000-0001-5124-488X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79817857",
+            "display_name": "University of Guelph",
+            "ror": "https://ror.org/01r7awg59",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79817857"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "E.D.G. Fraser",
+        "raw_affiliation_strings": [
+          "Arrell Food Institute and Department of Geography, Environment and Geomatics, University of Guelph, 50 Stone Rd. East. Guelph, Ontario, N1G2W1, Canada"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Arrell Food Institute and Department of Geography, Environment and Geomatics, University of Guelph, 50 Stone Rd. East. Guelph, Ontario, N1G2W1, Canada",
+            "institution_ids": [
+              "https://openalex.org/I79817857"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061512525",
+          "display_name": "D. Harris",
+          "orcid": "https://orcid.org/0000-0002-4561-2487"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I161548249",
+            "display_name": "Bangor University",
+            "ror": "https://ror.org/006jb1a24",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I161548249"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210109136",
+            "display_name": "International Crops Research Institute for the Semi-Arid Tropics",
+            "ror": "https://ror.org/01tapgj66",
+            "country_code": "KE",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I1286583668",
+              "https://openalex.org/I4210109136"
+            ]
+          }
+        ],
+        "countries": [
+          "GB",
+          "KE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "D. Harris",
+        "raw_affiliation_strings": [
+          "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), PO Box 39063, Nairobi, Kenya",
+          "School of Natural Sciences, Thoday Building, Bangor University, Bangor, Gwynedd, LL57 2UW, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), PO Box 39063, Nairobi, Kenya",
+            "institution_ids": [
+              "https://openalex.org/I4210109136"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Natural Sciences, Thoday Building, Bangor University, Bangor, Gwynedd, LL57 2UW, UK",
+            "institution_ids": [
+              "https://openalex.org/I161548249"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035375125",
+          "display_name": "Christopher J. Lyon",
+          "orcid": "https://orcid.org/0000-0003-2319-2933"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130828816",
+            "display_name": "University of Leeds",
+            "ror": "https://ror.org/024mrxd33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "C. Lyon",
+        "raw_affiliation_strings": [
+          "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK",
+            "institution_ids": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061607748",
+          "display_name": "Laura Pereira",
+          "orcid": "https://orcid.org/0000-0002-4996-7234"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180825142",
+            "display_name": "City, University of London",
+            "ror": "https://ror.org/04489at23",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I180825142"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "L. Pereira",
+        "raw_affiliation_strings": [
+          "Centre for Food Policy, City University of London, Northampton Square, London, EC1V 0HB, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for Food Policy, City University of London, Northampton Square, London, EC1V 0HB, UK",
+            "institution_ids": [
+              "https://openalex.org/I180825142"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5037282921",
+          "display_name": "Caroline Ward",
+          "orcid": "https://orcid.org/0000-0001-8362-4713"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130828816",
+            "display_name": "University of Leeds",
+            "ror": "https://ror.org/024mrxd33",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "C.F.M. Ward",
+        "raw_affiliation_strings": [
+          "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sustainability Research Institute, School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK",
+            "institution_ids": [
+              "https://openalex.org/I130828816"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5026730648",
+          "display_name": "Elisabeth Simelton",
+          "orcid": "https://orcid.org/0000-0002-0486-627X"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "E. Simelton",
+        "raw_affiliation_strings": [
+          "World Agroforestry (ICRAF Viet Nam), 249A Thuy Khue, Ha Noi, Viet Nam"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "World Agroforestry (ICRAF Viet Nam), 249A Thuy Khue, Ha Noi, Viet Nam",
+            "institution_ids": []
+          }
+        ]
+      }
+    ]
+  },
+  "10.1093/acprof:oso/9780198747482.001.0001": {
+    "doi": "10.1093/acprof:oso/9780198747482.001.0001",
+    "openalex_id": "https://openalex.org/W2514588022",
+    "referenced_works": [
+      "https://openalex.org/W56793145",
+      "https://openalex.org/W92168764",
+      "https://openalex.org/W102118986",
+      "https://openalex.org/W125346105",
+      "https://openalex.org/W130944638",
+      "https://openalex.org/W153860037",
+      "https://openalex.org/W168804591",
+      "https://openalex.org/W648507640",
+      "https://openalex.org/W1484483931",
+      "https://openalex.org/W1498661229",
+      "https://openalex.org/W1509532154",
+      "https://openalex.org/W1514375400",
+      "https://openalex.org/W1565412063",
+      "https://openalex.org/W1573118612",
+      "https://openalex.org/W1573432328",
+      "https://openalex.org/W1582799389",
+      "https://openalex.org/W1585623648",
+      "https://openalex.org/W1657980237",
+      "https://openalex.org/W1819135497",
+      "https://openalex.org/W1832908012",
+      "https://openalex.org/W1838046222",
+      "https://openalex.org/W1880688632",
+      "https://openalex.org/W1921356960",
+      "https://openalex.org/W1923951652",
+      "https://openalex.org/W1951068434",
+      "https://openalex.org/W1958810013",
+      "https://openalex.org/W1962085283",
+      "https://openalex.org/W1971818615",
+      "https://openalex.org/W1972126835",
+      "https://openalex.org/W1978479335",
+      "https://openalex.org/W1983767855",
+      "https://openalex.org/W1989481315",
+      "https://openalex.org/W1991265073",
+      "https://openalex.org/W1992263018",
+      "https://openalex.org/W1992646729",
+      "https://openalex.org/W1993663609",
+      "https://openalex.org/W1996334075",
+      "https://openalex.org/W1999429842",
+      "https://openalex.org/W2001888339",
+      "https://openalex.org/W2003956254",
+      "https://openalex.org/W2012849016",
+      "https://openalex.org/W2014529019",
+      "https://openalex.org/W2015512045",
+      "https://openalex.org/W2017506304",
+      "https://openalex.org/W2020332019",
+      "https://openalex.org/W2022275529",
+      "https://openalex.org/W2022597346",
+      "https://openalex.org/W2025733384",
+      "https://openalex.org/W2026503015",
+      "https://openalex.org/W2026572218",
+      "https://openalex.org/W2028878252",
+      "https://openalex.org/W2032994470",
+      "https://openalex.org/W2036661373",
+      "https://openalex.org/W2038009234",
+      "https://openalex.org/W2039048406",
+      "https://openalex.org/W2041886080",
+      "https://openalex.org/W2044315762",
+      "https://openalex.org/W2049801732",
+      "https://openalex.org/W2053087258",
+      "https://openalex.org/W2054071175",
+      "https://openalex.org/W2054532817",
+      "https://openalex.org/W2054829046",
+      "https://openalex.org/W2054837714",
+      "https://openalex.org/W2054939773",
+      "https://openalex.org/W2060172782",
+      "https://openalex.org/W2073912395",
+      "https://openalex.org/W2074684231",
+      "https://openalex.org/W2076356092",
+      "https://openalex.org/W2081331721",
+      "https://openalex.org/W2081446015",
+      "https://openalex.org/W2085031828",
+      "https://openalex.org/W2087358759",
+      "https://openalex.org/W2091147670",
+      "https://openalex.org/W2092884934",
+      "https://openalex.org/W2093145521",
+      "https://openalex.org/W2093643082",
+      "https://openalex.org/W2097442767",
+      "https://openalex.org/W2098725969",
+      "https://openalex.org/W2103562292",
+      "https://openalex.org/W2109331402",
+      "https://openalex.org/W2111534125",
+      "https://openalex.org/W2112671717",
+      "https://openalex.org/W2114191690",
+      "https://openalex.org/W2114226309",
+      "https://openalex.org/W2117535423",
+      "https://openalex.org/W2117915628",
+      "https://openalex.org/W2121971448",
+      "https://openalex.org/W2122014785",
+      "https://openalex.org/W2123937965",
+      "https://openalex.org/W2124977704",
+      "https://openalex.org/W2128844900",
+      "https://openalex.org/W2130611889",
+      "https://openalex.org/W2132183048",
+      "https://openalex.org/W2134679859",
+      "https://openalex.org/W2136918690",
+      "https://openalex.org/W2140264770",
+      "https://openalex.org/W2140512343",
+      "https://openalex.org/W2142111389",
+      "https://openalex.org/W2143423242",
+      "https://openalex.org/W2149902237",
+      "https://openalex.org/W2153981305",
+      "https://openalex.org/W2155701898",
+      "https://openalex.org/W2157440958",
+      "https://openalex.org/W2160158224",
+      "https://openalex.org/W2162482203",
+      "https://openalex.org/W2162574719",
+      "https://openalex.org/W2162839664",
+      "https://openalex.org/W2165717995",
+      "https://openalex.org/W2166877384",
+      "https://openalex.org/W2168421867",
+      "https://openalex.org/W2171605283",
+      "https://openalex.org/W2171773211",
+      "https://openalex.org/W2182374367",
+      "https://openalex.org/W2184367942",
+      "https://openalex.org/W2189931850",
+      "https://openalex.org/W2205483386",
+      "https://openalex.org/W2257322275",
+      "https://openalex.org/W2261424458",
+      "https://openalex.org/W2277585417",
+      "https://openalex.org/W2307373483",
+      "https://openalex.org/W2317459592",
+      "https://openalex.org/W2318122246",
+      "https://openalex.org/W2327401218",
+      "https://openalex.org/W2328126283",
+      "https://openalex.org/W2334645172",
+      "https://openalex.org/W2337490442",
+      "https://openalex.org/W2344822740",
+      "https://openalex.org/W2493546916",
+      "https://openalex.org/W2502548575",
+      "https://openalex.org/W2502741366",
+      "https://openalex.org/W2531458259",
+      "https://openalex.org/W3122951299",
+      "https://openalex.org/W3125553957",
+      "https://openalex.org/W3125576584",
+      "https://openalex.org/W6616534132",
+      "https://openalex.org/W6630305947",
+      "https://openalex.org/W6774907094",
+      "https://openalex.org/W6981192181",
+      "https://openalex.org/W7014402941",
+      "https://openalex.org/W7020778037",
+      "https://openalex.org/W7065726075"
+    ],
+    "cited_by_count": 6,
+    "publication_year": 2017,
+    "title": "Building State Capability",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101537307",
+          "display_name": "Matt Andrews",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Matt Andrews",
+        "raw_affiliation_strings": [
+          "Senior Lecturer in Public Policy, Harvard Kennedy School"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Senior Lecturer in Public Policy, Harvard Kennedy School",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5083893213",
+          "display_name": "Lant Pritchett",
+          "orcid": "https://orcid.org/0000-0002-3736-3118"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Lant Pritchett",
+        "raw_affiliation_strings": [
+          "Professor of the Practice of International Development, Harvard Kennedy School"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Professor of the Practice of International Development, Harvard Kennedy School",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5112602882",
+          "display_name": "Michael Woolcock",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I55633929",
+            "display_name": "World Bank Group",
+            "ror": "https://ror.org/02md09461",
+            "country_code": "US",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I55633929"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael Woolcock",
+        "raw_affiliation_strings": [
+          "Lead Social Development Specialist, Development Research Group, World Bank"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Lead Social Development Specialist, Development Research Group, World Bank",
+            "institution_ids": [
+              "https://openalex.org/I55633929"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.64357/capacity-building-in-developing-countries-2025": {
+    "doi": "10.64357/capacity-building-in-developing-countries-2025",
+    "openalex_id": "https://openalex.org/W4413241520",
+    "referenced_works": [
+      "https://openalex.org/W568040008",
+      "https://openalex.org/W1996392459",
+      "https://openalex.org/W2048104434",
+      "https://openalex.org/W2074978888",
+      "https://openalex.org/W2104972618",
+      "https://openalex.org/W2124217459",
+      "https://openalex.org/W2141092795",
+      "https://openalex.org/W2156152166",
+      "https://openalex.org/W2161424516",
+      "https://openalex.org/W2581082771",
+      "https://openalex.org/W2890469849",
+      "https://openalex.org/W3123010330",
+      "https://openalex.org/W4245756979",
+      "https://openalex.org/W4412774925",
+      "https://openalex.org/W4413004092",
+      "https://openalex.org/W4413806540",
+      "https://openalex.org/W4413807738"
+    ],
+    "cited_by_count": 73,
+    "publication_year": 2025,
+    "title": "Capacity Building in Developing Countries",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Neya Global",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Neya Global",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Anna Kazanskaia",
+          "orcid": "https://orcid.org/0009-0009-5669-1676"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Anna Kazanskaia",
+        "raw_affiliation_strings": [],
+        "raw_orcid": "https://orcid.org/0009-0009-5669-1676",
+        "affiliations": []
+      }
+    ]
+  },
+  "10.1111/isj.12326": {
+    "doi": "10.1111/isj.12326",
+    "openalex_id": "https://openalex.org/W3127663722",
+    "referenced_works": [
+      "https://openalex.org/W32034586",
+      "https://openalex.org/W135979475",
+      "https://openalex.org/W154565684",
+      "https://openalex.org/W601324003",
+      "https://openalex.org/W623008373",
+      "https://openalex.org/W1260594065",
+      "https://openalex.org/W1423991356",
+      "https://openalex.org/W1499929202",
+      "https://openalex.org/W1531906443",
+      "https://openalex.org/W1535803599",
+      "https://openalex.org/W1561558283",
+      "https://openalex.org/W1573877699",
+      "https://openalex.org/W1579354725",
+      "https://openalex.org/W1681855131",
+      "https://openalex.org/W1755767712",
+      "https://openalex.org/W1759526249",
+      "https://openalex.org/W1827903631",
+      "https://openalex.org/W1879118342",
+      "https://openalex.org/W1984997401",
+      "https://openalex.org/W2018881137",
+      "https://openalex.org/W2025990576",
+      "https://openalex.org/W2042224351",
+      "https://openalex.org/W2052419127",
+      "https://openalex.org/W2054142042",
+      "https://openalex.org/W2061528762",
+      "https://openalex.org/W2067406807",
+      "https://openalex.org/W2070639717",
+      "https://openalex.org/W2075763914",
+      "https://openalex.org/W2080841932",
+      "https://openalex.org/W2096623496",
+      "https://openalex.org/W2099476863",
+      "https://openalex.org/W2108870342",
+      "https://openalex.org/W2111426112",
+      "https://openalex.org/W2129401377",
+      "https://openalex.org/W2137625400",
+      "https://openalex.org/W2143642228",
+      "https://openalex.org/W2152359509",
+      "https://openalex.org/W2156236309",
+      "https://openalex.org/W2158014128",
+      "https://openalex.org/W2158092565",
+      "https://openalex.org/W2161368511",
+      "https://openalex.org/W2169171422",
+      "https://openalex.org/W2242902128",
+      "https://openalex.org/W2261521002",
+      "https://openalex.org/W2276947754",
+      "https://openalex.org/W2334622211",
+      "https://openalex.org/W2416367225",
+      "https://openalex.org/W2416446527",
+      "https://openalex.org/W2420534729",
+      "https://openalex.org/W2480769266",
+      "https://openalex.org/W2501145764",
+      "https://openalex.org/W2501723607",
+      "https://openalex.org/W2507856544",
+      "https://openalex.org/W2510447032",
+      "https://openalex.org/W2542297038",
+      "https://openalex.org/W2569080466",
+      "https://openalex.org/W2570854358",
+      "https://openalex.org/W2573660794",
+      "https://openalex.org/W2591793832",
+      "https://openalex.org/W2594777817",
+      "https://openalex.org/W2595903844",
+      "https://openalex.org/W2605821496",
+      "https://openalex.org/W2611120648",
+      "https://openalex.org/W2614632081",
+      "https://openalex.org/W2615468083",
+      "https://openalex.org/W2615661727",
+      "https://openalex.org/W2616169401",
+      "https://openalex.org/W2620367402",
+      "https://openalex.org/W2623502740",
+      "https://openalex.org/W2685118618",
+      "https://openalex.org/W2751521969",
+      "https://openalex.org/W2757272421",
+      "https://openalex.org/W2764072425",
+      "https://openalex.org/W2768063242",
+      "https://openalex.org/W2768332621",
+      "https://openalex.org/W2773102943",
+      "https://openalex.org/W2773662424",
+      "https://openalex.org/W2791055108",
+      "https://openalex.org/W2791637817",
+      "https://openalex.org/W2791903584",
+      "https://openalex.org/W2799520887",
+      "https://openalex.org/W2799670133",
+      "https://openalex.org/W2799903446",
+      "https://openalex.org/W2801115940",
+      "https://openalex.org/W2804990926",
+      "https://openalex.org/W2884094662",
+      "https://openalex.org/W2886616205",
+      "https://openalex.org/W2887734062",
+      "https://openalex.org/W2889315866",
+      "https://openalex.org/W2893554888",
+      "https://openalex.org/W2896207089",
+      "https://openalex.org/W2896254170",
+      "https://openalex.org/W2900677429",
+      "https://openalex.org/W2909741464",
+      "https://openalex.org/W2912103597",
+      "https://openalex.org/W2913846067",
+      "https://openalex.org/W2914439198",
+      "https://openalex.org/W2938471829",
+      "https://openalex.org/W2943390543",
+      "https://openalex.org/W2949038147",
+      "https://openalex.org/W2954321710",
+      "https://openalex.org/W2970715014",
+      "https://openalex.org/W2973557487",
+      "https://openalex.org/W2994279402",
+      "https://openalex.org/W2994772947",
+      "https://openalex.org/W2998300106",
+      "https://openalex.org/W3007739468",
+      "https://openalex.org/W3013702248",
+      "https://openalex.org/W3013738720",
+      "https://openalex.org/W3020233758",
+      "https://openalex.org/W3026200982",
+      "https://openalex.org/W3123711316",
+      "https://openalex.org/W3124204492",
+      "https://openalex.org/W3124914597",
+      "https://openalex.org/W3125593377",
+      "https://openalex.org/W3148764830",
+      "https://openalex.org/W3165186067",
+      "https://openalex.org/W3179815073",
+      "https://openalex.org/W4210639337",
+      "https://openalex.org/W4230053792",
+      "https://openalex.org/W4237047286",
+      "https://openalex.org/W4237981270",
+      "https://openalex.org/W4239614082",
+      "https://openalex.org/W4240580964",
+      "https://openalex.org/W4248709069",
+      "https://openalex.org/W4252733663",
+      "https://openalex.org/W4254363066",
+      "https://openalex.org/W4403108392",
+      "https://openalex.org/W6606232338",
+      "https://openalex.org/W6631778744",
+      "https://openalex.org/W6767678932"
+    ],
+    "cited_by_count": 465,
+    "publication_year": 2021,
+    "title": "Digital platforms for development: Foundations and research agenda",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5041397374",
+          "display_name": "Carla Bonina",
+          "orcid": "https://orcid.org/0000-0001-9186-3239"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I28290843",
+            "display_name": "University of Surrey",
+            "ror": "https://ror.org/00ks66431",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Carla Bonina",
+        "raw_affiliation_strings": [
+          "Surrey Business School University of Surrey Guildford UK",
+          "Surrey Business School, University of Surrey, Guildford, UK"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-9186-3239",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Surrey Business School University of Surrey Guildford UK",
+            "institution_ids": [
+              "https://openalex.org/I28290843"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Surrey Business School, University of Surrey, Guildford, UK",
+            "institution_ids": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5031358893",
+          "display_name": "Kari Koskinen",
+          "orcid": "https://orcid.org/0000-0003-0553-4645"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I9927081",
+            "display_name": "Aalto University",
+            "ror": "https://ror.org/020hwjq30",
+            "country_code": "FI",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I9927081"
+            ]
+          }
+        ],
+        "countries": [
+          "FI"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kari Koskinen",
+        "raw_affiliation_strings": [
+          "Department of Information and Service Management Aalto University School of Business Aalto Finland",
+          "Department of Information and Service Management, Aalto University School of Business, Aalto, Finland"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0553-4645",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Information and Service Management Aalto University School of Business Aalto Finland",
+            "institution_ids": [
+              "https://openalex.org/I9927081"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Information and Service Management, Aalto University School of Business, Aalto, Finland",
+            "institution_ids": [
+              "https://openalex.org/I9927081"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5047701892",
+          "display_name": "Ben Eaton",
+          "orcid": "https://orcid.org/0000-0001-8107-2986"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180519160",
+            "display_name": "Copenhagen Business School",
+            "ror": "https://ror.org/04sppb023",
+            "country_code": "DK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I180519160"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I2800207870",
+            "display_name": "H\u00f8yskolen Kristiania",
+            "ror": "https://ror.org/03gss5916",
+            "country_code": "NO",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2800207870"
+            ]
+          }
+        ],
+        "countries": [
+          "DK",
+          "NO"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ben Eaton",
+        "raw_affiliation_strings": [
+          "Department of Digitalization Copenhagen Business School Frederiksberg Denmark",
+          "Department of Technology H\u00f8yskolen Kristiania Oslo 0186 Norway",
+          "Department of Digitalization, Copenhagen Business School, Frederiksberg, Denmark"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-8107-2986",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Digitalization Copenhagen Business School Frederiksberg Denmark",
+            "institution_ids": [
+              "https://openalex.org/I180519160"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Technology H\u00f8yskolen Kristiania Oslo 0186 Norway",
+            "institution_ids": [
+              "https://openalex.org/I2800207870"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Digitalization, Copenhagen Business School, Frederiksberg, Denmark",
+            "institution_ids": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5034801924",
+          "display_name": "Annabelle Gawer",
+          "orcid": "https://orcid.org/0000-0001-9919-9088"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I28290843",
+            "display_name": "University of Surrey",
+            "ror": "https://ror.org/00ks66431",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Annabelle Gawer",
+        "raw_affiliation_strings": [
+          "Surrey Business School University of Surrey Guildford UK",
+          "Surrey Business School, University of Surrey, Guildford, UK"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-9919-9088",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Surrey Business School University of Surrey Guildford UK",
+            "institution_ids": [
+              "https://openalex.org/I28290843"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Surrey Business School, University of Surrey, Guildford, UK",
+            "institution_ids": [
+              "https://openalex.org/I28290843"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1186/s12961-021-00757-3": {
+    "doi": "10.1186/s12961-021-00757-3",
+    "openalex_id": "https://openalex.org/W3206443651",
+    "referenced_works": [
+      "https://openalex.org/W23230279",
+      "https://openalex.org/W1499200948",
+      "https://openalex.org/W1521305908",
+      "https://openalex.org/W1538250505",
+      "https://openalex.org/W1722695715",
+      "https://openalex.org/W1769791056",
+      "https://openalex.org/W1830449750",
+      "https://openalex.org/W1899894888",
+      "https://openalex.org/W1939558104",
+      "https://openalex.org/W1971112309",
+      "https://openalex.org/W1988736867",
+      "https://openalex.org/W1997300049",
+      "https://openalex.org/W2005336165",
+      "https://openalex.org/W2016361407",
+      "https://openalex.org/W2019013274",
+      "https://openalex.org/W2022634564",
+      "https://openalex.org/W2025769476",
+      "https://openalex.org/W2033775070",
+      "https://openalex.org/W2041712117",
+      "https://openalex.org/W2055454537",
+      "https://openalex.org/W2058172538",
+      "https://openalex.org/W2072353656",
+      "https://openalex.org/W2076488818",
+      "https://openalex.org/W2079944451",
+      "https://openalex.org/W2081083262",
+      "https://openalex.org/W2084532904",
+      "https://openalex.org/W2091917591",
+      "https://openalex.org/W2094548435",
+      "https://openalex.org/W2095628659",
+      "https://openalex.org/W2095802080",
+      "https://openalex.org/W2096413885",
+      "https://openalex.org/W2096793087",
+      "https://openalex.org/W2104806590",
+      "https://openalex.org/W2108288098",
+      "https://openalex.org/W2109387850",
+      "https://openalex.org/W2110905756",
+      "https://openalex.org/W2114463050",
+      "https://openalex.org/W2114762941",
+      "https://openalex.org/W2115342105",
+      "https://openalex.org/W2115453645",
+      "https://openalex.org/W2116441987",
+      "https://openalex.org/W2121691147",
+      "https://openalex.org/W2123518727",
+      "https://openalex.org/W2123807673",
+      "https://openalex.org/W2125729139",
+      "https://openalex.org/W2127160713",
+      "https://openalex.org/W2135428214",
+      "https://openalex.org/W2135879546",
+      "https://openalex.org/W2136709565",
+      "https://openalex.org/W2140866187",
+      "https://openalex.org/W2145368432",
+      "https://openalex.org/W2145408478",
+      "https://openalex.org/W2146316399",
+      "https://openalex.org/W2147955909",
+      "https://openalex.org/W2153827421",
+      "https://openalex.org/W2155975490",
+      "https://openalex.org/W2157166108",
+      "https://openalex.org/W2157966401",
+      "https://openalex.org/W2159483248",
+      "https://openalex.org/W2163568249",
+      "https://openalex.org/W2167167126",
+      "https://openalex.org/W2170580486",
+      "https://openalex.org/W2170762685",
+      "https://openalex.org/W2202527252",
+      "https://openalex.org/W2253004079",
+      "https://openalex.org/W2275502697",
+      "https://openalex.org/W2395484904",
+      "https://openalex.org/W2405899926",
+      "https://openalex.org/W2468465768",
+      "https://openalex.org/W2546642335",
+      "https://openalex.org/W2585461869",
+      "https://openalex.org/W2588124998",
+      "https://openalex.org/W2594908580",
+      "https://openalex.org/W2729409893",
+      "https://openalex.org/W2729898782",
+      "https://openalex.org/W2730449391",
+      "https://openalex.org/W2747538276",
+      "https://openalex.org/W2765420510",
+      "https://openalex.org/W2765988070",
+      "https://openalex.org/W2770714769",
+      "https://openalex.org/W2772821732",
+      "https://openalex.org/W2774683614",
+      "https://openalex.org/W2804991408",
+      "https://openalex.org/W2806499165",
+      "https://openalex.org/W2886870817",
+      "https://openalex.org/W2893426645",
+      "https://openalex.org/W2894656887",
+      "https://openalex.org/W2898559221",
+      "https://openalex.org/W2903521859",
+      "https://openalex.org/W2922310306",
+      "https://openalex.org/W2929214896",
+      "https://openalex.org/W2929837330",
+      "https://openalex.org/W2947311662",
+      "https://openalex.org/W2955123706",
+      "https://openalex.org/W2964701423",
+      "https://openalex.org/W2971127810",
+      "https://openalex.org/W2973552214",
+      "https://openalex.org/W2982020570",
+      "https://openalex.org/W2994860215",
+      "https://openalex.org/W3005932712",
+      "https://openalex.org/W3008683861",
+      "https://openalex.org/W3014033622",
+      "https://openalex.org/W3015860799",
+      "https://openalex.org/W3021682674",
+      "https://openalex.org/W3032422453",
+      "https://openalex.org/W3032591787",
+      "https://openalex.org/W3041305424",
+      "https://openalex.org/W3085883823",
+      "https://openalex.org/W3205373217",
+      "https://openalex.org/W3205755703",
+      "https://openalex.org/W3205873947",
+      "https://openalex.org/W3206230945",
+      "https://openalex.org/W3206264955",
+      "https://openalex.org/W3206479284",
+      "https://openalex.org/W3206704155",
+      "https://openalex.org/W3206760623",
+      "https://openalex.org/W3207336561",
+      "https://openalex.org/W3207836732",
+      "https://openalex.org/W4211158269",
+      "https://openalex.org/W4229834685",
+      "https://openalex.org/W4243367267",
+      "https://openalex.org/W4254094016"
+    ],
+    "cited_by_count": 134,
+    "publication_year": 2021,
+    "title": "Community health workers at the dawn of a new era: 6. Recruitment, training, and continuing education",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5041335450",
+          "display_name": "Meike Schleiff",
+          "orcid": "https://orcid.org/0000-0001-6492-3718"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Meike J. Schleiff",
+        "raw_affiliation_strings": [
+          "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-6492-3718",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5089589765",
+          "display_name": "Iain Aitken",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210114437",
+            "display_name": "Ministry of Public Health",
+            "ror": "https://ror.org/01yzgk702",
+            "country_code": "AF",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I4210114437"
+            ]
+          }
+        ],
+        "countries": [
+          "AF"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Iain Aitken",
+        "raw_affiliation_strings": [
+          "Management Sciences for Health, Ministry of Public Health, Kabul, Afghanistan"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Management Sciences for Health, Ministry of Public Health, Kabul, Afghanistan",
+            "institution_ids": [
+              "https://openalex.org/I4210114437"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5041132561",
+          "display_name": "Mohammad Ariful Alam",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I173536338",
+            "display_name": "BRAC",
+            "ror": "https://ror.org/04hvavg21",
+            "country_code": "BD",
+            "type": "other",
+            "lineage": [
+              "https://openalex.org/I173536338"
+            ]
+          }
+        ],
+        "countries": [
+          "BD"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohammad Ariful Alam",
+        "raw_affiliation_strings": [
+          "BRAC, Dhaka, Bangladesh"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "BRAC, Dhaka, Bangladesh",
+            "institution_ids": [
+              "https://openalex.org/I173536338"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5056842989",
+          "display_name": "Zufan Abera Damtew",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Zufan Abera Damtew",
+        "raw_affiliation_strings": [
+          "EngenderHealth, Addis Ababa, Ethiopia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "EngenderHealth, Addis Ababa, Ethiopia",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5007009265",
+          "display_name": "Henry B. Perry",
+          "orcid": "https://orcid.org/0000-0003-0561-0492"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145311948",
+            "display_name": "Johns Hopkins University",
+            "ror": "https://ror.org/00za53h95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Henry B. Perry",
+        "raw_affiliation_strings": [
+          "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. hperry2@jhu.edu",
+          "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0561-0492",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. hperry2@jhu.edu",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Health Systems Program, Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",
+            "institution_ids": [
+              "https://openalex.org/I145311948"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1787/4adffb24-en": {
+    "doi": "10.1787/4adffb24-en",
+    "openalex_id": "https://openalex.org/W2582103037",
+    "referenced_works": [
+      "https://openalex.org/W577237468",
+      "https://openalex.org/W1491036686",
+      "https://openalex.org/W1516051863",
+      "https://openalex.org/W1518643727",
+      "https://openalex.org/W1530397009",
+      "https://openalex.org/W1547035963",
+      "https://openalex.org/W1598456329",
+      "https://openalex.org/W1963562210",
+      "https://openalex.org/W1966180358",
+      "https://openalex.org/W1970090130",
+      "https://openalex.org/W1974589370",
+      "https://openalex.org/W2030937998",
+      "https://openalex.org/W2037337258",
+      "https://openalex.org/W2047883466",
+      "https://openalex.org/W2064288637",
+      "https://openalex.org/W2085225290",
+      "https://openalex.org/W2135691596",
+      "https://openalex.org/W2151927819",
+      "https://openalex.org/W2166856083",
+      "https://openalex.org/W2225786961",
+      "https://openalex.org/W2279520549",
+      "https://openalex.org/W2299462075",
+      "https://openalex.org/W2526781987",
+      "https://openalex.org/W2553735618",
+      "https://openalex.org/W2775734636",
+      "https://openalex.org/W2797697601",
+      "https://openalex.org/W3121537957",
+      "https://openalex.org/W3122204825",
+      "https://openalex.org/W3122952986",
+      "https://openalex.org/W3176682987",
+      "https://openalex.org/W3190948128",
+      "https://openalex.org/W3194135521",
+      "https://openalex.org/W4200240063",
+      "https://openalex.org/W4200480450",
+      "https://openalex.org/W4213364935",
+      "https://openalex.org/W4232981813",
+      "https://openalex.org/W4234102899",
+      "https://openalex.org/W4239262191",
+      "https://openalex.org/W4239302827",
+      "https://openalex.org/W4250171607",
+      "https://openalex.org/W4253491122",
+      "https://openalex.org/W6638449837",
+      "https://openalex.org/W6677178669",
+      "https://openalex.org/W6697831456",
+      "https://openalex.org/W6799147504"
+    ],
+    "cited_by_count": 243,
+    "publication_year": 2016,
+    "title": "Harnessing the digital economy for developing countries",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5001487777",
+          "display_name": "Carl J. Dahlman",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1288051870",
+            "display_name": "Organisation de Coop\u00e9ration et de D\u00e9veloppement Economiques",
+            "ror": "https://ror.org/0438wbg98",
+            "country_code": "FR",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Dahlman, Carl",
+        "raw_affiliation_strings": [
+          "OECD"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "OECD",
+            "institution_ids": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5089939373",
+          "display_name": "Sam Mealy",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1288051870",
+            "display_name": "Organisation de Coop\u00e9ration et de D\u00e9veloppement Economiques",
+            "ror": "https://ror.org/0438wbg98",
+            "country_code": "FR",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mealy, Sam",
+        "raw_affiliation_strings": [
+          "OECD"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "OECD",
+            "institution_ids": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5031792455",
+          "display_name": "Martin Wermelinger",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1288051870",
+            "display_name": "Organisation de Coop\u00e9ration et de D\u00e9veloppement Economiques",
+            "ror": "https://ror.org/0438wbg98",
+            "country_code": "FR",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ],
+        "countries": [
+          "FR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Wermelinger, Martin",
+        "raw_affiliation_strings": [
+          "OECD"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "OECD",
+            "institution_ids": [
+              "https://openalex.org/I1288051870"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1016/j.heliyon.2023.e22601": {
+    "doi": "10.1016/j.heliyon.2023.e22601",
+    "openalex_id": "https://openalex.org/W4388870743",
+    "referenced_works": [
+      "https://openalex.org/W65480031",
+      "https://openalex.org/W300909183",
+      "https://openalex.org/W637920142",
+      "https://openalex.org/W1426227623",
+      "https://openalex.org/W1833491659",
+      "https://openalex.org/W2014523082",
+      "https://openalex.org/W2025252592",
+      "https://openalex.org/W2076063813",
+      "https://openalex.org/W2081143132",
+      "https://openalex.org/W2086569847",
+      "https://openalex.org/W2094189035",
+      "https://openalex.org/W2106315213",
+      "https://openalex.org/W2135377668",
+      "https://openalex.org/W2167073294",
+      "https://openalex.org/W2262056676",
+      "https://openalex.org/W2278867595",
+      "https://openalex.org/W2342655591",
+      "https://openalex.org/W2401246392",
+      "https://openalex.org/W2406192270",
+      "https://openalex.org/W2472944192",
+      "https://openalex.org/W2487200295",
+      "https://openalex.org/W2509225601",
+      "https://openalex.org/W2559069850",
+      "https://openalex.org/W2566705668",
+      "https://openalex.org/W2578476968",
+      "https://openalex.org/W2580118294",
+      "https://openalex.org/W2587466508",
+      "https://openalex.org/W2593498266",
+      "https://openalex.org/W2738885274",
+      "https://openalex.org/W2761140038",
+      "https://openalex.org/W2779544641",
+      "https://openalex.org/W2789981453",
+      "https://openalex.org/W2790979755",
+      "https://openalex.org/W2793333522",
+      "https://openalex.org/W2805552798",
+      "https://openalex.org/W2807837006",
+      "https://openalex.org/W2808491842",
+      "https://openalex.org/W2810673433",
+      "https://openalex.org/W2885770726",
+      "https://openalex.org/W2888584813",
+      "https://openalex.org/W2888729493",
+      "https://openalex.org/W2889403099",
+      "https://openalex.org/W2891585855",
+      "https://openalex.org/W2891598119",
+      "https://openalex.org/W2894767435",
+      "https://openalex.org/W2896711834",
+      "https://openalex.org/W2902412098",
+      "https://openalex.org/W2905232482",
+      "https://openalex.org/W2907017276",
+      "https://openalex.org/W2911938677",
+      "https://openalex.org/W2919784967",
+      "https://openalex.org/W2922903482",
+      "https://openalex.org/W2923445177",
+      "https://openalex.org/W2924000030",
+      "https://openalex.org/W2929736875",
+      "https://openalex.org/W2943140223",
+      "https://openalex.org/W2944546117",
+      "https://openalex.org/W2944766936",
+      "https://openalex.org/W2945916355",
+      "https://openalex.org/W2950099013",
+      "https://openalex.org/W2953712409",
+      "https://openalex.org/W2955628317",
+      "https://openalex.org/W2963540401",
+      "https://openalex.org/W2963828362",
+      "https://openalex.org/W2964523010",
+      "https://openalex.org/W2965761488",
+      "https://openalex.org/W2989660890",
+      "https://openalex.org/W2990272218",
+      "https://openalex.org/W2995631322",
+      "https://openalex.org/W2997998108",
+      "https://openalex.org/W3000653370",
+      "https://openalex.org/W3003262233",
+      "https://openalex.org/W3006888865",
+      "https://openalex.org/W3006889234",
+      "https://openalex.org/W3007237729",
+      "https://openalex.org/W3007397514",
+      "https://openalex.org/W3016616248",
+      "https://openalex.org/W3019464069",
+      "https://openalex.org/W3021880230",
+      "https://openalex.org/W3022085691",
+      "https://openalex.org/W3034555716",
+      "https://openalex.org/W3035431711",
+      "https://openalex.org/W3035883408",
+      "https://openalex.org/W3083910680",
+      "https://openalex.org/W3083918343",
+      "https://openalex.org/W3085093679",
+      "https://openalex.org/W3091831172",
+      "https://openalex.org/W3093836846",
+      "https://openalex.org/W3112314931",
+      "https://openalex.org/W3114855947",
+      "https://openalex.org/W3121815228",
+      "https://openalex.org/W3123475321",
+      "https://openalex.org/W3124168528",
+      "https://openalex.org/W3124853719",
+      "https://openalex.org/W3125430184",
+      "https://openalex.org/W3126051195",
+      "https://openalex.org/W3126456772",
+      "https://openalex.org/W3126630932",
+      "https://openalex.org/W3130885629",
+      "https://openalex.org/W3136155861",
+      "https://openalex.org/W3142507861",
+      "https://openalex.org/W3165319944",
+      "https://openalex.org/W3169682761",
+      "https://openalex.org/W3177516480",
+      "https://openalex.org/W3179294713",
+      "https://openalex.org/W3193588842",
+      "https://openalex.org/W3193591396",
+      "https://openalex.org/W3200145194",
+      "https://openalex.org/W3202368191",
+      "https://openalex.org/W3208919649",
+      "https://openalex.org/W3209708296",
+      "https://openalex.org/W3210604023",
+      "https://openalex.org/W4214817670",
+      "https://openalex.org/W4221070427",
+      "https://openalex.org/W4246568310",
+      "https://openalex.org/W4285180901",
+      "https://openalex.org/W4285589096",
+      "https://openalex.org/W4289038762",
+      "https://openalex.org/W4312189769",
+      "https://openalex.org/W4312791655",
+      "https://openalex.org/W6627611544",
+      "https://openalex.org/W6725456738",
+      "https://openalex.org/W6732005782",
+      "https://openalex.org/W6741906443",
+      "https://openalex.org/W6748314208",
+      "https://openalex.org/W6748585786",
+      "https://openalex.org/W6749850313",
+      "https://openalex.org/W6752356265",
+      "https://openalex.org/W6752568282",
+      "https://openalex.org/W6752957825",
+      "https://openalex.org/W6755109575",
+      "https://openalex.org/W6756285562",
+      "https://openalex.org/W6756834829",
+      "https://openalex.org/W6761898610",
+      "https://openalex.org/W6762143397",
+      "https://openalex.org/W6763395089",
+      "https://openalex.org/W6764681711",
+      "https://openalex.org/W6766793981",
+      "https://openalex.org/W6773570836",
+      "https://openalex.org/W6776353413",
+      "https://openalex.org/W6776373036",
+      "https://openalex.org/W6776567814",
+      "https://openalex.org/W6795956791",
+      "https://openalex.org/W6799940893",
+      "https://openalex.org/W6800548612",
+      "https://openalex.org/W6809902387",
+      "https://openalex.org/W6825133383"
+    ],
+    "cited_by_count": 279,
+    "publication_year": 2023,
+    "title": "Application of digital technologies for ensuring agricultural productivity",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5050354984",
+          "display_name": "Rambod Abiri",
+          "orcid": "https://orcid.org/0000-0002-7538-1392"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rambod Abiri",
+        "raw_affiliation_strings": [
+          "Department of Forestry Science and Biodiversity, Faculty of Forestry and Environment, Universiti Putra Malaysia, Serdang, 43400, Malaysia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-7538-1392",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Forestry Science and Biodiversity, Faculty of Forestry and Environment, Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034957095",
+          "display_name": "Nastaran Rizan",
+          "orcid": "https://orcid.org/0000-0002-2569-0357"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Nastaran Rizan",
+        "raw_affiliation_strings": [
+          "Department of Agriculture Technology, Faculty of Agriculture, Universiti Putra Malaysia, Serdang, 43400, Malaysia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2569-0357",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Agriculture Technology, Faculty of Agriculture, Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5087945650",
+          "display_name": "Siva K. Balasundram",
+          "orcid": "https://orcid.org/0000-0001-5664-6618"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Siva K. Balasundram",
+        "raw_affiliation_strings": [
+          "Department of Agriculture Technology, Faculty of Agriculture, Universiti Putra Malaysia, Serdang, 43400, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Agriculture Technology, Faculty of Agriculture, Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5108879591",
+          "display_name": "Arash Bayat Shahbazi",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4576418",
+            "display_name": "University of Technology Malaysia",
+            "ror": "https://ror.org/026w31v75",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4576418"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Arash Bayat Shahbazi",
+        "raw_affiliation_strings": [
+          "Department of Information System, School of Computing, Faculty of Engineering, Universiti Teknologi Malaysia, Johor Bahru, 81310, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Information System, School of Computing, Faculty of Engineering, Universiti Teknologi Malaysia, Johor Bahru, 81310, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I4576418"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5038193746",
+          "display_name": "Hazandy Abdul Hamid",
+          "orcid": "https://orcid.org/0000-0002-3525-556X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Hazandy Abdul-Hamid",
+        "raw_affiliation_strings": [
+          "Department of Forestry Science and Biodiversity, Faculty of Forestry and Environment, Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+          "Laboratory of Bioresource Management, Institute of Tropical Forestry and Forest Products (INTROP), Universiti Putra Malaysia, Serdang, 43400, Malaysia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-3525-556X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Forestry Science and Biodiversity, Faculty of Forestry and Environment, Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Laboratory of Bioresource Management, Institute of Tropical Forestry and Forest Products (INTROP), Universiti Putra Malaysia, Serdang, 43400, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1016/j.ijinfomgt.2019.08.002": {
+    "doi": "10.1016/j.ijinfomgt.2019.08.002",
+    "openalex_id": "https://openalex.org/W2969625533",
+    "referenced_works": [
+      "https://openalex.org/W23329852",
+      "https://openalex.org/W28554118",
+      "https://openalex.org/W29847118",
+      "https://openalex.org/W167081184",
+      "https://openalex.org/W202799293",
+      "https://openalex.org/W229849886",
+      "https://openalex.org/W317100620",
+      "https://openalex.org/W563122737",
+      "https://openalex.org/W569792995",
+      "https://openalex.org/W648152870",
+      "https://openalex.org/W804256416",
+      "https://openalex.org/W1441180700",
+      "https://openalex.org/W1492608959",
+      "https://openalex.org/W1508585724",
+      "https://openalex.org/W1515394277",
+      "https://openalex.org/W1530446948",
+      "https://openalex.org/W1543659671",
+      "https://openalex.org/W1562548521",
+      "https://openalex.org/W1568223908",
+      "https://openalex.org/W1585390112",
+      "https://openalex.org/W1586752400",
+      "https://openalex.org/W1605850762",
+      "https://openalex.org/W1685320870",
+      "https://openalex.org/W1821977771",
+      "https://openalex.org/W1895273801",
+      "https://openalex.org/W1896484594",
+      "https://openalex.org/W1903719562",
+      "https://openalex.org/W1914023290",
+      "https://openalex.org/W1961379460",
+      "https://openalex.org/W1964302523",
+      "https://openalex.org/W1965477689",
+      "https://openalex.org/W1966351988",
+      "https://openalex.org/W1975995798",
+      "https://openalex.org/W1979001454",
+      "https://openalex.org/W1979004942",
+      "https://openalex.org/W1979933087",
+      "https://openalex.org/W1987885201",
+      "https://openalex.org/W1988167667",
+      "https://openalex.org/W1992189487",
+      "https://openalex.org/W1995466835",
+      "https://openalex.org/W1999616174",
+      "https://openalex.org/W2000209534",
+      "https://openalex.org/W2003301518",
+      "https://openalex.org/W2007343074",
+      "https://openalex.org/W2009443163",
+      "https://openalex.org/W2010412594",
+      "https://openalex.org/W2017566884",
+      "https://openalex.org/W2020212754",
+      "https://openalex.org/W2020372685",
+      "https://openalex.org/W2031909609",
+      "https://openalex.org/W2034380287",
+      "https://openalex.org/W2037263885",
+      "https://openalex.org/W2039553177",
+      "https://openalex.org/W2043515850",
+      "https://openalex.org/W2046061050",
+      "https://openalex.org/W2046187419",
+      "https://openalex.org/W2047997444",
+      "https://openalex.org/W2048881052",
+      "https://openalex.org/W2052392449",
+      "https://openalex.org/W2053950247",
+      "https://openalex.org/W2063052894",
+      "https://openalex.org/W2063462387",
+      "https://openalex.org/W2065812258",
+      "https://openalex.org/W2071193756",
+      "https://openalex.org/W2071891885",
+      "https://openalex.org/W2073735597",
+      "https://openalex.org/W2075100264",
+      "https://openalex.org/W2076587863",
+      "https://openalex.org/W2076782423",
+      "https://openalex.org/W2077538176",
+      "https://openalex.org/W2077623198",
+      "https://openalex.org/W2082908297",
+      "https://openalex.org/W2086876809",
+      "https://openalex.org/W2087773447",
+      "https://openalex.org/W2094189035",
+      "https://openalex.org/W2096870307",
+      "https://openalex.org/W2097118035",
+      "https://openalex.org/W2099087531",
+      "https://openalex.org/W2100398959",
+      "https://openalex.org/W2101629541",
+      "https://openalex.org/W2105389600",
+      "https://openalex.org/W2105707339",
+      "https://openalex.org/W2117363091",
+      "https://openalex.org/W2117412946",
+      "https://openalex.org/W2122410182",
+      "https://openalex.org/W2123179704",
+      "https://openalex.org/W2123950498",
+      "https://openalex.org/W2126538342",
+      "https://openalex.org/W2129909276",
+      "https://openalex.org/W2130354913",
+      "https://openalex.org/W2133460105",
+      "https://openalex.org/W2133469585",
+      "https://openalex.org/W2135556086",
+      "https://openalex.org/W2137205574",
+      "https://openalex.org/W2142595014",
+      "https://openalex.org/W2148521239",
+      "https://openalex.org/W2148750096",
+      "https://openalex.org/W2150643376",
+      "https://openalex.org/W2151169308",
+      "https://openalex.org/W2156463535",
+      "https://openalex.org/W2156930128",
+      "https://openalex.org/W2162829624",
+      "https://openalex.org/W2166400110",
+      "https://openalex.org/W2171011251",
+      "https://openalex.org/W2187792371",
+      "https://openalex.org/W2192201333",
+      "https://openalex.org/W2193754672",
+      "https://openalex.org/W2212892742",
+      "https://openalex.org/W2251410821",
+      "https://openalex.org/W2255816147",
+      "https://openalex.org/W2264855399",
+      "https://openalex.org/W2269721265",
+      "https://openalex.org/W2270033176",
+      "https://openalex.org/W2271366536",
+      "https://openalex.org/W2292297512",
+      "https://openalex.org/W2293262879",
+      "https://openalex.org/W2309914160",
+      "https://openalex.org/W2317208158",
+      "https://openalex.org/W2329821500",
+      "https://openalex.org/W2337082154",
+      "https://openalex.org/W2338873322",
+      "https://openalex.org/W2414456771",
+      "https://openalex.org/W2417333619",
+      "https://openalex.org/W2462625002",
+      "https://openalex.org/W2466333951",
+      "https://openalex.org/W2469472737",
+      "https://openalex.org/W2472811553",
+      "https://openalex.org/W2473149434",
+      "https://openalex.org/W2479109708",
+      "https://openalex.org/W2506282302",
+      "https://openalex.org/W2515673966",
+      "https://openalex.org/W2517572945",
+      "https://openalex.org/W2522601686",
+      "https://openalex.org/W2526781987",
+      "https://openalex.org/W2527349292",
+      "https://openalex.org/W2530381641",
+      "https://openalex.org/W2530819665",
+      "https://openalex.org/W2540627216",
+      "https://openalex.org/W2554719826",
+      "https://openalex.org/W2557778781",
+      "https://openalex.org/W2562938470",
+      "https://openalex.org/W2565655973",
+      "https://openalex.org/W2566497755",
+      "https://openalex.org/W2570847593",
+      "https://openalex.org/W2571572916",
+      "https://openalex.org/W2576779064",
+      "https://openalex.org/W2583955450",
+      "https://openalex.org/W2584164347",
+      "https://openalex.org/W2587527968",
+      "https://openalex.org/W2588408640",
+      "https://openalex.org/W2590674769",
+      "https://openalex.org/W2593949166",
+      "https://openalex.org/W2594649906",
+      "https://openalex.org/W2598079956",
+      "https://openalex.org/W2606947181",
+      "https://openalex.org/W2608762407",
+      "https://openalex.org/W2610886376",
+      "https://openalex.org/W2616625730",
+      "https://openalex.org/W2619167798",
+      "https://openalex.org/W2619372063",
+      "https://openalex.org/W2622458265",
+      "https://openalex.org/W2625539860",
+      "https://openalex.org/W2625859864",
+      "https://openalex.org/W2638108157",
+      "https://openalex.org/W2727861605",
+      "https://openalex.org/W2728488239",
+      "https://openalex.org/W2747966077",
+      "https://openalex.org/W2752099845",
+      "https://openalex.org/W2753917303",
+      "https://openalex.org/W2755007334",
+      "https://openalex.org/W2762064769",
+      "https://openalex.org/W2762073455",
+      "https://openalex.org/W2764334613",
+      "https://openalex.org/W2766462730",
+      "https://openalex.org/W2767123365",
+      "https://openalex.org/W2767327746",
+      "https://openalex.org/W2767346351",
+      "https://openalex.org/W2767346528",
+      "https://openalex.org/W2768168111",
+      "https://openalex.org/W2768519904",
+      "https://openalex.org/W2769239950",
+      "https://openalex.org/W2769278191",
+      "https://openalex.org/W2769731599",
+      "https://openalex.org/W2770851467",
+      "https://openalex.org/W2772091547",
+      "https://openalex.org/W2783102654",
+      "https://openalex.org/W2784131715",
+      "https://openalex.org/W2785645041",
+      "https://openalex.org/W2785696180",
+      "https://openalex.org/W2786141192",
+      "https://openalex.org/W2787910791",
+      "https://openalex.org/W2788073260",
+      "https://openalex.org/W2788481061",
+      "https://openalex.org/W2788710759",
+      "https://openalex.org/W2789670293",
+      "https://openalex.org/W2792069276",
+      "https://openalex.org/W2792457039",
+      "https://openalex.org/W2796755741",
+      "https://openalex.org/W2798321904",
+      "https://openalex.org/W2800509797",
+      "https://openalex.org/W2802093198",
+      "https://openalex.org/W2802443553",
+      "https://openalex.org/W2803652136",
+      "https://openalex.org/W2804066576",
+      "https://openalex.org/W2806708931",
+      "https://openalex.org/W2808937954",
+      "https://openalex.org/W2810437889",
+      "https://openalex.org/W2884686506",
+      "https://openalex.org/W2885510848",
+      "https://openalex.org/W2887241837",
+      "https://openalex.org/W2887489621",
+      "https://openalex.org/W2887567311",
+      "https://openalex.org/W2888520043",
+      "https://openalex.org/W2889377580",
+      "https://openalex.org/W2890199425",
+      "https://openalex.org/W2891453978",
+      "https://openalex.org/W2891503716",
+      "https://openalex.org/W2891879282",
+      "https://openalex.org/W2892207490",
+      "https://openalex.org/W2893861561",
+      "https://openalex.org/W2894551904",
+      "https://openalex.org/W2894971745",
+      "https://openalex.org/W2896252141",
+      "https://openalex.org/W2897312458",
+      "https://openalex.org/W2899017743",
+      "https://openalex.org/W2899856450",
+      "https://openalex.org/W2900603051",
+      "https://openalex.org/W2901259031",
+      "https://openalex.org/W2901946084",
+      "https://openalex.org/W2903175657",
+      "https://openalex.org/W2903571680",
+      "https://openalex.org/W2903986723",
+      "https://openalex.org/W2904029666",
+      "https://openalex.org/W2904523137",
+      "https://openalex.org/W2904646909",
+      "https://openalex.org/W2904941476",
+      "https://openalex.org/W2905202746",
+      "https://openalex.org/W2905988626",
+      "https://openalex.org/W2906095734",
+      "https://openalex.org/W2907590372",
+      "https://openalex.org/W2908616299",
+      "https://openalex.org/W2911526543",
+      "https://openalex.org/W2912275232",
+      "https://openalex.org/W2912325838",
+      "https://openalex.org/W2912442864",
+      "https://openalex.org/W2912667458",
+      "https://openalex.org/W2912710844",
+      "https://openalex.org/W2912834942",
+      "https://openalex.org/W2913486509",
+      "https://openalex.org/W2913812060",
+      "https://openalex.org/W2913886222",
+      "https://openalex.org/W2915292867",
+      "https://openalex.org/W2917229322",
+      "https://openalex.org/W2917341197",
+      "https://openalex.org/W2919332062",
+      "https://openalex.org/W2921510663",
+      "https://openalex.org/W2922130842",
+      "https://openalex.org/W2922512552",
+      "https://openalex.org/W2923537029",
+      "https://openalex.org/W2926271414",
+      "https://openalex.org/W2934302500",
+      "https://openalex.org/W2952665743",
+      "https://openalex.org/W2962681511",
+      "https://openalex.org/W2963095307",
+      "https://openalex.org/W2966642106",
+      "https://openalex.org/W2970526411",
+      "https://openalex.org/W2981222455",
+      "https://openalex.org/W3011865677",
+      "https://openalex.org/W3046920401",
+      "https://openalex.org/W3099381338",
+      "https://openalex.org/W3106102496",
+      "https://openalex.org/W3121828563",
+      "https://openalex.org/W3123098919",
+      "https://openalex.org/W3123374861",
+      "https://openalex.org/W3124827607",
+      "https://openalex.org/W3125027579",
+      "https://openalex.org/W3125090935",
+      "https://openalex.org/W3125232264",
+      "https://openalex.org/W3141053585",
+      "https://openalex.org/W3143328026",
+      "https://openalex.org/W3149587126",
+      "https://openalex.org/W3151964529",
+      "https://openalex.org/W3171910465",
+      "https://openalex.org/W3172388529",
+      "https://openalex.org/W3211675674",
+      "https://openalex.org/W3217492654",
+      "https://openalex.org/W4207028657",
+      "https://openalex.org/W4231136436",
+      "https://openalex.org/W4239132994",
+      "https://openalex.org/W4240267566",
+      "https://openalex.org/W4240726888",
+      "https://openalex.org/W4244354576",
+      "https://openalex.org/W4245024876",
+      "https://openalex.org/W4246202615",
+      "https://openalex.org/W4247636361",
+      "https://openalex.org/W4249747241",
+      "https://openalex.org/W4253486598",
+      "https://openalex.org/W4254929415",
+      "https://openalex.org/W4288060239",
+      "https://openalex.org/W4382987554",
+      "https://openalex.org/W6600932605",
+      "https://openalex.org/W6601173095",
+      "https://openalex.org/W6601195402",
+      "https://openalex.org/W6606841301",
+      "https://openalex.org/W6623034338",
+      "https://openalex.org/W6623065218",
+      "https://openalex.org/W6633527926",
+      "https://openalex.org/W6670598717",
+      "https://openalex.org/W6672826487",
+      "https://openalex.org/W6677340030",
+      "https://openalex.org/W6679456883",
+      "https://openalex.org/W6694163199",
+      "https://openalex.org/W6719439105",
+      "https://openalex.org/W6721153470",
+      "https://openalex.org/W6725198608",
+      "https://openalex.org/W6728642792",
+      "https://openalex.org/W6732117173",
+      "https://openalex.org/W6734583454",
+      "https://openalex.org/W6740305464",
+      "https://openalex.org/W6744709522",
+      "https://openalex.org/W6745208491",
+      "https://openalex.org/W6745806218",
+      "https://openalex.org/W6745887489",
+      "https://openalex.org/W6748382702",
+      "https://openalex.org/W6748754972",
+      "https://openalex.org/W6749945312",
+      "https://openalex.org/W6753781056",
+      "https://openalex.org/W6753784121",
+      "https://openalex.org/W6754325962",
+      "https://openalex.org/W6755103016",
+      "https://openalex.org/W6757145784",
+      "https://openalex.org/W6758592023",
+      "https://openalex.org/W6758721270",
+      "https://openalex.org/W6761087514",
+      "https://openalex.org/W6764745566",
+      "https://openalex.org/W6767455690",
+      "https://openalex.org/W6788568321",
+      "https://openalex.org/W7025431121"
+    ],
+    "cited_by_count": 4021,
+    "publication_year": 2019,
+    "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5048622877",
+          "display_name": "Yogesh K. Dwivedi",
+          "orcid": "https://orcid.org/0000-0002-5547-9990"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Yogesh K. Dwivedi",
+        "raw_affiliation_strings": [
+          "Emerging Markets Research Centre (EMaRC), School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Emerging Markets Research Centre (EMaRC), School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072512285",
+          "display_name": "Laurie Hughes",
+          "orcid": "https://orcid.org/0000-0002-0956-0608"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Laurie Hughes",
+        "raw_affiliation_strings": [
+          "Emerging Markets Research Centre (EMaRC), School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Emerging Markets Research Centre (EMaRC), School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5033472055",
+          "display_name": "Elvira Ismagilova",
+          "orcid": "https://orcid.org/0000-0001-9634-194X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139894009",
+            "display_name": "University of Bradford",
+            "ror": "https://ror.org/00vs8d940",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Elvira Ismagilova",
+        "raw_affiliation_strings": [
+          "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027512483",
+          "display_name": "Gert Aarts",
+          "orcid": "https://orcid.org/0000-0002-6038-3782"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Gert Aarts",
+        "raw_affiliation_strings": [
+          "Department of Physics, College of Science, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Physics, College of Science, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018731131",
+          "display_name": "Crispin Coombs",
+          "orcid": "https://orcid.org/0000-0002-4203-9291"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I143804889",
+            "display_name": "Loughborough University",
+            "ror": "https://ror.org/04vg4w365",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I143804889"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Crispin Coombs",
+        "raw_affiliation_strings": [
+          "School of Business and Economics, Loughborough University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Business and Economics, Loughborough University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I143804889"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015452463",
+          "display_name": "Tom Crick",
+          "orcid": "https://orcid.org/0000-0001-5196-9389"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tom Crick",
+        "raw_affiliation_strings": [
+          "School of Education, Swansea University, Swansea, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Education, Swansea University, Swansea, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5032994640",
+          "display_name": "Yanqing Duan",
+          "orcid": "https://orcid.org/0000-0003-4205-7403"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I147554453",
+            "display_name": "University of Bedfordshire",
+            "ror": "https://ror.org/0400avk24",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I147554453"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yanqing Duan",
+        "raw_affiliation_strings": [
+          "Business and Management Research Institute, University of Bedfordshire, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Business and Management Research Institute, University of Bedfordshire, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I147554453"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5070017829",
+          "display_name": "Rohita Dwivedi",
+          "orcid": "https://orcid.org/0000-0003-3801-3635"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2802797706",
+            "display_name": "Prin. L. N. Welingkar Institute of Management Development and Research",
+            "ror": "https://ror.org/0368a2w96",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2802797706"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rohita Dwivedi",
+        "raw_affiliation_strings": [
+          "Prin. L.N. Welingkar Institute of Management Development & Research, Mumbai, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Prin. L.N. Welingkar Institute of Management Development & Research, Mumbai, India",
+            "institution_ids": [
+              "https://openalex.org/I2802797706"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5007695310",
+          "display_name": "John S. Edwards",
+          "orcid": "https://orcid.org/0000-0003-3979-017X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I169199633",
+            "display_name": "Aston University",
+            "ror": "https://ror.org/05j0ve876",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "John Edwards",
+        "raw_affiliation_strings": [
+          "Operations & Information Management Department, Aston Business School, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Operations & Information Management Department, Aston Business School, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I169199633"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000411910",
+          "display_name": "Aled Eirug",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Aled Eirug",
+        "raw_affiliation_strings": [
+          "Morgan Academy, School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Morgan Academy, School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015685463",
+          "display_name": "Vassilis Galanos",
+          "orcid": "https://orcid.org/0000-0002-8363-4855"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98677209",
+            "display_name": "University of Edinburgh",
+            "ror": "https://ror.org/01nrxwf90",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98677209"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Vassilis Galanos",
+        "raw_affiliation_strings": [
+          "School of Social and Political Sciences, University of Edinburgh, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Social and Political Sciences, University of Edinburgh, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I98677209"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5004125306",
+          "display_name": "P. Vigneswara Ilavarasan",
+          "orcid": "https://orcid.org/0000-0002-9431-3520"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I68891433",
+            "display_name": "Indian Institute of Technology Delhi",
+            "ror": "https://ror.org/049tgcd06",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I68891433"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "P. Vigneswara Ilavarasan",
+        "raw_affiliation_strings": [
+          "Department of Management Studies, Indian Institute of Technology, Delhi, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Management Studies, Indian Institute of Technology, Delhi, India",
+            "institution_ids": [
+              "https://openalex.org/I68891433"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5062073470",
+          "display_name": "Marijn Janssen",
+          "orcid": "https://orcid.org/0000-0001-6211-8790"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98358874",
+            "display_name": "Delft University of Technology",
+            "ror": "https://ror.org/02e2c7k09",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98358874"
+            ]
+          }
+        ],
+        "countries": [
+          "NL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Marijn Janssen",
+        "raw_affiliation_strings": [
+          "Information and Communication Technology Section, Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Information and Communication Technology Section, Faculty of Technology, Policy and Management, Delft University of Technology, Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I98358874"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5080152304",
+          "display_name": "Paul Jones",
+          "orcid": "https://orcid.org/0000-0003-0417-9143"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Paul Jones",
+        "raw_affiliation_strings": [
+          "School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061235109",
+          "display_name": "Arpan Kumar Kar",
+          "orcid": "https://orcid.org/0000-0003-4186-4887"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I68891433",
+            "display_name": "Indian Institute of Technology Delhi",
+            "ror": "https://ror.org/049tgcd06",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I68891433"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Arpan Kumar Kar",
+        "raw_affiliation_strings": [
+          "Department of Management Studies, Indian Institute of Technology, Delhi, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Management Studies, Indian Institute of Technology, Delhi, India",
+            "institution_ids": [
+              "https://openalex.org/I68891433"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5037522059",
+          "display_name": "Hatice Kizgin",
+          "orcid": "https://orcid.org/0000-0003-0841-8973"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139894009",
+            "display_name": "University of Bradford",
+            "ror": "https://ror.org/00vs8d940",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hatice Kizgin",
+        "raw_affiliation_strings": [
+          "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5037724665",
+          "display_name": "Bianca Kronemann",
+          "orcid": "https://orcid.org/0009-0002-5146-537X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bianca Kronemann",
+        "raw_affiliation_strings": [
+          "School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103045218",
+          "display_name": "Banita Lal",
+          "orcid": "https://orcid.org/0000-0003-1340-1746"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I147554453",
+            "display_name": "University of Bedfordshire",
+            "ror": "https://ror.org/0400avk24",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I147554453"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Banita Lal",
+        "raw_affiliation_strings": [
+          "Business and Management Research Institute, University of Bedfordshire, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Business and Management Research Institute, University of Bedfordshire, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I147554453"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5003777616",
+          "display_name": "Biagio Lucini",
+          "orcid": "https://orcid.org/0000-0001-8974-8266"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210145166",
+            "display_name": "Foundry (United Kingdom)",
+            "ror": "https://ror.org/03f1b8d27",
+            "country_code": "GB",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210145166"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Biagio Lucini",
+        "raw_affiliation_strings": [
+          "Department of Mathematics, Computational Foundry, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Mathematics, Computational Foundry, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589",
+              "https://openalex.org/I4210145166"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5003475331",
+          "display_name": "Rony Medaglia",
+          "orcid": "https://orcid.org/0000-0001-7292-5895"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180519160",
+            "display_name": "Copenhagen Business School",
+            "ror": "https://ror.org/04sppb023",
+            "country_code": "DK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ],
+        "countries": [
+          "DK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rony Medaglia",
+        "raw_affiliation_strings": [
+          "Department of Digitalization, Copenhagen Business School, Denmark"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Digitalization, Copenhagen Business School, Denmark",
+            "institution_ids": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5059234800",
+          "display_name": "Kenneth Le Meunier\u2010FitzHugh",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1118541",
+            "display_name": "University of East Anglia",
+            "ror": "https://ror.org/026k5mg93",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1118541"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kenneth Le Meunier-FitzHugh",
+        "raw_affiliation_strings": [
+          "Norwich Business School, University of East Anglia, Norwich, Norfolk, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Norwich Business School, University of East Anglia, Norwich, Norfolk, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I1118541"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5076965699",
+          "display_name": "Leslie Caroline Le Meunier-FitzHugh",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Leslie Caroline Le Meunier-FitzHugh",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018760782",
+          "display_name": "Santosh K. Misra",
+          "orcid": "https://orcid.org/0000-0002-3313-4895"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I1118541",
+            "display_name": "University of East Anglia",
+            "ror": "https://ror.org/026k5mg93",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I1118541"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I148776243",
+            "display_name": "Government of Tamil Nadu",
+            "ror": "https://ror.org/013hg1t45",
+            "country_code": "IN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I148776243"
+            ]
+          }
+        ],
+        "countries": [
+          "GB",
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Santosh Misra",
+        "raw_affiliation_strings": [
+          "CEO, Commissioner of e-Governance, Government of Tamil Nadu, India",
+          "Norwich Business School, University of East Anglia, Norwich, Norfolk, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "CEO, Commissioner of e-Governance, Government of Tamil Nadu, India",
+            "institution_ids": [
+              "https://openalex.org/I148776243"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Norwich Business School, University of East Anglia, Norwich, Norfolk, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I1118541"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5082000265",
+          "display_name": "Emmanuel Mogaji",
+          "orcid": "https://orcid.org/0000-0003-0544-4842"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I55060895",
+            "display_name": "University of Greenwich",
+            "ror": "https://ror.org/00bmj0a71",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55060895"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Emmanuel Mogaji",
+        "raw_affiliation_strings": [
+          "Department of Marketing, Events and Tourism, University of Greenwich, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Marketing, Events and Tourism, University of Greenwich, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I55060895"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5037836435",
+          "display_name": "Sujeet Kumar Sharma",
+          "orcid": "https://orcid.org/0000-0003-3614-9053"
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Sujeet Kumar Sharma",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5040405430",
+          "display_name": "Jang Bahadur Singh",
+          "orcid": "https://orcid.org/0000-0001-7017-1989"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I2802990396",
+            "display_name": "Indian Institute of Management Tiruchirappalli",
+            "ror": "https://ror.org/052vdrx60",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I2802990396"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jang Bahadur Singh",
+        "raw_affiliation_strings": [
+          "Information Systems Area, Indian Institute of Management Tiruchirappalli, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Information Systems Area, Indian Institute of Management Tiruchirappalli, India",
+            "institution_ids": [
+              "https://openalex.org/I2802990396"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5050603102",
+          "display_name": "Vishnupriya Raghavan",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Vishnupriya Raghavan",
+        "raw_affiliation_strings": [
+          "Manipal Global Education Services, Bangalore, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Manipal Global Education Services, Bangalore, India",
+            "institution_ids": []
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5072261829",
+          "display_name": "Ramakrishnan Raman",
+          "orcid": "https://orcid.org/0000-0003-3642-6989"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I244572783",
+            "display_name": "Symbiosis International University",
+            "ror": "https://ror.org/005r2ww51",
+            "country_code": "IN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I244572783"
+            ]
+          }
+        ],
+        "countries": [
+          "IN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ramakrishnan Raman",
+        "raw_affiliation_strings": [
+          "Symbiosis Institute of Business Management, Pune & Symbiosis International (Deemed) University, Pune, India"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Symbiosis Institute of Business Management, Pune & Symbiosis International (Deemed) University, Pune, India",
+            "institution_ids": [
+              "https://openalex.org/I244572783"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034248834",
+          "display_name": "Nripendra P. Rana",
+          "orcid": "https://orcid.org/0000-0003-1105-8729"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139894009",
+            "display_name": "University of Bradford",
+            "ror": "https://ror.org/00vs8d940",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nripendra P. Rana",
+        "raw_affiliation_strings": [
+          "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5033216620",
+          "display_name": "Spyridon Samothrakis",
+          "orcid": "https://orcid.org/0000-0003-1902-9690"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I110002522",
+            "display_name": "University of Essex",
+            "ror": "https://ror.org/02nkf1q06",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I110002522"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Spyridon Samothrakis",
+        "raw_affiliation_strings": [
+          "Institute for Analytics and Data Science, University of Essex, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Institute for Analytics and Data Science, University of Essex, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I110002522"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5016998336",
+          "display_name": "Jak Spencer",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210165562",
+            "display_name": "Training Programs in Epidemiology and Public Health Interventions Network",
+            "ror": "https://ror.org/05v2tzz35",
+            "country_code": "US",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210165562"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jak Spencer",
+        "raw_affiliation_strings": [
+          "Urban Scale Interventions, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Urban Scale Interventions, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I4210165562"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5008267619",
+          "display_name": "Kuttimani Tamilmani",
+          "orcid": "https://orcid.org/0000-0002-9615-1465"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I139894009",
+            "display_name": "University of Bradford",
+            "ror": "https://ror.org/00vs8d940",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kuttimani Tamilmani",
+        "raw_affiliation_strings": [
+          "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "International Business, Marketing and Branding Research Centre, School of Management, University of Bradford, Bradford, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I139894009"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5070089201",
+          "display_name": "Annie Tubadji",
+          "orcid": "https://orcid.org/0000-0002-6134-3520"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I178535277",
+            "display_name": "University of the West of England",
+            "ror": "https://ror.org/02nwg5t34",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I178535277"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Annie Tubadji",
+        "raw_affiliation_strings": [
+          "Economics Department, University of West of England, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Economics Department, University of West of England, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I178535277"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5109157215",
+          "display_name": "Paul Walton",
+          "orcid": null
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210109032",
+            "display_name": "Capgemini (United Kingdom)",
+            "ror": "https://ror.org/01nb27779",
+            "country_code": "GB",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I4210109032",
+              "https://openalex.org/I4210136798"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Paul Walton",
+        "raw_affiliation_strings": [
+          "Capgemini UK Ltd, United Kingdom",
+          "School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Capgemini UK Ltd, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I4210109032"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5002569790",
+          "display_name": "Michael D. Williams",
+          "orcid": "https://orcid.org/0000-0002-3047-0332"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I39586589",
+            "display_name": "Swansea University",
+            "ror": "https://ror.org/053fq8t95",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael D. Williams",
+        "raw_affiliation_strings": [
+          "Swansea i-Lab (Innovation Lab), School of Management, Swansea University, United Kingdom"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Swansea i-Lab (Innovation Lab), School of Management, Swansea University, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I39586589"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "10.1080/21683565.2017.1359807": {
+    "doi": "10.1080/21683565.2017.1359807",
+    "openalex_id": "https://openalex.org/W2743910206",
+    "referenced_works": [
+      "https://openalex.org/W196423914",
+      "https://openalex.org/W226347602",
+      "https://openalex.org/W1484486219",
+      "https://openalex.org/W1492307093",
+      "https://openalex.org/W1513073529",
+      "https://openalex.org/W1523011135",
+      "https://openalex.org/W1540321349",
+      "https://openalex.org/W1553621279",
+      "https://openalex.org/W1564318509",
+      "https://openalex.org/W1595316513",
+      "https://openalex.org/W1596872701",
+      "https://openalex.org/W1597336755",
+      "https://openalex.org/W1952318712",
+      "https://openalex.org/W1964285328",
+      "https://openalex.org/W1966057042",
+      "https://openalex.org/W1968704708",
+      "https://openalex.org/W1969486227",
+      "https://openalex.org/W1972605948",
+      "https://openalex.org/W1978331315",
+      "https://openalex.org/W1989203781",
+      "https://openalex.org/W1990794846",
+      "https://openalex.org/W1993560662",
+      "https://openalex.org/W1993723744",
+      "https://openalex.org/W1994749669",
+      "https://openalex.org/W1995175644",
+      "https://openalex.org/W1999297814",
+      "https://openalex.org/W2009873040",
+      "https://openalex.org/W2011341528",
+      "https://openalex.org/W2016943447",
+      "https://openalex.org/W2023343711",
+      "https://openalex.org/W2026573262",
+      "https://openalex.org/W2034587566",
+      "https://openalex.org/W2034896568",
+      "https://openalex.org/W2038358918",
+      "https://openalex.org/W2044985441",
+      "https://openalex.org/W2045144466",
+      "https://openalex.org/W2045650706",
+      "https://openalex.org/W2046210186",
+      "https://openalex.org/W2052493348",
+      "https://openalex.org/W2055769702",
+      "https://openalex.org/W2056566776",
+      "https://openalex.org/W2060411263",
+      "https://openalex.org/W2065009356",
+      "https://openalex.org/W2065274856",
+      "https://openalex.org/W2066232306",
+      "https://openalex.org/W2068095522",
+      "https://openalex.org/W2076610265",
+      "https://openalex.org/W2076657771",
+      "https://openalex.org/W2077880182",
+      "https://openalex.org/W2078675567",
+      "https://openalex.org/W2081528476",
+      "https://openalex.org/W2090214423",
+      "https://openalex.org/W2110069985",
+      "https://openalex.org/W2112606472",
+      "https://openalex.org/W2114735032",
+      "https://openalex.org/W2117869115",
+      "https://openalex.org/W2123055255",
+      "https://openalex.org/W2132527572",
+      "https://openalex.org/W2133332292",
+      "https://openalex.org/W2140803169",
+      "https://openalex.org/W2142325512",
+      "https://openalex.org/W2143600379",
+      "https://openalex.org/W2146115122",
+      "https://openalex.org/W2146449178",
+      "https://openalex.org/W2148333466",
+      "https://openalex.org/W2159798922",
+      "https://openalex.org/W2163411345",
+      "https://openalex.org/W2165197877",
+      "https://openalex.org/W2170254577",
+      "https://openalex.org/W2200097768",
+      "https://openalex.org/W2232418559",
+      "https://openalex.org/W2233630577",
+      "https://openalex.org/W2266106747",
+      "https://openalex.org/W2280149549",
+      "https://openalex.org/W2293431201",
+      "https://openalex.org/W2317975899",
+      "https://openalex.org/W2324027703",
+      "https://openalex.org/W2330734540",
+      "https://openalex.org/W2339122920",
+      "https://openalex.org/W2341763501",
+      "https://openalex.org/W2342816231",
+      "https://openalex.org/W2345519425",
+      "https://openalex.org/W2346517362",
+      "https://openalex.org/W2416299803",
+      "https://openalex.org/W2503141107",
+      "https://openalex.org/W2507600836",
+      "https://openalex.org/W2517275648",
+      "https://openalex.org/W2523499924",
+      "https://openalex.org/W2525884284",
+      "https://openalex.org/W2537274416",
+      "https://openalex.org/W2580164791",
+      "https://openalex.org/W2620670105",
+      "https://openalex.org/W3122677944",
+      "https://openalex.org/W4231016000",
+      "https://openalex.org/W4232483749",
+      "https://openalex.org/W4232782442",
+      "https://openalex.org/W4235902455",
+      "https://openalex.org/W4248042460",
+      "https://openalex.org/W4249003381",
+      "https://openalex.org/W4251038494",
+      "https://openalex.org/W4251673808",
+      "https://openalex.org/W4254359741",
+      "https://openalex.org/W4285719527"
+    ],
+    "cited_by_count": 22,
+    "publication_year": 2017,
+    "title": "Food sovereignty and consumer sovereignty: Two antagonistic goals?",
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5019617172",
+          "display_name": "Cristian Timmermann",
+          "orcid": "https://orcid.org/0000-0001-7935-2823"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I141445968",
+            "display_name": "Ton Duc Thang University",
+            "ror": "https://ror.org/01drq0835",
+            "country_code": "VN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I141445968"
+            ]
+          }
+        ],
+        "countries": [
+          "VN"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Cristian Timmermann",
+        "raw_affiliation_strings": [
+          "Department for Management of Science and Technology Development, Ton Duc Thang University, Ho Chi Minh City, Vietnam",
+          "Faculty of Social Sciences and Humanities, Ton Duc Thang University, Ho Chi Minh City, Vietnam"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-7935-2823",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department for Management of Science and Technology Development, Ton Duc Thang University, Ho Chi Minh City, Vietnam",
+            "institution_ids": [
+              "https://openalex.org/I141445968"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Faculty of Social Sciences and Humanities, Ton Duc Thang University, Ho Chi Minh City, Vietnam",
+            "institution_ids": [
+              "https://openalex.org/I141445968"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5007011171",
+          "display_name": "Georges F. F\u00e9lix",
+          "orcid": "https://orcid.org/0000-0001-7342-6545"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I913481162",
+            "display_name": "Wageningen University & Research",
+            "ror": "https://ror.org/04qw24q55",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I913481162"
+            ]
+          }
+        ],
+        "countries": [
+          "NL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Georges F. F\u00e9lix",
+        "raw_affiliation_strings": [
+          "Farming Systems Ecology Group, Wageningen University, Wageningen, The Netherlands"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-7342-6545",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Farming Systems Ecology Group, Wageningen University, Wageningen, The Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I913481162"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5047824078",
+          "display_name": "Pablo Tittonell",
+          "orcid": "https://orcid.org/0000-0002-0284-2514"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210153948",
+            "display_name": "National Agricultural Technology Institute",
+            "ror": "https://ror.org/04wm52x94",
+            "country_code": "AR",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I4210153948"
+            ]
+          }
+        ],
+        "countries": [
+          "AR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Pablo Tittonell",
+        "raw_affiliation_strings": [
+          "Natural Resources and Environment Program, Instituto Nacional de Tecnolog\u00eda Agropecuaria, Bariloche, Argentina"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Natural Resources and Environment Program, Instituto Nacional de Tecnolog\u00eda Agropecuaria, Bariloche, Argentina",
+            "institution_ids": [
+              "https://openalex.org/I4210153948"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

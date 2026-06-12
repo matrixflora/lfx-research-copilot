@@ -1,0 +1,5 @@
+theme,paper_count,pub_density,citation_density,topic_saturation,emerging_score,recency_bonus,novelty_score,classification
+"Training, Digital, Health, Jats, Network",9,1.286,513.3,0.333,0.0,0.15,0.479,Moderately Novel
+"Capacity, Building, Capacity Building, Countries, Development",6,0.667,130.0,0.461,0.333,0.15,0.597,Moderately Novel
+"Food, Production, Different, Technologies, Demands",4,0.667,210.2,0.274,0.0,0.15,0.529,Moderately Novel
+"Nan, Community, Capacity, Training, Building",2,2.0,0.0,0.3,0.0,-1.4,-0.895,Highly Saturated

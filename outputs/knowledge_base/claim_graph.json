@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "generated": "2026-06-11T22:28:00.462426",
+    "total_claims": 14,
+    "description": "Scientific claim knowledge graph with supporting and contradictory evidence"
+  },
+  "claims": [
+    {
+      "claim": "found that there is significantly high potential for diverse teams, staffing the STEM fields with more female specialists and fully using specialist knowledge and personal qualifications of men and women.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Education and Training in the Digital Era: A Compass for “Building Forward Better”",
+          "doi": "10.5772/intechopen.102678"
+        }
+      ],
+      "supporting_papers": [
+        "10.5772/intechopen.102678"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "highlights the role that collaborative partnerships can play in sharing resources, experiences, and lessons learned between countries to optimize training and research opportunities in Latin America.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+          "doi": "10.2196/preprints.16513"
+        }
+      ],
+      "supporting_papers": [
+        "10.2196/preprints.16513"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "This paper highlights the role that collaborative partnerships can play in sharing resources, experiences, and lessons learned between countries to optimize training and research opportunities in Latin America.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+          "doi": "10.2196/preprints.16513"
+        }
+      ],
+      "supporting_papers": [
+        "10.2196/preprints.16513"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "There is growing evidence of the benefits of digital health for improving the performance of health systems and outcomes in developed countries.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Building Capacity and Training for Digital Health: Challenges and Opportunities in Latin America (Preprint)",
+          "doi": "10.2196/preprints.16513"
+        }
+      ],
+      "supporting_papers": [
+        "10.2196/preprints.16513"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "found that the role of extension in building farmer capacity goes beyond simply building capability to facilitating learning among all the stakeholders in the process thereby yielding favorable change in terms of skills, knowledge and access to and the opportunity to take command of and access to re",
+      "supporting_evidence": [
+        {
+          "paper_title": "Perspective Chapter: Building Farmer Capacity through Agricultural Extension - A Model for True Capacity",
+          "doi": "10.5772/intechopen.112260"
+        }
+      ],
+      "supporting_papers": [
+        "10.5772/intechopen.112260"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "contributes to volunteer retention, inclusivity, and sustainable community development.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+          "doi": "10.64357/neya-gjnps-trdgvl-01"
+        }
+      ],
+      "supporting_papers": [
+        "10.64357/neya-gjnps-trdgvl-01"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "This article examines the theoretical and practical foundations of training digital volunteers, particularly in low-income and resource-constrained settings.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Training Digital Volunteers: Strategies for Capacity Building in Non-Profit Organizations",
+          "doi": "10.64357/neya-gjnps-trdgvl-01"
+        }
+      ],
+      "supporting_papers": [
+        "10.64357/neya-gjnps-trdgvl-01"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "contribute to the theory on I4.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Analysis of the adoption of emergent technologies for risk management in the era of digital manufacturing",
+          "doi": "10.1016/j.techfore.2022.121562"
+        }
+      ],
+      "supporting_papers": [
+        "10.1016/j.techfore.2022.121562"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "is associated with individual-level socioeconomic factors, along with lack of competition between service providers in sparse population areas, the comparative cost of building telecommunications infrastructure in the bush, and the need for redundancy in rural and remote solutions.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Australian farmers left behind in the digital economy – Insights from the Australian Digital Inclusion Index",
+          "doi": "10.1016/j.jrurstud.2020.09.001"
+        }
+      ],
+      "supporting_papers": [
+        "10.1016/j.jrurstud.2020.09.001"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "We conclude the article by explaining the contributions of the paper to digital inclusion research and by making recommendations for policy development.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Australian farmers left behind in the digital economy – Insights from the Australian Digital Inclusion Index",
+          "doi": "10.1016/j.jrurstud.2020.09.001"
+        }
+      ],
+      "supporting_papers": [
+        "10.1016/j.jrurstud.2020.09.001"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "play a major role in the development process, and constantly introduce reforms and policies to achieve developmental objectives.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Building State Capability: Evidence, Analysis, Action",
+          "doi": "10.1093/acprof:oso/9780198747482.001.0001"
+        }
+      ],
+      "supporting_papers": [
+        "10.1093/acprof:oso/9780198747482.001.0001"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "contribute to the ongoing debate in information systems and ICT4D research to understand what digital platforms mean for development.",
+      "supporting_evidence": [
+        {
+          "paper_title": "Digital platforms for development: Foundations and research agenda",
+          "doi": "10.1111/isj.12326"
+        }
+      ],
+      "supporting_papers": [
+        "10.1111/isj.12326"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "showed that farmers performed below average and major irrigation crops were below the ideal BCEF threshold of 2.",
+      "supporting_evidence": [
+        {
+          "paper_title": "ANALYSIS OF IRRIGATION DEVELOPMENT POST FAST TRACK LAND REFORM PROGRAMME. A CASE STUDY OF GOROMONZI DISTRICT, MASHONALAND EAST PROVINCE, ZIMBABWE",
+          "doi": "nan"
+        }
+      ],
+      "supporting_papers": [
+        "nan"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    },
+    {
+      "claim": "revealed that most of it was partially or non-functional, hence farmers reduced area under irrigation.",
+      "supporting_evidence": [
+        {
+          "paper_title": "ANALYSIS OF IRRIGATION DEVELOPMENT POST FAST TRACK LAND REFORM PROGRAMME. A CASE STUDY OF GOROMONZI DISTRICT, MASHONALAND EAST PROVINCE, ZIMBABWE",
+          "doi": "nan"
+        }
+      ],
+      "supporting_papers": [
+        "nan"
+      ],
+      "contradictory_evidence": [],
+      "contradictory_papers": [],
+      "confidence_score": 0.45
+    }
+  ]
+}

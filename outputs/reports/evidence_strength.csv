@@ -1,0 +1,5 @@
+theme,paper_count,total_citations,avg_year,study_count_score,citation_support_score,recency_score,method_diversity_score,theme_consistency_score,evidence_score,classification
+"Training, Digital, Health, Jats, Network",17,4620,1780.9,1.0,1.0,0.0,1.0,0.91,0.832,Strong Evidence
+"Capacity, Building, Capacity Building, Countries, Development",6,780,2020.7,0.6,1.0,0.827,1.0,0.63,0.8,Strong Evidence
+"Food, Production, Different, Technologies, Demands",4,841,2020.2,0.4,1.0,0.81,0.833,0.84,0.756,Strong Evidence
+"Nan, Community, Capacity, Training, Building",2,0,2018.0,0.2,0.0,0.72,0.333,0.6,0.345,Weak Evidence

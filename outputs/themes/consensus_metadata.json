@@ -1,0 +1,80 @@
+[
+  {
+    "consensus_id": 0,
+    "label": "Training, Digital, Health, Jats, Network",
+    "keywords": [
+      "training",
+      "digital",
+      "health",
+      "jats",
+      "network"
+    ],
+    "methods": [
+      "fixed4",
+      "hierarchical",
+      "nmf"
+    ],
+    "confidence": 0.91,
+    "average_theme_strength": 0.9093,
+    "is_exploratory": false,
+    "paper_count": 9
+  },
+  {
+    "consensus_id": 1,
+    "label": "Nan, Community, Capacity, Training, Building",
+    "keywords": [
+      "nan",
+      "community",
+      "capacity",
+      "training",
+      "building"
+    ],
+    "methods": [
+      "fixed4",
+      "nmf"
+    ],
+    "confidence": 0.6,
+    "average_theme_strength": 0.8962,
+    "is_exploratory": false,
+    "paper_count": 2
+  },
+  {
+    "consensus_id": 2,
+    "label": "Food, Production, Different, Technologies, Demands",
+    "keywords": [
+      "food",
+      "production",
+      "different",
+      "technologies",
+      "demands"
+    ],
+    "methods": [
+      "fixed4",
+      "hierarchical",
+      "nmf"
+    ],
+    "confidence": 0.84,
+    "average_theme_strength": 0.8393,
+    "is_exploratory": false,
+    "paper_count": 4
+  },
+  {
+    "consensus_id": 3,
+    "label": "Capacity, Building, Capacity Building, Countries, Development",
+    "keywords": [
+      "capacity",
+      "building",
+      "capacity building",
+      "countries",
+      "development"
+    ],
+    "methods": [
+      "fixed4",
+      "nmf"
+    ],
+    "confidence": 0.63,
+    "average_theme_strength": 0.9453,
+    "is_exploratory": false,
+    "paper_count": 6
+  }
+]

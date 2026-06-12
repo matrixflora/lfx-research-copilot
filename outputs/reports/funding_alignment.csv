@@ -1,0 +1,11 @@
+funding_area,alignment_score,matched_themes,themes,alignment_level
+Digital Transformation,1.0,1,"Training, Digital, Health, Jats, Network",High Alignment
+Artificial Intelligence & ML,1.0,2,"Nan, Community, Capacity, Training, Building; Training, Digital, Health, Jats, Network",High Alignment
+Capacity Building & Training,1.0,3,"Capacity, Building, Capacity Building, Countries, Developmen; Nan, Community, Capacity, Training, Building; Training, Digital, Health, Jats, Network",High Alignment
+Agriculture & Food Security,1.0,1,"Food, Production, Different, Technologies, Demands",High Alignment
+Health & Well-being,1.0,1,"Training, Digital, Health, Jats, Network",High Alignment
+Climate Change & Sustainability,0.0,0,,Low Alignment
+Digital Inclusion & Equity,0.0,0,,Low Alignment
+Data Science & Analytics,0.0,0,,Low Alignment
+Cybersecurity & Trust,0.0,0,,Low Alignment
+Innovation & Entrepreneurship,0.0,0,,Low Alignment

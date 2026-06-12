@@ -1,0 +1,196 @@
+{
+  "projects": [
+    {
+      "name": "Digital Literature Review",
+      "status": "active",
+      "description": "Systematic literature review pipeline",
+      "created_at": "2026-06-11T22:23:12.006815",
+      "updated_at": "2026-06-11T22:23:12.006818"
+    }
+  ],
+  "hypotheses": [
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "gap_type": "sparse_theme",
+      "research_question": "How does Community influence Capacity in the context of Nan, Community, Capacity, Training, Building?",
+      "hypothesis": "Community substantially mediates Capacity, controlling for contextual factors.",
+      "iv": "Community",
+      "dv": "Capacity",
+      "controls": "prior domain knowledge; technology literacy; institutional type",
+      "methodology": "Mixed-methods exploratory design: qualitative interviews to surface constructs, followed by a randomised controlled trial to test the hypothesis.",
+      "expected_contribution": "Validates emerging constructs and measurement instruments for the field.",
+      "priority_score": 0.56
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "gap_type": "sparse_theme",
+      "research_question": "How does Community influence Training in the context of Nan, Community, Capacity, Training, Building?",
+      "hypothesis": "Community significantly predicts Training, controlling for contextual factors.",
+      "iv": "Community",
+      "dv": "Training",
+      "controls": "technology literacy; institutional type",
+      "methodology": "Mixed-methods exploratory design: qualitative interviews to surface constructs, followed by a mixed-methods case study to test the hypothesis.",
+      "expected_contribution": "Provides empirical evidence on underexplored relationships within the theme.",
+      "priority_score": 0.56
+    },
+    {
+      "theme": "Training, Digital, Health, Jats, Network",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Training predict Digital, and what moderating factors shape this relationship?",
+      "hypothesis": "Increased Training significantly moderates Digital.",
+      "iv": "Training",
+      "dv": "Digital",
+      "controls": "socio-economic status; prior domain knowledge; technology literacy",
+      "methodology": "Longitudinal mixed-methods case study with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Provides empirical evidence on underexplored relationships within the theme.",
+      "priority_score": 0.703
+    },
+    {
+      "theme": "Training, Digital, Health, Jats, Network",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Training predict Health, and what moderating factors shape this relationship?",
+      "hypothesis": "Increased Training positively mediates Health.",
+      "iv": "Training",
+      "dv": "Health",
+      "controls": "prior domain knowledge; technology literacy",
+      "methodology": "Longitudinal systematic literature review with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Extends theoretical frameworks by integrating cross-domain concepts.",
+      "priority_score": 0.703
+    },
+    {
+      "theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Capacity predict Building, and what moderating factors shape this relationship?",
+      "hypothesis": "Capacity substantially improves Building, controlling for contextual factors.",
+      "iv": "Capacity",
+      "dv": "Building",
+      "controls": "years of experience; socio-economic status; prior domain knowledge",
+      "methodology": "Longitudinal randomised controlled trial with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Validates emerging constructs and measurement instruments for the field.",
+      "priority_score": 0.557
+    },
+    {
+      "theme": "Capacity, Building, Capacity Building, Countries, Development",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Capacity predict Capacity Building, and what moderating factors shape this relationship?",
+      "hypothesis": "Capacity significantly moderates Capacity Building, controlling for contextual factors.",
+      "iv": "Capacity",
+      "dv": "Capacity Building",
+      "controls": "socio-economic status; prior domain knowledge; technology literacy",
+      "methodology": "Longitudinal mixed-methods case study with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Provides empirical evidence on underexplored relationships within the theme.",
+      "priority_score": 0.557
+    },
+    {
+      "theme": "Food, Production, Different, Technologies, Demands",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Food predict Production, and what moderating factors shape this relationship?",
+      "hypothesis": "Increased Food substantially improves Production.",
+      "iv": "Food",
+      "dv": "Production",
+      "controls": "years of experience; socio-economic status; prior domain knowledge",
+      "methodology": "Longitudinal randomised controlled trial with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Validates emerging constructs and measurement instruments for the field.",
+      "priority_score": 0.56
+    },
+    {
+      "theme": "Food, Production, Different, Technologies, Demands",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Food predict Technologies, and what moderating factors shape this relationship?",
+      "hypothesis": "Increased Food significantly moderates Technologies.",
+      "iv": "Food",
+      "dv": "Technologies",
+      "controls": "socio-economic status; prior domain knowledge; technology literacy",
+      "methodology": "Longitudinal mixed-methods case study with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Provides empirical evidence on underexplored relationships within the theme.",
+      "priority_score": 0.56
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Community predict Capacity, and what moderating factors shape this relationship?",
+      "hypothesis": "Community substantially improves Capacity, controlling for contextual factors.",
+      "iv": "Community",
+      "dv": "Capacity",
+      "controls": "years of experience; socio-economic status; prior domain knowledge",
+      "methodology": "Longitudinal randomised controlled trial with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Validates emerging constructs and measurement instruments for the field.",
+      "priority_score": 0.47
+    },
+    {
+      "theme": "Nan, Community, Capacity, Training, Building",
+      "gap_type": "future_direction",
+      "research_question": "To what extent does Community predict Training, and what moderating factors shape this relationship?",
+      "hypothesis": "Community significantly moderates Training, controlling for contextual factors.",
+      "iv": "Community",
+      "dv": "Training",
+      "controls": "socio-economic status; prior domain knowledge; technology literacy",
+      "methodology": "Longitudinal mixed-methods case study with multi-level modelling to capture temporal dynamics.",
+      "expected_contribution": "Provides empirical evidence on underexplored relationships within the theme.",
+      "priority_score": 0.47
+    }
+  ],
+  "manuscripts": [
+    {
+      "filename": "discussion_draft.md",
+      "section": "discussion_draft",
+      "size_kb": 1.3
+    },
+    {
+      "filename": "introduction.md",
+      "section": "introduction",
+      "size_kb": 1.0
+    },
+    {
+      "filename": "literature_review.md",
+      "section": "literature_review",
+      "size_kb": 5.7
+    },
+    {
+      "filename": "methods_draft.md",
+      "section": "methods_draft",
+      "size_kb": 2.0
+    },
+    {
+      "filename": "references.md",
+      "section": "references",
+      "size_kb": 6.2
+    }
+  ],
+  "datasets": [
+    {
+      "paper_title": "Unleashing the Power of Capacity Building: Transforming Governance and Policy Implementation in the Digital Era",
+      "doi": "10.18502/kss.v8i17.14121",
+      "repository": "Not specified",
+      "accessibility": "Unknown",
+      "data_types": "qualitative; text",
+      "quality": "Low"
+    },
+    {
+      "paper_title": "Romania -- Systematic Country Diagnostic: background note-agriculture (English)",
+      "doi": NaN,
+      "repository": "Not specified",
+      "accessibility": "Unknown",
+      "data_types": "survey",
+      "quality": "Low"
+    }
+  ],
+  "grants": [
+    {
+      "filename": "grant_concept.md",
+      "type": "grant_concept",
+      "size_kb": 1.1
+    },
+    {
+      "filename": "project_summary.md",
+      "type": "project_summary",
+      "size_kb": 1.3
+    },
+    {
+      "filename": "specific_aims.md",
+      "type": "specific_aims",
+      "size_kb": 1.4
+    }
+  ],
+  "_updated": "2026-06-11T22:23:12.022730"
+}
