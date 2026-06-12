@@ -170,3 +170,23 @@ PDF backends (`pypdf`, `pdfplumber`, `pymupdf`) are optional and only needed for
 ## License
 
 MIT
+## Citation
+
+If you use this software in your research, teaching, or publications, 
+please cite:
+
+Deepika. (2026). LFX Research Copilot: A Local AI Powered Research 
+Intelligence System for Literature Discovery, Evidence Synthesis, and 
+Scientific Reasoning. GitHub Repository.
+
+### BibTeX
+
+@software{deepika2026lfx,
+  author = {Deepika},
+  title = {LFX Research Copilot: A Local AI Powered Research Intelligence 
+System for Literature Discovery, Evidence Synthesis, and Scientific 
+Reasoning},
+  year = {2026},
+  version = {1.0},
+  url = {https://github.com/YOUR_USERNAME/YOUR_REPOSITORY}
+}
