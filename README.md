@@ -167,36 +167,23 @@ PDF backends (`pypdf`, `pdfplumber`, `pymupdf`) are optional and only needed for
 - **Bioinformatics exploration** — Identify omics datasets and recommend analysis pipelines
 - **Reproducibility assessment** — Audit papers for data/code availability and statistical rigor
 
-## License
-If you use this software in your research, teaching, or 
-publications, please cite:
 
-Arya, D. (2026). *LFX Research Copilot* (Version 1.0) 
-[Computer software]. GitHub. 
-https://github.com/matrixflora/lfx-research-copilot
+## License
+
+MIT License
+
+## Citation
+
+If you use this software in your research, teaching, or publications, please cite:
+
+Arya, D. (2026). LFX Research Copilot (Version 1.0) [Computer software]. GitHub. https://github.com/matrixflora/lfx-research-copilot
 
 ### BibTeX
 
-```bibtex
 @software{arya2026lfx,
   author = {Arya, D.},
   title = {LFX Research Copilot},
   year = {2026},
   version = {1.0},
   url = {https://github.com/matrixflora/lfx-research-copilot}
-}
-```
-Intelligence 
-System for Literature Discovery, 
-Evidence Synthesis, and Scientific Reasoning. GitHub Repository.
-
-### BibTeX
-
-@software{deepika2026lfx,
-  author = {Deepika},
-  title = {LFX Research Copilot: A Local AI Powered Research Intelligence 
-System for Literature Discovery, Evidence Synthesis, and Scientific Reasoning},
-  year = {2026},
-  version = {1.0},
-  url = {https://github.com/YOUR_USERNAME/YOUR_REPOSITORY}
 }
