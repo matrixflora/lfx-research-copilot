@@ -2,3 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+memory.json
+execution_plan.json
+routing_log.json
+critic_evaluation.json
+outputs/agent_logs/
+reviewer_feedback.md
