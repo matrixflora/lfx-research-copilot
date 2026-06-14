@@ -344,13 +344,68 @@ def extract_keywords_lda(
 # ---------------------------------------------------------------------------
 # Theme label generation
 # ---------------------------------------------------------------------------
+ARTIFACTS: Set[str] = {
+    "nan", "jats", "null", "none", "article", "study", "na", "n a",
+    "et al", "unavailable", "unknown", "abstract", "introduction",
+    "method", "result", "conclusion", "background", "objective",
+    "purpose", "approach", "analysis", "data", "based", "using",
+    "also", "however", "thus", "therefore", "well", "within",
+    "across", "among", "although", "because", "between", "both",
+    "each", "more", "most", "much", "other", "some", "such", "than",
+    "that", "these", "this", "very", "many",
+}
+
+
+def clean_keywords(keywords_list: List[str]) -> List[str]:
+    """Remove artifacts and stopwords from a keyword list."""
+    cleaned = []
+    for kw in keywords_list:
+        kw_clean = kw.strip().lower().replace("_", " ").replace("-", " ")
+        if not kw_clean or kw_clean in ARTIFACTS:
+            continue
+        if len(kw_clean) <= 2:
+            continue
+        cleaned.append(kw_clean.title())
+    return cleaned
+
+
+def _generate_qwen_theme_label(keywords_list: List[str]) -> str:
+    """Use Qwen 2.5 to generate a human-readable research theme from keywords."""
+    try:
+        from src.agents.qwen_adapter import QwenAdapter
+        qwen = QwenAdapter()
+        kw_str = ", ".join(keywords_list[:8])
+        prompt = (
+            f"Given these research keywords: {kw_str}\n\n"
+            "Generate one concise, human-readable research theme label (max 15 words). "
+            "Return ONLY the label text, no explanation, no punctuation at end."
+        )
+        result = qwen._call_model(prompt, max_new_tokens=40)
+        if result:
+            label = result.strip().strip('"').strip("'")
+            if len(label) > 10 and len(label.split()) <= 20:
+                return label
+    except Exception:
+        pass
+    return ", ".join(keywords_list[:5])
+
+
 def generate_theme_labels(
     keywords: Dict[int, List[str]], n_keywords: int = DEFAULT_N_KEYWORDS
 ) -> Dict[int, str]:
-    """Create a human-readable theme label from top keywords."""
+    """Create a human-readable research theme label from cluster keywords.
+
+    Cleans artifacts, then uses Qwen 2.5 to summarize into a coherent
+    research theme. Falls back to cleaned keyword list if Qwen unavailable.
+    """
     labels: Dict[int, str] = {}
     for cluster_id, words in keywords.items():
-        labels[cluster_id] = ", ".join(w.replace("_", " ").title() for w in words[:n_keywords])
+        cleaned = clean_keywords(words)
+        if not cleaned:
+            labels[cluster_id] = "Unnamed Theme"
+            continue
+        label = _generate_qwen_theme_label(cleaned[:n_keywords])
+        labels[cluster_id] = label
     return labels
 
 
@@ -678,11 +733,13 @@ def _build_consensus(
         seen_kw: Set[str] = set()
         ordered_kw: List[str] = []
         for kw in merged_kw:
-            if kw not in seen_kw:
-                seen_kw.add(kw)
-                ordered_kw.append(kw)
+            kw_clean = kw.strip().lower()
+            if kw_clean not in seen_kw and kw_clean not in ARTIFACTS:
+                seen_kw.add(kw_clean)
+                ordered_kw.append(kw.strip().title())
 
-        label = ", ".join(w.replace("_", " ").title() for w in ordered_kw[:DEFAULT_N_KEYWORDS])
+        label = _generate_qwen_theme_label(ordered_kw[:DEFAULT_N_KEYWORDS])
+        theme_keywords = ordered_kw[:DEFAULT_N_KEYWORDS]
 
         # average_theme_strength: mean pairwise cosine sim among merged theme embeddings
         if len(group_embeddings) >= 2:

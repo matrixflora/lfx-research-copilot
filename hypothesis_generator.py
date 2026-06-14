@@ -48,8 +48,11 @@ log = logging.getLogger("hypothesis_generator")
 class Hypothesis:
     research_question: str
     hypothesis: str
-    iv: str
-    dv: str
+    rationale: str = ""
+    measurable_variables: str = ""
+    study_design: str = ""
+    iv: str = ""
+    dv: str = ""
     controls: List[str] = field(default_factory=list)
     methodology: str = ""
     expected_contribution: str = ""
@@ -98,7 +101,86 @@ _CONTRIBUTIONS = [
 ]
 
 _DIRECTION_ADVERBS = ["significantly", "positively", "negatively", "substantially"]
-_DIRECTION_VERBS = ["enhances", "reduces", "improves", "moderates", "mediates", "predicts", "shapes", "influences", "determines", "is associated with"]
+_DIRECTION_VERBS = [
+    "improves", "increases", "enhances", "strengthens", "boosts",
+    "reduces", "decreases", "lowers", "diminishes",
+    "accelerates", "facilitates", "promotes", "drives",
+    "shapes", "moderates", "mediates", "predicts", "determines",
+]
+
+_POPULATION_CONTEXTS = [
+    "among rural smallholder farmers",
+    "in resource-constrained agricultural communities",
+    "across low- and middle-income countries",
+    "among extension service providers",
+    "within peri-urban farming systems",
+    "across diverse agro-ecological zones",
+    "in government agricultural agencies",
+    "among cooperative member farmers",
+    "across supply chain actors",
+    "in community-based development programmes",
+]
+
+_COMPARATIVE_CONTEXTS = [
+    "compared with traditional extension approaches",
+    "relative to conventional training methods",
+    "compared with paper-based information channels",
+    "relative to top-down technology transfer models",
+    "compared with in-person workshops",
+    "relative to standard practice guidelines",
+    "compared with single-channel communication strategies",
+    "relative to non-participatory approaches",
+]
+
+_CAPACITY_INTERVENTIONS = [
+    "Digital capacity-building programmes",
+    "Integrated training platforms",
+    "Mobile-enabled advisory services",
+    "Data-driven decision-support tools",
+    "Peer-to-peer knowledge networks",
+    "Multi-channel learning systems",
+    "Participatory technology demonstrations",
+    "Blended extension models",
+]
+
+
+def _generate_qwen_hypothesis(
+    theme_label: str,
+    keywords: List[str],
+    gap_type: str,
+    seed: int,
+) -> Optional[str]:
+    """Use Qwen 2.5 to generate a specific, well-formed hypothesis."""
+    try:
+        from src.agents.qwen_adapter import QwenAdapter
+        qwen = QwenAdapter()
+        kw_str = ", ".join(keywords[:6])
+        gap_desc = {
+            "sparse_theme": "limited existing evidence",
+            "future_direction": "emerging research direction",
+            "generic": "underexplored relationship",
+        }.get(gap_type, "research gap")
+
+        prompt = (
+            f"Theme: {theme_label}\n"
+            f"Keywords: {kw_str}\n"
+            f"Gap type: {gap_desc}\n\n"
+            "Generate one specific, testable research hypothesis (1 sentence, "
+            "30-40 words). It must name a concrete intervention/program, "
+            "specific measurable outcomes, relevant population context, and "
+            "where appropriate a comparison condition. "
+            "Use a strong causal verb. "
+            "Return ONLY the hypothesis text, no labels or explanations."
+        )
+        result = qwen._call_model(prompt, max_new_tokens=60)
+        if result:
+            hyp = result.strip().strip('"').strip("'")
+            words = hyp.split()
+            if 12 <= len(words) <= 50 and hyp[0].isupper() and hyp.endswith("."):
+                return hyp
+    except Exception:
+        pass
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -193,89 +275,152 @@ def _generate_hypotheses_for_theme(
     themes_keywords: Dict[str, List[str]],
     seed: int,
 ) -> List[Hypothesis]:
-    """Generate hypotheses for one theme, targeting its specific gap."""
+    """Generate specific, well-formed hypotheses for one theme."""
     label = theme.get("theme", theme.get("label", ""))
     keywords = theme.get("keywords", [])
-    # Use non-NaN keywords only
     keywords = [k for k in keywords if k.strip().lower() not in ("", "nan")]
     if not keywords:
         keywords = label.replace(",", " ").split()
 
     paper_count = theme.get("paper_count", 0)
     confidence = theme.get("confidence", 0.5)
+    gap_type = gap.get("type", "generic")
 
-    # Choose the two most meaningful keywords as IV/DV candidates
     kw_clean = [_clean_kw(k) for k in keywords
                 if _clean_kw(k) and _clean_kw(k) not in ("nan", "none", "different")]
-    kw_clean = list(dict.fromkeys(kw_clean))  # deduplicate preserving order
+    kw_clean = list(dict.fromkeys(kw_clean))
+    if not kw_clean:
+        kw_clean = ["capacity", "outcome"]
 
-    # Build concept pairs
-    pairs: List[Tuple[str, str]] = []
-    for i in range(len(kw_clean)):
-        for j in range(i + 1, len(kw_clean)):
-            pairs.append((kw_clean[i], kw_clean[j]))
-
-    if not pairs:
-        pairs = [(kw_clean[0] if kw_clean else "concept_a",
-                  "concept_b")]
-
-    gap_type = gap.get("type", "generic")
     results: List[Hypothesis] = []
+    max_hypotheses = 2
 
-    for idx, (iv_raw, dv_raw) in enumerate(pairs[:2]):  # max 2 per theme
+    for idx in range(max_hypotheses):
         local_seed = seed + idx + paper_count
 
-        # --- IV / DV ---
-        iv = iv_raw.title()
-        dv = dv_raw.title()
+        # --- Try Qwen first for a specific hypothesis ---
+        qwen_hyp = _generate_qwen_hypothesis(label, kw_clean, gap_type, local_seed)
+        if qwen_hyp:
+            # Extract IV/DV from the Qwen hypothesis for structured fields
+            words = qwen_hyp.split()
+            iv = kw_clean[0].title() if kw_clean else "Intervention"
+            dv = kw_clean[min(idx, len(kw_clean) - 1)].title() if kw_clean else "Outcome"
 
-        # --- Research question ---
-        if gap_type == "sparse_theme":
-            rq = f"How does {iv} influence {dv} in the context of {label}?"
-        elif gap_type == "future_direction":
-            rq = f"To what extent does {iv} predict {dv}, and what moderating factors shape this relationship?"
-        else:
-            rq = f"What is the relationship between {iv} and {dv} in {label}?"
+            n_controls = min(3, 2 + (local_seed % 3))
+            controls = [
+                _pick(_CONTROLS_POOL, local_seed + ci + 1)
+                for ci in range(n_controls)
+            ]
+            rq = f"To what extent does {label.lower()} shape outcomes in this domain?"
+            results.append(Hypothesis(
+                research_question=rq,
+                hypothesis=qwen_hyp,
+                rationale=_generate_rationale(qwen_hyp, label, gap_type),
+                measurable_variables=_generate_measurable_variables(iv, dv, qwen_hyp, label),
+                study_design=_generate_study_design(qwen_hyp, iv, label),
+                iv=iv,
+                dv=dv,
+                controls=controls,
+                methodology=_pick(_STUDY_TYPES, local_seed).capitalize() + " with pre-post measurement and propensity score matching.",
+                expected_contribution=_pick(_CONTRIBUTIONS, local_seed),
+                priority_score=round(
+                    min(paper_count / 10.0, 1.0) * 0.25
+                    + (0.8 if gap_type == "sparse_theme" else 0.5) * 0.30
+                    + confidence * 0.25
+                    + (1.0 - min(len(kw_clean) / 10.0, 1.0)) * 0.20,
+                    3,
+                ),
+                theme=label,
+                gap_type=gap_type,
+            ))
+            continue
 
-        # --- Hypothesis ---
-        adv = _pick(_DIRECTION_ADVERBS, local_seed)
-        verb = _pick(_DIRECTION_VERBS, local_seed + 1)
-        if confidence > 0.7:
-            hyp = f"Increased {iv} {adv} {verb} {dv}."
+        # --- Fallback: template-based specific hypotheses ---
+        intervention = _pick(_CAPACITY_INTERVENTIONS, local_seed)
+        context = _pick(_POPULATION_CONTEXTS, local_seed + 1)
+
+        # Use theme label as the outcome domain for richer phrasing
+        theme_short = label.split(",")[0].strip()
+        theme_words = [
+            w for w in theme_short.split()
+            if len(w) > 3 and w.lower() not in ("with", "from", "this", "that", "are")
+        ]
+        specific_outcome = " ".join(theme_words[:3]).lower()
+        if not specific_outcome:
+            specific_outcome = theme_short.lower()[:40]
+
+        if idx == 0:
+            comparison = _pick(_COMPARATIVE_CONTEXTS, local_seed + 2)
+            verb = _pick(_DIRECTION_VERBS, local_seed + 3)
+            hyp = (
+                f"{intervention} {verb} {specific_outcome} "
+                f"{context} {comparison}."
+            ).replace("  ", " ")
+            rq = (
+                f"How do {intervention.lower()} affect {specific_outcome} "
+                f"{context}?"
+            ).replace("  ", " ")
         else:
-            hyp = f"{iv} {adv} {verb} {dv}, controlling for contextual factors."
+            verb = _pick(_DIRECTION_VERBS, local_seed + 4)
+            hyp = (
+                f"Integrated approaches combining {intervention.lower()} "
+                f"with {specific_outcome} {verb} "
+                f"relevant outcomes "
+                f"{context}."
+            ).replace("  ", " ")
+            rq = (
+                f"How can integrated {specific_outcome} approaches "
+                f"be optimised {context}?"
+            ).replace("  ", " ")
 
         # --- Controls ---
         n_controls = min(3, 2 + (local_seed % 3))
-        controls = []
-        for ci in range(n_controls):
-            controls.append(_pick(_CONTROLS_POOL, local_seed + ci + 3))
+        controls = [
+            _pick(_CONTROLS_POOL, local_seed + ci + 5)
+            for ci in range(n_controls)
+        ]
 
         # --- Methodology ---
         if gap_type == "sparse_theme":
-            method = f"Mixed-methods exploratory design: qualitative interviews to surface constructs, followed by a {_pick(_STUDY_TYPES, local_seed)} to test the hypothesis."
+            method = (
+                f"Mixed-methods exploratory design: qualitative interviews "
+                f"to surface mechanisms, followed by a "
+                f"{_pick(_STUDY_TYPES, local_seed)} "
+                f"to test the hypothesis."
+            )
         elif gap_type == "future_direction":
-            method = f"Longitudinal {_pick(_STUDY_TYPES, local_seed)} with multi-level modelling to capture temporal dynamics."
+            method = (
+                f"Longitudinal {_pick(_STUDY_TYPES, local_seed)} "
+                f"with multi-level modelling to capture temporal dynamics "
+                f"and heterogeneous treatment effects."
+            )
         else:
-            method = f"{_pick(_STUDY_TYPES, local_seed).capitalize()} using validated instruments and structural equation modelling."
+            method = (
+                f"{_pick(_STUDY_TYPES, local_seed).capitalize()} "
+                f"using validated instruments and difference-in-differences "
+                f"estimation."
+            )
 
         # --- Expected contribution ---
-        contrib = _pick(_CONTRIBUTIONS, local_seed + 4)
+        contrib = _pick(_CONTRIBUTIONS, local_seed + 6)
 
         # --- Priority score (0–1) ---
         priority = round(
-            min(paper_count / 10.0, 1.0) * 0.25    # theme maturity
-            + (0.8 if gap_type == "sparse_theme" else 0.5) * 0.30  # gap urgency
-            + confidence * 0.25                     # theme confidence
-            + (1.0 - min(len(keywords) / 10.0, 1.0)) * 0.20,  # novelty (fewer kw = more novel)
+            min(paper_count / 10.0, 1.0) * 0.25
+            + (0.8 if gap_type == "sparse_theme" else 0.5) * 0.30
+            + confidence * 0.25
+            + (1.0 - min(len(kw_clean) / 10.0, 1.0)) * 0.20,
             3,
         )
 
         results.append(Hypothesis(
             research_question=rq,
             hypothesis=hyp,
-            iv=iv,
-            dv=dv,
+            rationale=_generate_rationale(hyp, label, gap_type),
+            measurable_variables=_generate_measurable_variables(intervention, specific_outcome.title(), hyp, label),
+            study_design=_generate_study_design(hyp, intervention, label),
+            iv=intervention,
+            dv=specific_outcome.title(),
             controls=controls,
             methodology=method,
             expected_contribution=contrib,
@@ -285,6 +430,157 @@ def _generate_hypotheses_for_theme(
         ))
 
     return results
+
+
+# ---------------------------------------------------------------------------
+# Rationale generation
+# ---------------------------------------------------------------------------
+
+_RATIONALES: Dict[str, List[str]] = {
+    "sparse_theme": [
+        "Despite growing interest in this area, the empirical evidence base remains thin. Testing this hypothesis would provide much-needed rigorous evidence to support or refute current assumptions.",
+        "Current literature offers conceptual frameworks but little causal evidence. This hypothesis targets a critical evidence gap where policy and practice decisions are being made without adequate empirical support.",
+        "Preliminary studies suggest an effect but lack statistical power and controls. A focused investigation would clarify whether the observed patterns hold under more rigorous conditions.",
+    ],
+    "future_direction": [
+        "Emerging trends point toward this relationship as a key driver of outcomes, yet no study has directly examined the causal pathway. This hypothesis would provide an early empirical test of a growing theoretical proposition.",
+        "Several recent reviews identify this as a priority area for future research. Addressing it would contribute to shaping the next generation of interventions and studies in the field.",
+        "Technological and methodological advances now make it feasible to test this relationship rigorously, where earlier work could only speculate. This hypothesis capitalises on those advances.",
+    ],
+    "generic": [
+        "The relationship between these constructs is frequently asserted but rarely tested directly. This hypothesis would provide the first dedicated empirical examination.",
+        "Existing studies approach this question indirectly or with limited scope. A purpose-designed investigation would resolve ambiguity in the current evidence base.",
+        "Practitioners and policymakers need clearer guidance on this question. Testing this hypothesis would produce actionable evidence for programme design and resource allocation.",
+    ],
+}
+
+_MEASURABLE_TEMPLATES: Dict[str, List[str]] = {
+    "iv": [
+        "Programme participation status (binary: enrolled / not enrolled)",
+        "Frequency of intervention exposure (sessions attended per month)",
+        "Intervention delivery modality (digital / in-person / blended)",
+        "Duration of engagement with the programme (weeks or months)",
+        "Dosage level (low / medium / high based on hours of contact)",
+        "Access to intervention resources (yes / no; count of resources used)",
+        "Implementation fidelity score (0-100 scale)",
+        "Self-reported adoption rate (Likert scale 1-5)",
+    ],
+    "dv": [
+        "Knowledge test score (standardised assessment, 0-100%)",
+        "Technology adoption rate (proportion of target practices adopted)",
+        "Behaviour change index (composite score of observed practices)",
+        "Productivity or yield (units per hectare or per worker)",
+        "Income or revenue change (percentage change from baseline)",
+        "Skill competency score (observed assessment rubric, 0-100)",
+        "Retention rate (proportion of knowledge or practice sustained at follow-up)",
+        "Self-efficacy scale (validated instrument, e.g. Likert 1-5)",
+        "Time to adoption (months from intervention start to first adoption)",
+        "Cost-effectiveness ratio (cost per unit outcome achieved)",
+    ],
+}
+
+_STUDY_DESIGNS: List[str] = [
+    "Cluster-randomised controlled trial with treatment and control villages, baseline and endline surveys, and stratified random sampling by agro-ecological zone.",
+    "Quasi-experimental difference-in-differences design comparing early and late adopters, with propensity score matching on observable characteristics.",
+    "Stepped-wedge randomised rollout across administrative units, with repeated cross-sectional surveys at each step to estimate the intervention effect.",
+    "Matched cohort study comparing programme participants with non-participants using coarsened exact matching on demographic and farm characteristics.",
+    "Mixed-methods sequential explanatory design: quantitative pre-post survey with embedded qualitative interviews to explore mechanisms and contextual factors.",
+    "Longitudinal panel study with three waves over 24 months, using fixed-effects models to estimate within-subject change over time.",
+    "Regression discontinuity design exploiting a programme eligibility threshold, with robustness checks using alternative bandwidths and polynomial orders.",
+    "Factorial randomised experiment testing two or more intervention components independently to identify which mechanisms drive outcomes.",
+]
+
+
+def _generate_qwen_rationale(hypothesis: str, theme: str, gap_type: str) -> Optional[str]:
+    try:
+        from src.agents.qwen_adapter import QwenAdapter
+        qwen = QwenAdapter()
+        prompt = (
+            f"Theme: {theme}\nHypothesis: {hypothesis}\n\n"
+            "Write a 2-3 sentence rationale for why this hypothesis is important "
+            "to test. Mention the specific gap it addresses, why existing evidence "
+            "is insufficient, and what answering it would contribute. "
+            "Return ONLY the rationale text."
+        )
+        result = qwen._call_model(prompt, max_new_tokens=120)
+        if result and len(result.split()) >= 15:
+            return result.strip().strip('"').strip("'")
+    except Exception:
+        pass
+    return None
+
+
+def _generate_qwen_variables(hypothesis: str, iv_label: str, dv_label: str, theme: str) -> Optional[str]:
+    try:
+        from src.agents.qwen_adapter import QwenAdapter
+        qwen = QwenAdapter()
+        prompt = (
+            f"Theme: {theme}\nHypothesis: {hypothesis}\n"
+            f"Independent variable: {iv_label}\nDependent variable: {dv_label}\n\n"
+            "List 2-3 specific, measurable indicators for each variable. "
+            "Format:\nIV: indicator1, indicator2\nDV: indicator1, indicator2\n"
+            "Return ONLY the formatted list."
+        )
+        result = qwen._call_model(prompt, max_new_tokens=100)
+        if result and len(result.split()) >= 8:
+            return result.strip().strip('"').strip("'")
+    except Exception:
+        pass
+    return None
+
+
+def _generate_qwen_study_design(hypothesis: str, iv_label: str, theme: str) -> Optional[str]:
+    try:
+        from src.agents.qwen_adapter import QwenAdapter
+        qwen = QwenAdapter()
+        prompt = (
+            f"Theme: {theme}\nHypothesis: {hypothesis}\n"
+            f"Independent variable: {iv_label}\n\n"
+            "Recommend one specific study design to test this hypothesis. "
+            "Describe the design type, comparison strategy, sampling approach, "
+            "and key methodological features. 2-3 sentences. "
+            "Return ONLY the design description."
+        )
+        result = qwen._call_model(prompt, max_new_tokens=120)
+        if result and len(result.split()) >= 15:
+            return result.strip().strip('"').strip("'")
+    except Exception:
+        pass
+    return None
+
+
+def _generate_rationale(hyp_text: str, theme: str, gap_type: str) -> str:
+    qwen = _generate_qwen_rationale(hyp_text, theme, gap_type)
+    if qwen:
+        return qwen
+    pool = _RATIONALES.get(gap_type, _RATIONALES["generic"])
+    seed = hash(hyp_text) % len(pool)
+    return pool[seed]
+
+
+def _generate_measurable_variables(iv_label: str, dv_label: str, hyp_text: str, theme: str) -> str:
+    qwen = _generate_qwen_variables(hyp_text, iv_label, dv_label, theme)
+    if qwen:
+        return qwen
+    seed = hash(hyp_text)
+    iv_pool = _MEASURABLE_TEMPLATES["iv"]
+    dv_pool = _MEASURABLE_TEMPLATES["dv"]
+    iv1 = iv_pool[seed % len(iv_pool)]
+    iv2 = iv_pool[(seed + 1) % len(iv_pool)]
+    dv1 = dv_pool[(seed + 2) % len(dv_pool)]
+    dv2 = dv_pool[(seed + 3) % len(dv_pool)]
+    return (
+        f"Independent Variable ({iv_label}): {iv1}; {iv2}.\n"
+        f"Dependent Variable ({dv_label}): {dv1}; {dv2}."
+    )
+
+
+def _generate_study_design(hyp_text: str, iv_label: str, theme: str) -> str:
+    qwen = _generate_qwen_study_design(hyp_text, iv_label, theme)
+    if qwen:
+        return qwen
+    seed = hash(hyp_text + theme) % len(_STUDY_DESIGNS)
+    return _STUDY_DESIGNS[seed]
 
 
 # ---------------------------------------------------------------------------
@@ -350,10 +646,13 @@ def _generate_report(
             lines.append(f"|-------|--------|")
             lines.append(f"| **Research Question** | {h.research_question} |")
             lines.append(f"| **Hypothesis** | {h.hypothesis} |")
+            lines.append(f"| **Rationale** | {h.rationale} |")
             lines.append(f"| **Independent Variable** | {h.iv} |")
             lines.append(f"| **Dependent Variable** | {h.dv} |")
+            lines.append(f"| **Measurable Variables** | {h.measurable_variables.replace(chr(10), '<br>')} |")
             lines.append(f"| **Control Variables** | {', '.join(h.controls)} |")
             lines.append(f"| **Suggested Methodology** | {h.methodology} |")
+            lines.append(f"| **Study Design Suggestion** | {h.study_design} |")
             lines.append(f"| **Expected Contribution** | {h.expected_contribution} |")
             lines.append(f"| **Priority Score** | {h.priority_score:.2f} (0–1) |")
             lines.append(f"| **Theme Classification** | {evo} |")
@@ -517,10 +816,13 @@ def main() -> None:
             "gap_type": h.gap_type,
             "research_question": h.research_question,
             "hypothesis": h.hypothesis,
+            "rationale": h.rationale,
             "iv": h.iv,
             "dv": h.dv,
+            "measurable_variables": h.measurable_variables,
             "controls": "; ".join(h.controls),
             "methodology": h.methodology,
+            "study_design": h.study_design,
             "expected_contribution": h.expected_contribution,
             "priority_score": h.priority_score,
         })
